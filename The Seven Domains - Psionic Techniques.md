@@ -574,6 +574,8 @@ And it is why the *defense* against it is unlike any other. Dominate is resisted
 
 **Philosophy:** The outbound read — everything a mind broadcasts and cannot help broadcasting. The eyes and ears of psionic work, and the one thing a psion innately *is*: a receiver.
 
+**Detection is not an act you perform. It is an act you *stop* performing.** Every other Domain adds something to the world; this one subtracts something from yourself. Using it is not reaching out but **releasing the hold** — letting through what bracing spends every waking moment keeping out — and closing it again afterward. The Domain's whole art is the width of that gap and how precisely it can be aimed. *(A psion at work does not look like someone straining. They look like someone who has briefly stopped concentrating.)*
+
 **Primary Use:** Reading surface thought and emotion, sensing minds and supernatural entities, feeling psionic activity, reading tether condition
 
 **Tether Strain:** **None.** Reading a broadcast is not a reach — the signal was already arriving, and the Domain only opens a specific gate rather than the whole floodgate. Nothing leaves you, so nothing wears. *You cannot fray by listening.* (Two exceptions, both of which are reaching rather than receiving: reading past the range at which the broadcast already reaches you, and **Trace**, which runs back down a live connection against a resisting quarry. Originating a Detection **broadcast** costs too — receiving is free, transmitting never is.)

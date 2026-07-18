@@ -66,6 +66,8 @@ Age, sheer will, and being supernatural do **not** count. The test is *is there 
 
 **Reception is free** — the whole Detection Domain. You cannot fray by listening. *Exceptions, both of which are reaching:* reading past the range the broadcast already reaches you, and **Trace**.
 
+> **Detection is not an act you perform. It is an act you *stop* performing.** Every other Domain adds something to the world; this one subtracts something from yourself. Using it is **releasing the hold** — letting through what bracing keeps out — which is why there is nothing to charge for. The Unshielded are not gifted with a sense; they are **missing the filter**. Training is having one. Dots are aiming it.
+
 **Containment tires but does not scar** — bracing is free outright; holding a **Barriers** wall costs Strain that never escalates and clears entirely with rest. No empty box to pay it? The wall does not go up.
 
 **Everything else frays**: Intrusion, Memory, Control, Projection, Kinesis, the *offensive* uses of Barriers (Mind Barbs, Feedback, Aegis over others), and **originating a broadcast**.

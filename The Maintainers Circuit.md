@@ -145,6 +145,16 @@ The distinction between a lattice binding construct and a dormant trigger constr
 
 This is why full knowledge of the MAD trigger mechanism is restricted even within the Maintainer Circuit. The institutional logic is sound: the fewer people who understand the trigger network's architecture, the fewer potential points of compromise. The emotional consequence is that some Maintainers — the ones who are good enough at their jobs to reason from first principles — live with the knowledge that the technique they use to connect a child to the lattice is the same technique, differently configured, that has been used to install dormant weapons in millions of mundane minds.
 
+### What Integration Actually Does
+
+There is a second thing a Maintainer of sufficient skill works out unaided, and it is arguably worse than the first.
+
+The lattice is not a network the MetaConcert *owns and looks through.* It is a **bus** — a shared channel that a broadcast instruction can be placed on, reaching every mind bound to it regardless of distance (see *Broadcast* in [The Seven Domains — Game Mechanics](The%20Seven%20Domains%20-%20Game%20Mechanics.md)). Which means a bound Gifted is not merely *reachable* by the institution. They are **addressable**. They are part of what the institution runs on.
+
+This reframes the Circuit's founding work entirely. Integration is presented — sincerely, by people who believe it — as connection, protection, and belonging: the child is no longer alone, no longer invisible, no longer at the mercy of a Trigger nobody witnessed. All of that is true. It is also, simultaneously, an enlistment. Every child a Maintainer binds is another node on a distributed apparatus made of people, and this is the unstated reason the MetaConcert cannot tolerate an off-lattice Gifted. An unbound psion is not only unmonitored. They are **unavailable capacity** — and an institution built this way wants every node up for the same reason anyone who owns a machine wants all of it working.
+
+The Maintainers who reach this conclusion generally do not stop performing Integrations. The binding genuinely does protect the child, and the alternative genuinely is worse. They simply stop being able to describe their work in only one word.
+
 They do not discuss this knowledge. They do not confirm it when other Maintainers approach the realization. They simply carry it, alongside everything else they carry, and continue doing their work.
 
 ---

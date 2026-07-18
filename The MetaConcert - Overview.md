@@ -22,7 +22,7 @@ The MetaConcert maintains order through the capacity for total awareness, preemp
 
 The lattice is not metaphor. It is a literal psychic network — an infrastructure of binding constructs that connects every initiated Gifted into a shared signal architecture.
 
-The lattice is a *network*, not a *broadcast*. Being connected to the lattice does not mean your thoughts are constantly streaming to everyone else on it. It means you are *on the network* — connected, addressable, reachable. The default state of an initiated Gifted on the lattice is simply: connected. Not transmitting. Not receiving. Present, in the way a computer on a network is present — available for communication, accessible to authorized users, but not constantly pinging every other node.
+Being connected to the lattice does not mean your thoughts are constantly streaming to everyone else on it. It means you are *on the network* — connected, addressable, reachable. The default state of an initiated Gifted on the lattice is simply: connected. Not transmitting. Not receiving. Present, in the way a computer on a network is present — available for communication, accessible to authorized users, but not constantly pinging every other node.
 
 The analogy to a computer network is more precise than the musical metaphor the name seems to invite. Being on the lattice is like being on a corporate network: your machine is connected, IT can remote in and observe your activity if they choose to, other users can send you messages or establish connections, and certain network-level monitoring runs in the background at all times. But the person at the next desk is not constantly receiving your screen output. You are not passively broadcasting. You are simply *on*.
 
@@ -42,7 +42,7 @@ The analogy to a computer network is more precise than the musical metaphor the 
 
 **How integration works:**
 
-When a child expresses the Talent, Circuits locate them quickly — usually within days or weeks. The child is brought to an Integration center where Integrator specialists teach bracing, provide foundational training, and prepare the child for lattice binding.
+When a child Triggers, Circuits locate them quickly — usually within days or weeks. The child is brought to an Integration center where Integrator specialists teach bracing, provide foundational training, and prepare the child for lattice binding.
 
 The Maintainer then performs the binding: installing a binding construct — a persistent psionic structure — in the child's mind that establishes and sustains their connection to the lattice network.
 
@@ -62,7 +62,7 @@ A Gifted on the lattice cannot tell when the Panopticon is actively monitoring t
 
 **Barriers in the network model:**
 
-Barriers do not muffle a broadcast signal — there is no broadcast to muffle. What Barriers do is make a node harder to read when someone actively accesses it. A Gifted with strong Barriers is like an encrypted node on the network: still connected, still addressable, but when the Panopticon remotes in, they get noise instead of clear data.
+Barriers are not a mute button — there is nothing streaming out of you to silence. What Barriers do is make a node harder to read when someone actively accesses it. A Gifted with strong Barriers is like an encrypted node on the network: still connected, still addressable, but when the Panopticon remotes in, they get noise instead of clear data.
 
 - Basic Barriers (●-●●) provide light encryption — casual observation is degraded but dedicated effort breaks through
 - Advanced Barriers (●●●+) provide meaningful resistance — the Panopticon can still read you but has to work for it, and the effort is detectable to skilled Barriers users
@@ -95,7 +95,7 @@ The Circuits are listed here in founding order. The sequence is not incidental �
 
 **[The Panopticon](The%20Panopticon%20Circuit.md)** (Domain: Detection) — Surveillance, intelligence gathering, and tether monitoring. Once the lattice existed, someone needed visibility into it. Maintainers declined — infrastructure engineering and surveillance are different problems.
 
-**[The Integrators](The%20Integrators%20Circuit.md)** (Domain: Intrusion) — Training and safe development of newly Expressed Gifted. Before the Integrators existed, newly Expressed children were being handled by the Inquisition. By default. With Inquisition personnel and Inquisition protocols. The unanimous reaction from every other Circuit when this was acknowledged out loud created the mandate for a dedicated integration institution.
+**[The Integrators](The%20Integrators%20Circuit.md)** (Domain: Intrusion) — Training and safe development of newly Triggered Gifted. Before the Integrators existed, newly Triggered children were being handled by the Inquisition. By default. With Inquisition personnel and Inquisition protocols. The unanimous reaction from every other Circuit when this was acknowledged out loud created the mandate for a dedicated integration institution.
 
 **[The Preservers](The%20Preservers%20Circuit.md)** (Domain: Memory) — Information management, historical records, and institutional memory. An institution that believes it will last develops an interest in its own narrative.
 
@@ -143,7 +143,7 @@ Membership is the line between a person and a unit.
 
 A Gifted who belongs to a Circuit is shielded by that Circuit's sovereignty. The Circuits guard their own; one does not reach into another's ranks uninvited, the way one department does not quietly audit another's staff. This is not affection — it is the territorial logic by which seven rival powers share a single institution without tearing it apart. But for the individual Gifted it functions, in practice, as a set of rights: claimed by a Circuit, you are someone the system must process through channels.
 
-The unclaimed have no such protection. A newly Expressed Gifted — integrated but not yet assigned; a ward in Integrator development; a trainee; a "developing case" — belongs to no Circuit, and so is shielded by none. In the only grammar the institution truly speaks, the unassigned are not yet *members;* they are *assets,* *specimens,* *units* — resources the managing Circuit may dispose of as it judges fit. Personhood, inside the MetaConcert, is conferred by belonging. Until a Circuit has claimed you, you are inventory.
+The unclaimed have no such protection. A newly Triggered Gifted — integrated but not yet assigned; a ward in Integrator development; a trainee; a "developing case" — belongs to no Circuit, and so is shielded by none. In the only grammar the institution truly speaks, the unassigned are not yet *members;* they are *assets,* *specimens,* *units* — resources the managing Circuit may dispose of as it judges fit. Personhood, inside the MetaConcert, is conferred by belonging. Until a Circuit has claimed you, you are inventory.
 
 This matters most against **Praxis,** the Circuit that performs Correction — the rebuilding of a mind from the inside. Praxis does not Correct another Circuit's members; their sovereignty forbids it. But Praxis has, in living institutional memory, moved to extend its "stability" procedures past the frayed and the criminal to the merely *unmanageable* — the uncooperative, the incompatible, the unit that will not behave. For the unclaimed, that is the distance between a self and a revision.
 
@@ -168,7 +168,7 @@ The MetaConcert maintains complex relationships with other supernatural factions
 
 **What MetaConcert wants:**
 - Kindred non-interference in Gifted politics
-- No attempts to Embrace Gifted (absolute taboo — the Embrace destroys the Talent and the lattice reads it as a death; see [Cross-Splat Edge Cases](Cross-Splat%20Edge%20Cases.md))
+- No attempts to Embrace Gifted (absolute taboo — the Embrace destroys the power and the lattice reads it as a death; see [Cross-Splat Edge Cases](Cross-Splat%20Edge%20Cases.md))
 - No Dominate usage on Gifted (doesn't work well anyway)
 - Information sharing on mutual threats
 
@@ -204,7 +204,7 @@ MetaConcert provides cleanup crews for Masquerade breaches. Memory/Intrusion spe
 - Recognition as separate and autonomous
 
 **The standoff:**
-Technocracy *could* potentially destroy MetaConcert through sustained military action. MetaConcert *would* respond by broadcasting existence of Technocracy, mages, and reality manipulation to mundane population, shattering Consensus.
+Technocracy *could* potentially destroy MetaConcert through sustained military action. MetaConcert *would* respond by releasing the trigger network — surfacing what the mundane population was quietly loaded with decades ago about the Technocracy, mages, and reality manipulation, shattering Consensus.
 
 Neither side wants escalation. Both maintain tense distance.
 
@@ -333,7 +333,9 @@ More pragmatic Councilors recognize that attacking Garou tribes would be catastr
 
 The MetaConcert's ultimate deterrent is not military might, psychic power, or political influence. It is the credible threat to destroy every supernatural faction's carefully maintained secrecy if faced with existential threat.
 
-**What other factions believe the weapon is:** A lattice-coordinated mass Memory broadcast — every MetaConcert Memory specialist simultaneously projecting detailed false memories of vampires, werewolves, and mages into the minds of mundane populations. Cities full of people who suddenly "remember" witnessing things that cannot be explained. The Masquerade shattered. The Veil torn. The Consensus broken.
+**What other factions believe the weapon is:** A lattice-coordinated **content broadcast** — every MetaConcert Memory specialist simultaneously projecting detailed false memories of vampires, werewolves, and mages into the minds of mundane populations. Cities full of people who suddenly "remember" witnessing things that cannot be explained. The Masquerade shattered. The Veil torn. The Consensus broken.
+
+**Why that weapon could never have existed.** Broadcast psionics carries only an instruction that is identical for every mind and needs to know nothing about any of them (see [The Seven Domains — Game Mechanics](The%20Seven%20Domains%20-%20Game%20Mechanics.md), "Broadcast"). Pushing *content* fails that test at the first step: the memory has to be fitted to a particular life, and five thousand lives need five thousand fittings. It does not scale, it has never scaled, and it could not be done at the moment of crisis by any number of specialists working in concert. The weapon every faction in the World of Darkness has spent a century deterring itself with is not merely the wrong weapon. It is one that no one could have built.
 
 **What the weapon actually is:** Something considerably worse.
 
@@ -359,6 +361,10 @@ Triggering the network does not require the full MetaConcert. It does not requir
 
 The signal propagates through existing psionic infrastructure — not the lattice, which is internal to the MetaConcert, but the ambient psionic field that exists wherever large numbers of minds are present. It is, in effect, already waiting to be sent.
 
+**And this is why it cannot be jammed.** The instruction is one bit wide. It is not *forget the vampire* or *remember the alley behind the theatre* — it is **stop forgetting**, identical for every construct in the world, carrying no content whatever, because the content was delivered decades ago by hand, one witness at a time. Interdicting a network to stop a heavy payload is a coherent plan. Interdicting one to stop a single bit is not: it will find a path through a crippled lattice, through the ambient field, through a lone relay, through the constructs themselves. The simplicity that makes the trigger nearly free to send is the same property that makes it impossible to stop. There is no bandwidth to deny.
+
+It is also why **one** senior Gifted suffices where the content model would demand an army. They are not the transmitter. The population is. The key-holder only says *now*.
+
 This is why the MAD doctrine is functionally impossible to neutralize by eliminating the MetaConcert. The trigger network is already out there. The constructs are already installed. Killing every MetaConcert member before one of them sends the signal requires perfection. The signal requires survival of one sufficiently senior Gifted with the activation key.
 
 No faction has ever attempted to solve this problem because no faction that knows the truth of the mechanism has any interest in the answer becoming widely known.
@@ -373,15 +379,21 @@ What the MetaConcert took from this: the activation is clean, fast, and produces
 
 **The Misconception the MetaConcert Does Not Correct**
 
-Most factions — including most Kindred, most Garou, and the Technocracy's public-facing analysis — believe MAD works through broadcast: Memory specialists pushing content into minds at the moment of crisis. This model implies that eliminating the MetaConcert quickly enough, or jamming the lattice, or otherwise preventing coordinated action at the critical moment, could stop the deployment.
+Most factions — including most Kindred, most Garou, and the Technocracy's public-facing analysis — believe MAD works through a **content broadcast**: Memory specialists pushing the memories themselves into minds at the moment of crisis. This model implies that eliminating the MetaConcert quickly enough, or jamming the lattice, or otherwise preventing coordinated action at the critical moment, could stop the deployment.
 
 The MetaConcert has never corrected this misconception.
 
-The broadcast model is scary. The trigger model is something else. The broadcast model implies a race condition that the aggressor might win. The trigger model implies that every mundane who has ever been memory-corrected by a MetaConcert cleanup crew is already loaded. The cleanup operations that factions pay for and rely on and consider evidence of MetaConcert cooperation are the delivery mechanism. Every session of Masquerade maintenance has been a session of mutual hostage-taking, with the mundane population as the hostages.
+Both models are broadcasts. The entire difference is how much is being pushed through — and that difference is everything. A **content broadcast** would have to carry a lifetime's worth of fitted memory to every mind at once; it is heavy, it is slow, it diverges per person, it needs the whole institution awake and coordinated at the worst possible hour, and it does not work. A **signal broadcast** carries one bit. The heavy half was paid decades ago, by hand, in daylight, as a favour to the people it was being paid against.
+
+The content model is scary. The signal model is something else. The content model implies a race condition that the aggressor might win. The signal model implies that every mundane who has ever been memory-corrected by a MetaConcert cleanup crew is already loaded. The cleanup operations that factions pay for and rely on and consider evidence of MetaConcert cooperation are the delivery mechanism. Every session of Masquerade maintenance has been a session of mutual hostage-taking, with the mundane population as the hostages.
 
 A faction that fully understood this would have to confront not only that MAD cannot be prevented by destroying the MetaConcert fast enough, but that it cannot be prevented by not destroying the MetaConcert either. The trigger network exists. It will exist until someone dismantles it construct by construct across centuries of affected population. That is not a project anyone has the resources or coordination to undertake.
 
-The Camarilla does not know this. The Garou do not know this. The Technocracy suspects something but has not confirmed it. A small number of senior MetaCouncil members know the full truth. A slightly larger number know enough to understand why the deterrent works so much better than a broadcast model would explain.
+**The asymmetry is structural, and it is worth naming plainly.** Arming this weapon **converged**: it rode along on work that was being done anyway, one witness at a time, by technicians who each believed they were performing a cleanup, and who were never asked to do anything extra. Firing it converges too — one instruction, one bit, one word. But *disarming* it **diverges**. Every construct sits in a different mind, in a different city, in a different life, and each must be found and unmade individually, by someone with master-level Memory work, against a population that does not know it is carrying anything and cannot be told without detonating the very thing being defused.
+
+The MetaConcert did not build a doomsday weapon. It **accreted** one, as the byproduct of a service it performs for its enemies. And the reason no one can take it apart is not that the job is large. It is that the job has the wrong shape.
+
+The Camarilla does not know this. The Garou do not know this. The Technocracy suspects something but has not confirmed it. A small number of senior MetaCouncil members know the full truth. A slightly larger number know enough to understand why the deterrent works so much better than a content broadcast would explain.
 
 Project Parasyte almost certainly has fragments of this. What they've done with those fragments is unknown.
 
@@ -457,7 +469,7 @@ No one who knows the full truth has found a solution. Most people who know the f
 *What I need is for the 3 AM calls to stop. Lattice instability. Cascade risk from a violent death in sector seven. Someone's binding degrading because they're approaching Stage 4 and the construct is starting to reflect the tether's condition back into the network. The lattice is thousands of minds and I am responsible for the architecture holding them together. When it works, nobody sees it. When it breaks, people die — not from the Inquisition, not from psidolons, from my failure to catch something I should have caught. That's the job. I knew what it was when I took it."*
 
 **Preserver perspective:**
-*"I maintain the archives. Every decision, every precedent, every technique. The institutional memory that keeps us functional. I also edit records when Council orders it. Delete inconvenient truths. Rewrite narratives. I'm a scholar who burns books. The cognitive dissonance is... significant. But I tell myself: stability requires consensus, consensus requires managed truth, managed truth requires someone willing to do the editing. If not me, someone less careful. Someone who might lose the actual truth entirely. So I maintain secret backups. Unedited versions. Hidden where Council won't find them. Maybe someday they'll matter. Probably not. But I preserve both versions—official and real. That's my compromise with conscience."*
+*"I maintain the archives. Every decision, every precedent, every protocol. The institutional memory that keeps us functional. I also edit records when Council orders it. Delete inconvenient truths. Rewrite narratives. I'm a scholar who burns books. The cognitive dissonance is... significant. But I tell myself: stability requires consensus, consensus requires managed truth, managed truth requires someone willing to do the editing. If not me, someone less careful. Someone who might lose the actual truth entirely. So I maintain secret backups. Unedited versions. Hidden where Council won't find them. Maybe someday they'll matter. Probably not. But I preserve both versions—official and real. That's my compromise with conscience."*
 
 ---
 

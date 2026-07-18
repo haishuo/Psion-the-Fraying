@@ -8,7 +8,7 @@
 
 ## Overview
 
-**Function:** Training and safe development of newly Expressed Gifted
+**Function:** Training and safe development of newly Triggered Gifted
 
 **Domain Specialization:** Intrusion
 
@@ -20,7 +20,7 @@
 
 ## What the Integrators Actually Are
 
-The Integrators are the MetaConcert's educators. They locate newly Expressed children, resolve the Unshielded state through bracing, teach foundational psionic technique, prepare children for lattice binding, and provide the ongoing training that turns a frightened kid with an ability they don't understand into a functioning Gifted who won't accidentally kill someone or fray themselves to death.
+The Integrators are the MetaConcert's educators. They locate newly Triggered children, resolve the Unshielded state through bracing, teach foundational psionic technique, prepare children for lattice binding, and provide the ongoing training that turns a frightened kid with an ability they don't understand into a functioning Gifted who won't accidentally kill someone or fray themselves to death.
 
 They are the face of Integration — the warm, patient presence that a frightened child first encounters. They explain. They reassure. They teach. In an institution defined by surveillance, enforcement, and preemptive execution, the Integrators are the people who sit on the floor with a crying child and say: *I know this is scary. I'm going to help you understand what's happening. You're going to be okay.*
 
@@ -30,11 +30,11 @@ Many of them mean it. That is the Integrators' defining characteristic and their
 
 ## Founding Context
 
-The Integrators are the fifth Circuit. Before they existed, newly Expressed children were being handled by the Inquisition.
+The Integrators are the fifth Circuit. Before they existed, newly Triggered children were being handled by the Inquisition.
 
 This happened by default rather than by design. In the early MetaConcert, when a Panopticon sweep detected an Unshielded signature, the response was dispatched from whatever operational capacity was available. The Inquisition had the fieldwork capability, the personnel, and the institutional willingness to handle difficult situations involving unknown psionic actors. They were sent.
 
-Inquisitors approached newly Expressed children with Inquisition protocols: threat assessment first, containment second, everything else after. They were not cruel — Inquisitors are disciplined, not sadistic — but they were equipped for threat management, not child psychology. The child's first experience of the MetaConcert was being assessed as a potential danger by someone trained to kill potential dangers. The child's second experience was being handed to a Maintainer for binding.
+Inquisitors approached newly Triggered children with Inquisition protocols: threat assessment first, containment second, everything else after. They were not cruel — Inquisitors are disciplined, not sadistic — but they were equipped for threat management, not child psychology. The child's first experience of the MetaConcert was being assessed as a potential danger by someone trained to kill potential dangers. The child's second experience was being handed to a Maintainer for binding.
 
 The fact that this system operated for years before anyone raised a formal objection says something about the MetaConcert's institutional priorities during that period. The fact that every other Circuit reacted with unanimous horror when it was finally acknowledged out loud says something about what they became afterward. The Inquisition's response — "we've been handling it fine" — remains the most revealing thing they have ever said about themselves.
 
@@ -58,9 +58,9 @@ Whether she was Gifted — whether the bracing of a frightened child and the sha
 
 Bracing is always the first technique taught — before Domain theory, before lattice orientation, before any formal instruction. It is the intervention that resolves the Unshielded state and makes everything else possible.
 
-The Integrator performs a light, controlled Intrusion into the newly Expressed child's mind and holds it. Not to read. Not to manipulate. Simply to be present, so the child can feel what an external mental presence feels like against their own. Then the Integrator tells them: push me out. Learn what that feels like. Do it again.
+The Integrator performs a light, controlled Intrusion into the newly Triggered child's mind and holds it. Not to read. Not to manipulate. Simply to be present, so the child can feel what an external mental presence feels like against their own. Then the Integrator tells them: push me out. Learn what that feels like. Do it again.
 
-This is bracing — a proto-Thoughtshield, a felt sense of mental boundary before the child has vocabulary for what a boundary is. It is experiential learning of the most fundamental kind: you cannot describe what a mental boundary feels like; you have to teach someone to feel it and then reproduce it. The Integrator can only show them the shape of the problem and wait.
+This is bracing — the skin drawn around a mind that has never had one, quieting the child's own broadcast and damming the flood of everyone else's surface thought in the same act; a felt sense of mental boundary before the child has vocabulary for what a boundary is. It is not the Barriers Domain, the trained armor against a directed intrusion; it is the baseline membrane, taught before any Domain and carried beneath them all. It is experiential learning of the most fundamental kind: you cannot describe what a mental boundary feels like; you have to teach someone to feel it and then reproduce it. The Integrator can only show them the shape of the problem and wait.
 
 It is the one moment in MetaConcert practice that is genuinely collaborative. The child has to do it themselves. The Integrator cannot install bracing the way a Maintainer installs a binding construct. They can demonstrate, guide, encourage — but the child must produce the boundary from their own mind. The child pushes back against the Intrusion, feels the shape of their own resistance, and learns to hold it. Once bracing is established, the child is no longer Unshielded. The bidirectional thought leakage stops. The psychic overload begins to recede. Everything else in their training builds on this foundation.
 
@@ -72,7 +72,7 @@ After bracing, the Integrator's work shifts to formal education. Domain theory �
 
 The training is genuinely good. Praxis systematized the foundational techniques; the Integrators teach them with a pedagogical skill that Praxis never bothered to develop. An Integrator-trained Gifted emerges with a solid understanding of their abilities, the discipline to use them safely, and the knowledge necessary to avoid fraying themselves to death. This is not indoctrination pretending to be education. It is real education that happens alongside indoctrination, and the two are difficult to separate because the MetaConcert's factual claims about psionic mechanics are largely accurate. The tether does fray. Psidolons are real. Uncontrolled use is genuinely dangerous. The Integrators teach these facts honestly. They also teach that the MetaConcert's response to these facts is the only possible response, which is where education becomes doctrine.
 
-The children are not positioned to evaluate this claim. They are frightened, newly Expressed, recently separated from their families, and dependent on the Integrator as their primary source of understanding and safety. The Integrator who teaches a child that the MetaConcert exists to protect them is telling the truth, partially. The child has no framework for recognizing which parts are incomplete.
+The children are not positioned to evaluate this claim. They are frightened, newly Triggered, recently separated from their families, and dependent on the Integrator as their primary source of understanding and safety. The Integrator who teaches a child that the MetaConcert exists to protect them is telling the truth, partially. The child has no framework for recognizing which parts are incomplete.
 
 ### Preparing for Binding
 
@@ -130,7 +130,7 @@ This is the pairing with the most productive tension in the entire structure. In
 
 And it is the primary Domain of the kindest Circuit.
 
-The assignment makes sense once you understand what teaching a newly Expressed child actually requires. You have to be able to read someone to teach them. The Integrator who performs bracing must Intrude into the child's mind — gently, carefully, with clinical precision — to demonstrate what an external mental presence feels like. The Integrator who assesses a student's progress must be able to perceive their mental state directly, not through behavioral observation but through the immediate knowledge that Intrusion provides. The Integrator who calibrates training to a specific child's needs must understand that child's mind from the inside, must feel where the fear is and where the capability is and where the blocks are, in order to teach effectively.
+The assignment makes sense once you understand what teaching a newly Triggered child actually requires. You have to be able to read someone to teach them. The Integrator who performs bracing must Intrude into the child's mind — gently, carefully, with clinical precision — to demonstrate what an external mental presence feels like. The Integrator who assesses a student's progress must be able to perceive their mental state directly, not through behavioral observation but through the immediate knowledge that Intrusion provides. The Integrator who calibrates training to a specific child's needs must understand that child's mind from the inside, must feel where the fear is and where the capability is and where the blocks are, in order to teach effectively.
 
 This is not surveillance. It is pedagogy. It is also Intrusion — the same Domain the Panopticon uses for deep investigation, the Inquisition uses for interrogation, and Praxis uses for interventional study. The Integrators' version is gentler. It is not different in kind. The child who learns to brace is learning to push back against the same technique that will be used on them if they are ever interrogated.
 
@@ -144,7 +144,7 @@ The Integrators know this. The ones who think about it develop a specific relati
 - Broad Domain knowledge (must teach basics across all seven Domains)
 - Strong Barriers (to protect against untrained psionic outbursts from Unshielded and early-training children)
 - Adequate Detection (for assessing student progress and tether condition)
-- Adequate Memory (for the parental correction procedures that are standard operational responsibility)
+- Adequate Memory
 - Patient, empathetic personality — genuine, not performed; the selection process filters for actual warmth
 - Experience with child psychology or developmental pedagogy
 - Capacity to form attachments and then release them — the children move on; the Integrator stays
@@ -177,13 +177,13 @@ All three assessments are correct.
 
 ## Inter-Circuit Relationships
 
-**With the Inquisition:** The most uncomfortable relationship in the MetaConcert. The Inquisition handles the people the Integrators trained. When an Inquisitor is dispatched to handle someone an Integrator taught, the Integrator remembers teaching that person to brace. The Inquisitor does not have the luxury of remembering. The Inquisition considers the Integrators soft. The Integrators consider the Inquisition a necessary evil. Both are right. The pre-Integrator history — the Inquisition handling newly Expressed children by default — sits between them as an unacknowledged debt. The Integrators exist because the Inquisition should never have been doing their job. The Inquisition has never formally acknowledged this.
+**With the Inquisition:** The most uncomfortable relationship in the MetaConcert. The Inquisition handles the people the Integrators trained. When an Inquisitor is dispatched to handle someone an Integrator taught, the Integrator remembers teaching that person to brace. The Inquisitor does not have the luxury of remembering. The Inquisition considers the Integrators soft. The Integrators consider the Inquisition a necessary evil. Both are right. The pre-Integrator history — the Inquisition handling newly Triggered children by default — sits between them as an unacknowledged debt. The Integrators exist because the Inquisition should never have been doing their job. The Inquisition has never formally acknowledged this.
 
 **With Praxis:** An ethically revealing relationship. The Integrators teach techniques that Praxis systematized. They use protocols that Praxis developed. They teach children to understand their own minds using a framework — the Domain taxonomy — that Praxis built. The framework shapes how those children conceive of their own abilities, which means Praxis invented the language every Gifted uses to understand themselves, and the Integrators are the delivery mechanism. The Integrators try not to think about whether the framework they teach might be subtly constraining what their students can conceive of doing. Praxis has a research paper about this that remains classified.
 
 **With the Maintainers:** The closest operational partnership. Integrators prepare; Maintainers bind. The division is clean, the handoff is practiced, and the emotional dynamics are complex. The Integrator builds the relationship. The Maintainer performs the procedure. The child experiences them as part of the same process, but the Integrator and the Maintainer carry different weights. The Integrator carries the relational weight — the trust the child placed in them, now being used to facilitate something the child cannot meaningfully consent to. The Maintainer carries the technical weight — the knowledge of exactly what the binding construct does and what it means for the rest of the child's life. Neither fully appreciates the other's burden, and this is probably necessary for both to continue functioning.
 
-**With the Panopticon:** A relationship structured around the detection-to-integration pipeline. The Panopticon finds newly Expressed children through Unshielded sweeps; the Integrators respond. This makes the Integrators operationally dependent on the Panopticon's surveillance infrastructure for their most morally justifiable function. The Integrators would prefer the detection function to exist independently of the broader surveillance apparatus. It does not. The Panopticon that finds children in distress is the same Panopticon that will monitor those children for the rest of their lives. The Integrators are aware of this continuity and uncomfortable with it. The Panopticon considers the Integrators' discomfort impractical.
+**With the Panopticon:** A relationship structured around the detection-to-integration pipeline. The Panopticon finds newly Triggered children through Unshielded sweeps; the Integrators respond. This makes the Integrators operationally dependent on the Panopticon's surveillance infrastructure for their most morally justifiable function. The Integrators would prefer the detection function to exist independently of the broader surveillance apparatus. It does not. The Panopticon that finds children in distress is the same Panopticon that will monitor those children for the rest of their lives. The Integrators are aware of this continuity and uncomfortable with it. The Panopticon considers the Integrators' discomfort impractical.
 
 **With the Preservers:** A relationship of quiet tension around the parental correction records. The Preservers archive correction procedures — including the specific details of which families were corrected, which memories were altered, and which form the correction took. The Integrators generate these records as standard operational documentation. The Preservers maintain them. The question of whether these records could ever be used to reverse corrections — to restore a family's memory of a child — is theoretically interesting and institutionally forbidden. The Preservers know the records exist. The Integrators know the Preservers know. Neither Circuit discusses the possibility because discussing it would transform a dormant capability into an active political question.
 
@@ -193,7 +193,7 @@ All three assessments are correct.
 
 ## What Other Factions Know
 
-The Integrators are the MetaConcert Circuit most likely to be encountered by external factions, because their work sometimes intersects with mundane and supernatural communities. A newly Expressed child who has already attracted attention from other factions — a Kinfolk family, a Technocracy monitoring station, a Tradition mentor who noticed the awakening — will have Integrators arriving to claim them. This produces occasional encounters.
+The Integrators are the MetaConcert Circuit most likely to be encountered by external factions, because their work sometimes intersects with mundane and supernatural communities. A newly Triggered child who has already attracted attention from other factions — a Kinfolk family, a Technocracy monitoring station, a Tradition mentor who noticed the awakening — will have Integrators arriving to claim them. This produces occasional encounters.
 
 External factions tend to see the Integrators favorably, or at least more favorably than other Circuits. The Camarilla knows the MetaConcert has people who handle new Gifted and considers them a stabilizing function — a trained Gifted is less likely to cause Masquerade-threatening incidents than an untrained one. The Traditions have encountered Integrators during contested "recruitment" situations and found them professional and genuinely concerned for the child's welfare, even when the encounter is adversarial.
 

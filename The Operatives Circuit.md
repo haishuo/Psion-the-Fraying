@@ -84,6 +84,48 @@ What is not routine — what the cleanup teams do not discuss with the Camarilla
 
 The Operatives coordinate all of this. They are the only Circuit besides the MetaCouncil that understands the full picture of what cleanup operations actually accomplish.
 
+### The Standing Order: Cleanup Before the Fact
+
+The most valuable version of the arrangement is the one a Prince requests *in advance.*
+
+A Prince cannot always prevent violence. Sometimes the Sabbat are coming, the ground is urban, and the breach is not a risk to be managed but an appointment to be kept. What he can do is call ahead: *from 11:40 to 11:50, nobody in these six blocks remembers anything.*
+
+Every Kindred who has ever heard the request understands instinctively what is being asked for, and every one of them is wrong. Mental work scales: one mind is a night's effort, a household is a project, and five thousand is a number no Tremere chantry in the world would take on without a ritual of legendary scale and half its membership in the room. A Prince asking for six city blocks believes he is asking for something close to a miracle. He is reasoning correctly from every frame of reference he has, and he arrives at a number that has nothing to do with anything.
+
+**So he is charged what it looks like.**
+
+The negotiation is conducted accordingly. The request is *received*, never simply granted. It goes to the Council. It takes days, during which it is genuinely debated, though not about what the Prince imagines. The word used in correspondence is *extraordinary*. Teams mobilise visibly on the night, some of whom have very little to do. Afterward there are remarks about the toll on the specialists and the length of their recovery. And every few years, somewhere in the world, a request of exactly this kind is **refused** — because a resource that is never withheld is a resource no one believes is scarce, and the refusals are worth more than the fees.
+
+**The price is prestation, and this is deliberate.** The MetaConcert does not want money, territory it cannot use, or concessions that expire. It wants what the Camarilla itself considers the only real currency: **a boon**, owed by a Prince, unspecified, redeemable at a time of the creditor's choosing. Nothing else available at the table is worth as much. A named concession is finite and can be paid off; an open obligation held by a power outside Kindred society compounds quietly for centuries, cannot be discharged by anyone else on the Prince's behalf, and — this is the elegant part — is a debt he considers *entirely legitimate*, incurred honourably, in a system he believes in. He does not experience being robbed. He experiences having done business properly with a useful and slightly humiliating outsider.
+
+The Operatives keep the ledger. It is the largest single body of Kindred obligation held by any entity in the World of Darkness, and no one in the Camarilla has ever assembled the whole picture of it, because no one Prince ever sees more than his own line.
+
+---
+
+**What the Operatives know, and the Camarilla does not.**
+
+The cost curve is flat. That is the entire secret, and every element of the arrangement above rests on it.
+
+A field correction across six blocks is one instruction, indexed on a clock rather than on what anybody saw, delivered by one master in a single act, and followed by sampling rather than by hunting witnesses through a city (see *Broadcast* in [The Seven Domains — Game Mechanics](The%20Seven%20Domains%20-%20Game%20Mechanics.md)). It is not harder than the reactive cleanups the Circuit performs as routine favours. **It is easier** — faster, cheaper in tether, and vastly more certain. The margin runs backwards: the grander the request appears from outside, the less it actually costs to grant, which means the MetaConcert can afford to be most generous precisely where generosity purchases the most.
+
+This is not a simple deception, and the Operatives who dislike it least are the ones who understand why. The work is genuinely cheap **in tether** and genuinely expensive **in authority.** What is scarce is not effort. It is a Gifted at master rating, and far more so the credential to place an instruction on the lattice at all — a privilege of the same class as the MAD activation itself, never routine, never delegated, visible to the MetaCouncil every single time it is exercised.
+
+**And that is why the price must stay high.** If the Camarilla ever grasped that mass memory work is cheap, the next question is *why*, and the answer to *why* is the shape of the lattice as a delivery system — which is one short inference from how MAD is actually deployed. The inflated invoice is not merely profitable. It is a wall around the only secret that matters. Let a Prince believe the constraint is effort, because effort is a thing he can price. He must never learn the constraint is permission.
+
+**Which is what he is actually purchasing: two things he did not ask for.**
+
+The first is **bulk**. Every corrected mind takes a dormant construct, and a proactive field correction takes six blocks of them in one pass. Reactive cleanup at least has necessity as its excuse — the thing already happened, the witnesses already exist. A standing order means the Camarilla is *volunteering* its own mortal population into the trigger network, in advance, on its own initiative, at a scale no reactive operation could reach, and filing the paperwork under prudence. The better the Prince — the further ahead he sees, the more carefully he prepares — the faster he loads the weapon that is pointed at him. Foresight is the delivery mechanism.
+
+The second is a **census**. Anyone in that field who kept the ten minutes was excluded from the instruction, and only a purpose-built mental defence excludes you. The crews who go in afterward are not merely confirming the work took; they are collecting the names of every mind in six city blocks that psionics could not touch — psions, shielded mages, disciplined mortals, and stranger things. The Prince commissioned a memory service. He also delivered a map of every defended mind in his own territory, compiled at his request and paid for by him.
+
+Neither is disclosed. Neither ever has been. The Camarilla continues to regard the arrangement as evidence of a useful and slightly humiliating dependency, which is exactly the impression the Operatives are employed to maintain.
+
+**The exposure this creates is the Circuit's quietest nightmare.** Every boon in that ledger was priced against a cost the MetaConcert knows to be false. If any faction ever establishes what a broadcast actually costs — not the existence of the capability, which is no secret, but its *price* — then the debts do not merely become disputed. They become retroactively fraudulent, all of them, at once, going back a century. The MetaConcert's entire external position is built on obligations that a single well-supported accounting would void.
+
+No violence is required to detonate this, which is precisely what makes it dangerous. It is a thing that could be *published*. An Operative who defects with the ledger, a [Lacuna](Project%20Lacuna.md) analyst who reconstructs the cost curve from observed operations, or a [Parasyte](Project%20Parasyte.md) overlay who spends four years as a cleanup coordinator and is then restored, all arrive at the same weapon — and it is one of the very few available to the Projects that would genuinely wound the MetaConcert without killing a single person or risking the trigger network.
+
+The Operatives think about this more than they discuss it.
+
 ### Parental Memory Correction
 
 When a child is integrated into the MetaConcert, the family cannot be left with a missing child and no explanation. The Operatives handle the correction — visiting the family in a mundane context, performing the Memory work that either implants a false memory of the child's death or erases the child's existence from the family's collective memory entirely.

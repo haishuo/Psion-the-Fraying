@@ -671,6 +671,12 @@ And it is why the *defense* against it is unlike any other. Dominate is resisted
 - The deterrent is asymmetric *risk*, not low odds. A Kindred who fails against a psion has not merely been repelled; they have handed a trained mind a live channel and a face to remember
 - Memory techniques work but inconsistently (Beast complicates things)
 - Some memories tied to Beast resist editing
+- **Age is not a defense.** A Methuselah running no active mental Discipline is *open* — the psion rolls unopposed. What buys something is a Discipline held **up**, deliberately, at the moment it matters.
+- **Auspex:** Telepathy finds nothing on a *braced* psion (no surface leaking — the same defense that beats Skim); pushing past that is a reach and meets **Barriers**, with the two-way door. Aura Perception works normally, and **fraying shows**. Auspex also detects psionic activity in progress, which is the only way a Kindred learns they were read.
+- **Presence works on psions exactly as on anyone.** Barriers stops intrusion, not *stimulus* — you cannot wall your way out of finding someone impressive. (Contrast psionic Emotion Manipulation, which is Barriers-resisted because it *reaches in* and installs a feeling; Presence broadcasts a quality of the user that the target's own mind answers.)
+- **Obfuscate:** the eyes lose, Detection does not. Obfuscate edits the *observer*; Detection receives a broadcast the subject cannot switch off. The psion registers **that a mind is there and that something is wrong** — no clean read, no fix, no identification. Concealment survives; the target's certainty of being alone does not. Same reasoning covers **Chimerstry**.
+
+*(Full treatment, including the Mind Sphere and the general test — does the effect **reach into** the mind, or **act on the world** the mind perceives? — in [Cross-Splat Edge Cases](Cross-Splat%20Edge%20Cases.md), "The Disciplines, Specifically.")*
 
 **Against Mages:**
 - Mind Sphere practitioners use Avatar to bend reality

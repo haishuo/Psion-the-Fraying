@@ -302,4 +302,14 @@ Ten boxes. **Strain `/`** (bashing analog, rests off) · **Fray `X`** (lethal an
 | **Dreambound** | Their fae road is **not psionics** and Barriers does not stop it. Keep the exception. |
 | **Wraiths** | No thoughts to read; **Empathic Sense** finds them. |
 
+**The test for anything not listed:** *does the effect reach **into** the mind, or act on the **world** the mind perceives?* A reach meets Barriers. A stimulus never touches it.
+
+| Discipline | Ruling |
+|---|---|
+| **Auspex** | Telepathy finds **nothing** on a braced psion (no surface leaking — same defence that beats Skim). Pushing past is a reach: **Barriers**, plus the two-way door. Aura Perception works normally and **fraying shows**. Auspex detects psionic activity in progress — the only way a Kindred learns they were read. |
+| **Dominate** | Not a threshold. Hazardous at any rating, **no rote**, two-way door on failure. Needs eyes and proximity; psionics needs neither and has no tell, so the psion acts first and invisibly. *Held* defensive Dominate is a real wall. |
+| **Presence** | **Works normally on psions.** Barriers stops intrusion, not stimulus. Resist as anyone would. (Emotion Manipulation is Barriers-resisted because it *reaches in*; Presence broadcasts a quality the target's own mind answers.) |
+| **Obfuscate** | The eyes lose; Detection does not. The psion registers **a mind is there and something is wrong** — no clean read, no fix, no ID. Concealment survives; certainty of being alone does not. Same for **Chimerstry**. |
+| **Mind Sphere** | Symmetrical. A **raised** shield resists psionics; an unraised mage is a sleeper. Barriers resists Mind magic under the same no-rote rule. |
+
 **Three guardrails on the Barriers ruling:** it is **inward-facing** (weaponising the wall costs like any projection) · **the Dreaming walks through it** · **it degrades along the Fraying axis** — not because defending scars you, but because Fray from everything else drags down the pool and leaves no box to pay containment with.

@@ -105,6 +105,64 @@ The hard truth beneath Eve is that she is not a *kind* of thing; she is a *singu
 
 ---
 
+## The Disciplines, Specifically
+
+Praxis has all of this on file — *"Auspex's interaction with Detection documented. Obfuscate's relationship to Barriers analyzed"* ([The Praxis Circuit](The%20Praxis%20Circuit.md)) — which is worth knowing when a character cites it. What follows is what the file says.
+
+**Everything below comes out of one distinction, and a Storyteller who holds it will not need this list.** Barriers stops a **reach**. It does not stop a **stimulus**, and it does not stop **reception**. Ask of any effect: *does it enter the target's mind, or does it act on the world the target is perceiving?* The first meets the wall. The second never touches it.
+
+### Auspex
+
+**Telepathy against a braced psion finds nothing to read.** Bracing contains the outbound broadcast, which is the same defence that defeats a psion's own **Skim** — there is no surface leaking for the Kindred to lift. This is not a contest; it is an empty channel. A vampire accustomed to skimming mortals will find the experience unnerving in itself.
+
+**Pushing past that is a reach, and meets the wall.** Barriers resists categorically — no rote exists, the same ruling that governs Dominate — and the **two-way door** applies in full. A Tremere who reaches for a psion's held-back thought has *reached*, and the psion now knows, and has a live channel running back to a mind that just tried them.
+
+**Aura Perception works normally**, and is the most useful thing Auspex does here. A psion's aura is a person's aura. But **fraying shows** — a Gifted at Severe or worse reads as something visibly coming apart, which is how a perceptive elder knows to wait rather than fight.
+
+**And Auspex detects psionic activity in progress.** This matters more than it looks: it is how a Kindred learns they were read at all, since psionics has no external tell. It reveals *that* something happened, never who or what.
+
+### Dominate
+
+**Not a threshold.** Never resolve it as whose rating is higher. Dominate is the diluted, translated copy of the Gifted's original Override (see [The Interred](The%20Interred.md)) — it is the wrong key for this lock **by ancestry**. Against a raised wall the attempt is hazardous at any rating; an elder with centuries of blood can improvise through at the limit of the Discipline, but never casually, never by rote, and never without opening the line back.
+
+**Two practical asymmetries that decide most encounters.** Dominate needs the eyes and the proximity; psionics needs neither and has no tell. In a mutual attempt the psion acts first, invisibly, and the Kindred's own approach announces itself. And a Kindred who fails has handed a trained mind a channel and a face to remember.
+
+**Defensively held Dominate is a real wall** — an elder maintaining it counts as a purpose-built defence and resists normally. *Held* is the operative word.
+
+### Presence — *works on a psion exactly as on anyone*
+
+**Barriers stops intrusion. It does not stop stimulus.** You cannot wall your way out of finding someone impressive.
+
+The distinction is precise, and it is the reason a psion's own **Emotion Manipulation** is Barriers-resisted while Presence is not. Emotion Manipulation is a *reach*: it enters a specific mind and installs a feeling that was not there. Presence **broadcasts a quality of the user**, and the target's own mind responds to it — the way a mind responds to a beautiful face or a commanding voice, both of which also work on psions. Nothing crosses the boundary. There is nothing for the wall to be a wall against.
+
+Resist it exactly as any Kindred or mortal would.
+
+**This is a deliberate humbling and it should be played as one.** The splat that owns the mental domain is fully susceptible to charisma. A psion can be untouchable in their own skull and still walk out of a room having agreed to something, and the worst part is that they will not be able to point to the moment it happened, because there wasn't one. An elder with strong Presence and no mental Discipline at all remains genuinely dangerous to a Gifted — just never in the way the Gifted has trained for.
+
+### Obfuscate — *the eyes lose; Detection does not*
+
+**Obfuscate is an effect on the observer's mind. Psionic Detection is not observation.** It is reception of a broadcast the subject cannot switch off. Obfuscate stops people *noticing*; it does not stop a mind from being there.
+
+So the ruling: **a psion registers that a mind is present and that something is wrong, and gets nothing clean.** No precise fix, no identification, no read. Kindred are already *wrong and dead* to Detection at the best of times; under Obfuscate the signal is a discrepancy rather than a location.
+
+What that produces at the table is the correct scene rather than either extreme. Your eyes report an empty corridor. Your Detection reports otherwise. **You cannot reconcile them, and you cannot prove it, and you are certain.**
+
+**Obfuscate is not broken by this.** An elder stays hidden in practice; the psion cannot shoot what they cannot find, and cannot convince anyone who is not a psion. What Obfuscate loses against the Gifted is not concealment. It is **the target's certainty of being alone** — and a Gifted who says *"there is someone in this room"* while everyone else sees nothing is doing the most valuable thing they will do all night.
+
+*(The same reasoning governs **Chimerstry** and any other illusion that works by editing what a mind perceives: the illusion holds, and a psion's direct sense of minds is not part of what it edits.)*
+
+### The Mind Sphere
+
+**Symmetrical, and already the cleanest line in the setting.** A mage's **actively raised** Mind shield or countermagic genuinely resists psionics — their Sphere *can* answer, but only while switched on. An unraised Mind mage is a sleeper. Going the other way, Barriers resists Mind magic under the identical no-rote rule: bespoke, improvised, vulgar, Paradox-courting, and never routine.
+
+A prepared Mind mage is the psion's one true peer in this domain. An unprepared one is furniture. The whole difference is whether they saw it coming.
+
+### Against Kindred, going the other way
+
+Worth stating plainly because tables get it backwards: **age is not a defence.** A Methuselah running no active mental Discipline is **open** — the psion rolls unopposed. Centuries of Willpower buy nothing here, because Willpower was never the relevant trait. What buys something is a Discipline held *up*, deliberately, at the moment it matters.
+
+---
+
 ## Ghouling a Gifted
 
 Unlike the Embrace, ghouling does not kill — a ghoul is a living body sustained and bound by another's vitae — and because the body still lives, the tether is not severed. The power is not destroyed. It is **suppressed.**

@@ -12,6 +12,28 @@ No Inquisition. No Praxis. No MetaConcert. Just a scattering of powerful, mostly
 
 The emblem of the era is **the sealing of the Interred**: thirteen of the mightiest Gifted who ever lived, most of whom despised each other, joined hands exactly once — because the alternative was worse — to contain a psidolon they could not kill, then scattered again. Not an institution. A one-time armistice among rivals. *(See [The Interred](The%20Interred.md).)*
 
+## I-b. Before the Domains — what psionics was without a system
+
+It is worth stopping on a question the Domain taxonomy makes easy to forget: **the titans had no taxonomy.** Nobody in that age said *Memory Domain*. Nobody had heard of Intrusion, or Barriers, or bracing. Praxis had not been founded, would not be founded for an age, and the seven categories every trained Gifted now thinks in did not exist as thoughts anyone could have.
+
+They did all of it anyway.
+
+**Systematization is not the same as invention, and Praxis has spent five hundred years quietly enjoying the confusion.** What the scholars did was not discover that a mind could reach into another mind. Human beings had been doing that, badly and brilliantly and by accident, for as long as there had been tethers strong enough to stand on. What Praxis did was work out the *shape* underneath all that idiosyncratic practice, name it, and make it **teachable** — which is precisely what they did much later and much more visibly with [the Fugue](Combat%20and%20Conflict%20-%20Game%20Mechanics.md), codifying a thing that was already real, already dangerous, and already happening, because a thing that cannot be taught dies with whoever worked it out.
+
+Before that, psionics was a craft in the way any craft is before anyone writes the book: **by trial, by error, by figuring it out.** Some practitioners were superb. Most muddled. A few were geniuses whose methods died with them, unrecorded and unrepeatable, because there was no vocabulary in which to leave a note. Two masters in that age could have practised for forty years each and possessed no common word for a single thing either of them did.
+
+**And some of them reached further than a modern Gifted ever will.** This is not romanticism about a lost golden age; it is what you should expect. A pre-taxonomic practitioner had no doctrine informing them that Control requires access first, that Kinesis is beneath a professional, that the art has seven parts and no more. They did not know which things were supposed to be impossible, and so a certain number of them did those things. The taxonomy that makes a modern Gifted competent also tells them where the walls are, and some of those walls were built by the surveyors.
+
+**They also had no idea what any of it cost.** There was no Strain economy, no doctrine of consonance, no notion that forcing an unwilling mind is the specific act that eats you. There was only the work, and the sense — arriving far too late — that something was wrong.
+
+**Which is the whole explanation for why the world was once full of psidolons.** It has never needed a stranger cause than this. An age of practitioners doing enormous, unrepeatable, poorly-understood things, with no model of the price, will produce untetherings at a rate no later century has approached. The titans were not merely powerful. They were **uninsured**, and the monsters that stalked that age were, very largely, *the previous generation of its heroes.* *(See [Psidolons — When the World Was Full of Them](Psidolons%20-%20The%20Untethered.md).)*
+
+**So Praxis's real gift was never power. It was survival rate.** The Domain system trades ceiling for old age. It is a cage — [Heterodox](Project%20Heterodox.md) is entirely correct about that, and correct that the categories a Gifted thinks in are the categories a Gifted is limited to — and it is also the harness that stopped the species killing itself one virtuoso at a time. Both things are true, which is why the argument has never been settled and never will be.
+
+It also means the MetaConcert's founding claim is not propaganda. Systematization genuinely saved them. Everything monstrous the institution later built stands on a foundation that was, at the beginning, entirely sound. That is not a defence of what came after. It is the reason what came after was possible.
+
+> **A note for Storytellers: this is history, not a character option.** Pre-taxonomic practice belongs to the deep past and to the rare, isolated, never-Integrated figure a chronicle might encounter — the feral talent in a mountain village, a [Cult of the Unbound](The%20Cult%20of%20the%20Unbound.md) adept who rejects Praxis's categories on principle, something very old that has been practising alone since before there was anyone to tell it not to. Such a figure has **no Domain ratings** and is adjudicated entirely by the Storyteller: capable of one or two genuinely startling things, incapable of most ordinary ones, and possessing no reliable sense of what any of it is doing to them. They are not a build. They are a *weather event*, and the correct player response to meeting one is not to fight it but to work out what it wants.
+
 ## II. Two Convictions, No Names (still deep past — the organizing impulse begins)
 
 What ended the age of titans was *organization*, and organization began as two convictions, not two institutions:

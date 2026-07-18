@@ -61,6 +61,20 @@ The Panopticon knows this. They compensate with redundancy, with algorithmic mon
 - Understand that their success is invisible — when Lacuna works, nothing happens, and nobody notices
 - The most paranoid Project, which given their function is less a personality trait than a job requirement
 
+### The moonlighters
+
+Lacuna is the only Project that produces freelancers in any number, and it does not approve of them, and it cannot really stop them.
+
+The reason is structural. Their craft is the one Project skillset with a standing commercial market — everybody hiding from anything wants to buy concealment — and they already share rooms with that clientele through the Nosferatu channel. But the operative fact is what the Project *cannot* provide. Lacuna hoards; it spends nothing it does not have to; and there is no mechanism anywhere in it for turning collective capital toward one member's private problem. A Lacuna operative who needs a sum of money, or a favour from outside, or an answer to a question the Project would never authorise the risk of asking, has exactly one option, and it is to go outside on her own time.
+
+**So a small number of them take work.** Quietly, off the books, for cash or trade, on their own hours, from clients who found them through the same channel that brings the Project its Kindred contacts.
+
+**And they remain Lacuna first, in every way that matters to a client.** They work when they have time. They approach you at least as often as you approach them. **They refuse jobs and are entirely unembarrassed about it.** The work proceeds at the pace of somebody's off-hours, and if it ever conflicts with the Project — genuinely conflicts, not inconveniently — the Project wins, immediately, and the client is the last to know.
+
+The Project's official position is that this is an unacceptable exposure and a standing security problem, which it is. The unofficial position is that a cell structure built on compartmentalisation has no good way to audit what its members do with their evenings, and that a Lacuna operative with a private income is marginally less likely to be bought by somebody worse. Both positions are held, often by the same person.
+
+*(For where this sits among the other Projects, and how a moonlighter differs from an [unaligned](The%20Projects%20-%20Overview.md) professional who does this for a living, see* The Projects — Overview*, "Which Projects Can Actually Be Hired.")*
+
 ---
 
 ## External Alliances

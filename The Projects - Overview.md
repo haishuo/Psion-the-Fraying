@@ -14,6 +14,45 @@ The Projects face an impossible dilemma: without lattice monitoring, they cannot
 
 Both sides have blood on their hands. Both sides believe they're saving lives. Both sides might be right.
 
+## Three Groups, Not Two
+
+Gifted society divides into three, and the third is the one most easily forgotten because it has no letterhead.
+
+**The MetaConcert** is the government: seven Circuits, the lattice, compulsory Integration, and the whole apparatus. **The Projects** are the resistance, and the two are not friends, have never been friends, and are not engaged in a disagreement that a reasonable person could split the difference on. One side executes people on suspicion; the other exists because of it.
+
+**And then there is everyone else.** The **unaligned** — Gifted who belong to neither, by choice, by circumstance, or by having walked away from both. There is no unaligned philosophy, no unaligned leadership, no unaligned position on anything; the category is defined entirely by two negatives. It contains principled independents, burnouts, criminals, people who never found a Project to join, people a Project would not take, and people who tried both and decided they were done with institutions altogether. It is not a large population, and it is not a *faction* in any sense that would survive scrutiny. It is a grab-bag.
+
+It is also where the setting's most useful protagonists live. [Marcus Thiel](Marcus_Thiel.md) is unaligned — Railroad's own file on him says it plainly, *"he's not one of them"* — and it is the reason he can be hired, the reason nobody can vouch for him, and the reason he is worth watching.
+
+> *A rough orientation for players coming from Mage, and it is rough: the MetaConcert sits where the **Technocratic Union** sits, right down to the Circuits doing approximately the work of Conventions, and the Projects sit roughly where the **Traditions** do. **But do not press the analogy**, because it breaks at the load-bearing point: the Technocracy is usually played as wrong. The MetaConcert is **right about the facts.** Fraying is real, psidolons are real, the threat is not manufactured, and every monstrous thing the institution does is built on a foundation nobody has been able to refute. That difference is the entire engine of this setting, and the analogy will quietly steer a table away from it.*
+
+## Which Projects Can Actually Be Hired
+
+A question that comes up the moment a chronicle contains an unaligned character, a Kindred with a problem, or anyone who needs psionic work done and has money rather than politics.
+
+**The Projects do not take contracts.** Not one of them is a service organization, and any of them would find the suggestion insulting. But **individual members freelance**, and exactly one Project produces them in any number.
+
+**Lacuna**, and the reason is structural rather than moral. Their craft — psionic concealment, counter-surveillance, blinding the lattice — is the one Project skillset with a standing commercial market, because it is precisely what everybody hiding from anything wants to buy. They already share rooms with that clientele through the Nosferatu channel. The work is episodic and deniable, which is what a side gig must be. And critically, **Lacuna hoards**: there is no mechanism inside the Project for spending its capital on a member's personal problem, so a member with a private want has to go outside for it.
+
+**Everyone else, and why not:**
+
+- **Parasyte** — not disinclined, **structurally impossible.** An operative under overlay does not know they are an agent; the identity in the chair is a sincere MetaConcert loyalist. There is nobody home to take a job. The only window is a restoration, and those are short, rare, and entirely spent.
+- **Rebel** — their one saleable skill is **the one that gets everybody caught.** Kinesis is the loudest Domain in the book. A client hiring psionic muscle is purchasing a Panopticon flag with the work.
+- **Iconoclast** — expert infrastructure demolition, aimed at the lattice. Nothing a Prince wants and nothing a broker can resell, and they are hunted about as hard as Rebel for it.
+- **Heterodox** — not unwilling. **No market.** What they have is theory, and nobody underground is buying epistemology.
+- **Railroad** — already deals with unaligned Gifted, but as *mutual aid*, not commerce. The work is time-critical and morally saturated; a conductor with a free evening spends it on a child, not a fee.
+- **Fractal** — the refusal is **ethical**, and the [Dreambound](The%20Dreambound.md) among them make it absolute. A story belongs to whoever lived it. They will not retell one without leave, let alone sell what they perceive.
+
+### Side gig versus livelihood — and why the difference is everything
+
+Even where freelancing happens, **a moonlighter is not a contractor**, and any client learns the distinction fast.
+
+A Lacuna member has a day job, and it is poking holes in the lattice. Which means: she works when she has time, she frequently approaches you rather than the reverse, **she reserves the right to refuse and uses it**, and the job proceeds at the speed of her off-hours. She is also vouched, channelled, and backed by people who will answer for her — and she will choose Lacuna over you, without hesitation, the moment it ever comes to that.
+
+An unaligned professional has no day job. **This is the day job.** He is available, he takes the work, he finishes it because nothing is competing for the hours, and there is nobody anywhere to vouch for him, complain to, or lean on.
+
+The top half of that comparison is a better product. The bottom half is why almost nobody sells it. And it produces the assessment any careful buyer makes about a man with no institution behind him: **a counterparty with no cause cannot betray you for one — only for a price, and a price can be outbid.** Whether that is reassuring depends entirely on how good you are at pricing things.
+
 ---
 
 ## The Projects and Their Circuit Counterparts

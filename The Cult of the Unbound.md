@@ -107,6 +107,22 @@ The Cult of the Unbound is not a group of raving lunatics. They are sophisticate
 - "The MetaConcert's entire power structure depends on you fearing untethering."
 - Plant seeds of doubt about fraying danger
 
+> ### "Read me"
+>
+> **The single most effective thing a recruiter ever says, and it is the reason this works on people who are not fools.**
+>
+> A frightened defector has one advantage nobody else in the World of Darkness has: they can **check**. Detection costs nothing, needs no preparation, and returns what a mind is actually broadcasting rather than what its owner is saying. Reading a stranger who is making promises is the first thing any psion does, and the recruit will do it whether invited or not.
+>
+> So the recruiter invites it. Warmly, early, and without a flicker: ***"Read me."***
+>
+> **And there is nothing to catch.** No hesitation under the pitch, no second thought running beneath the first, no gap between what is being said and what is believed. The Cult does not staff its recruitment with liars — it staffs it with the sincerely convinced, and a sincerely convinced mind reads as exactly that. *(See [Brother Ezra](Adventure%20-%20Hairline.md), who believes it completely and has watched it kill and decided not to know.)*
+>
+> **So the recruit's own power confirms the lie.** They walk away having *verified* it, by the one method they trust above any testimony — their own — and they are now far harder to talk out of it than someone who simply took a stranger's word, because they did not take anyone's word. They looked.
+>
+> This is worth dwelling on because it is a horror only this setting can produce. Every other splat's victim can be told they were fooled. A Gifted was not fooled. **They were shown the truth, and the truth was that the man meant every word.**
+>
+> *Corollary for Storytellers: never let this be resolved by a better roll. There is no difficulty at which Detection reveals the deception, because there is no deception present. What eventually saves a recruit is somebody who loves them, or a body on the floor — never a successful check.*
+
 **Stage 3 - Revelation:**
 - "Let me tell you what fraying really is."
 - Introduce philosophical framework (consciousness evolution)

@@ -12,9 +12,9 @@ A psidolon is statted unlike anything else in the game, because it is unlike any
 
 **No tether. No fraying. No Strain.** A psidolon has already snapped — there is nothing left to fray. It wields its Domains **at no cost**, indefinitely, without the resource economy that disciplines every living Gifted. This is the heart of their horror: the thing hunting you can do what you do, as often as it likes, and never pay the price that would stop you. A psidolon has **no Tether Track and never makes a Snap Check.**
 
-**It coheres around memory, not body.** Its true self is its accumulated memory-structure, tracked as **Coherence** (below). This is its real "health." Everything else is borrowed.
+**It coheres around memory, not body.** Its true self is its accumulated memory-structure, tracked as **Coherence** (below) — that is what it IS, and everything else is borrowed. A second, much shorter track, **Stability**, measures only whether its form holds when it has no body to wear.
 
-**It has two targets, and only one of them is the kill.** The **host body** has ordinary Health; destroying it merely *displaces* the psidolon. The psidolon itself dies only when its **Coherence** is destroyed, through Memory work. Shooting the body solves the next five minutes. It does not solve the psidolon.
+**It has two targets, and only one of them is the kill.** The **host body** has ordinary Health; destroying it merely *displaces* the psidolon. The psidolon itself dies only when its **Coherence** is destroyed through Memory work — or when it is evicted and its **Stability** runs out before it finds another body. Shooting the body solves the next five minutes. It does not solve the psidolon.
 
 **Detection:** **Tether Sense** reads a psidolon as a definitive *absence* — no tether where one must be, an answer no cover can fake. Wraiths perceive the missing soul automatically. Newly formed psidolons betray themselves through behavioral tells (the microsecond-off performance); ancient ones have had centuries to perfect the mask.
 
@@ -24,9 +24,17 @@ A psidolon is statted unlike anything else in the game, because it is unlike any
 
 ---
 
-## Coherence and the Memory Wipe
+## Coherence, Stability, and the Memory Wipe
 
-**Coherence** is a track of boxes representing the integrity of a psidolon's accumulated memory-structure. It replaces both Health and the Tether Track as the psidolon's true measure of survival. **Reduce it to zero and the psidolon dissipates — destroyed, permanently.** *(A [Dreambound](The%20Dreambound.md) perceives this same fact without instruments or dice: a psidolon simply doesn't read as a story, the way every soul-intact mind does — the shape where a story should be, with nothing holding it together.)*
+A psidolon has **two tracks**, and confusing them is the commonest way to run one wrong. They fail in different directions and are attacked by different means.
+
+**Coherence** is a track of boxes representing the integrity of a psidolon's accumulated memory-structure. This is **what the thing is** — it cohered around memory in place of a tether, so the memory is not a possession but the substance. It replaces the Tether Track as the psidolon's true measure of survival, and it is what the **Memory-wipe** attacks. **Reduce it to zero and the psidolon dissipates — destroyed, permanently.** *(A [Dreambound](The%20Dreambound.md) perceives this without instruments or dice: a psidolon simply doesn't read as a story, the way every soul-intact mind does — the shape where a story should be, with nothing holding it together. Note that this perception is indifferent to both tracks. A psidolon at full Coherence, perfectly stable, wearing a life it has held for thirty years, still reads as nothing at all.)*
+
+**Stability** is a separate and much shorter track: **how well the form holds with no body around it.** A psidolon's natural state — free psionic structure with nothing to inhabit — is not stable, and holding shape costs it continuously. Stability is **full and irrelevant while it wears a host**, and begins draining the moment it doesn't. It is not attacked directly; it is attacked by *taking the body away and denying it another*.
+
+> **The two ways to kill one.** Destroy the **Coherence** and there is nothing left to inhabit anything. Destroy the **Stability** — evict it and starve it of hosts — and the form comes apart on its own. The first is a procedure. The second is a siege.
+
+*(Praxis files Stability as **Integrity**, the same word it uses in the Tether Integrity Assay, on the reasoning that both measure whether a structure is holding. Field crews say **unstable**, and say it the way you would about a building.)*
 
 **The Wipe — the only reliable kill:**
 
@@ -35,7 +43,9 @@ A psidolon is statted unlike anything else in the game, because it is unlike any
 3. **Don't hit the wrong memories.** A botch on the Memory roll destroys *host* memory instead — collateral that can kill a host who might still have been salvageable.
 4. **Zero Coherence = dissipation.** It comes apart and is gone.
 
-**The window and displacement.** Destroy the host's Health and the psidolon is ejected into the desperate post-snap state — burning **1 Coherence per hour** until it finds a new host. Deny it a viable host within the window (environmental control, isolation) and it dissipates on its own. This is the *other* way to kill one, and it is far harder to guarantee than it sounds.
+**The window and displacement.** Destroy the host's Health and the psidolon is ejected, hostless, and **Stability begins draining at 1 box per hour** until it finds a new body. At **0 Stability the form comes apart** and it is gone. Deny it a viable host within the window (environmental control, isolation, a cleared building) and it dissipates on its own. This is the *other* way to kill one, and it is far harder to guarantee than it sounds — every warm body in range is a reset.
+
+**Note what this costs the psidolon and what it doesn't.** Burning out does **not** touch Coherence: an evicted psidolon that finds a host with an hour to spare is exactly as much itself as it was before, merely frightened. Eviction is a clock, not a wound. Which is precisely why the Inquisition's doctrine prefers the wipe — a siege you lose leaves the thing intact, and now it knows your face.
 
 **The partial-wipe failure mode.** If you stop before zero, the result depends on how far you got:
 - **Reduced below one-third Coherence:** the structure is too damaged to hold. It **collapses on its own within hours to days** — but in the meantime becomes a **feral psidolon** (below).
@@ -52,13 +62,13 @@ A psidolon is statted unlike anything else in the game, because it is unlike any
 ### Fresh Psidolon
 *The just-snapped. The desperate. Threat: moderate — but on a timer.*
 
-Newly formed, no stable cover, burning coherence, acting on panic and raw drive. This is also what a **snapped Player Character** becomes (see below).
+Newly formed, no stable cover, burning Stability, acting on panic and raw drive. This is also what a **snapped Player Character** becomes (see below).
 
 **Attributes** (host-dependent; sample): Physical 2/3/3, Social 2/2/2, Mental 3/3/3
 **Key Abilities:** Alertness 2, Brawl 2, Intimidation 2 — *no social masking yet*
 **Domains:** as the origin Gifted; sample Intrusion 4, Barriers 3, Kinesis 2 (a fresh psidolon must have had a Domain at 4+ to cohere at all)
-**Willpower:** 5 · **Coherence:** 3 · **Host Health:** standard 7
-**Powers/Notes:** *No Strain* — uses Domains freely. **Burning Out:** loses 1 Coherence per hour until it secures a host; at 0, dissipates. **Desperate:** acts on instinct, poor at deception, prone to overwhelming force. Wipe difficulty 6.
+**Willpower:** 5 · **Coherence:** 3 · **Stability:** 3 · **Host Health:** standard 7
+**Powers/Notes:** *No Strain* — uses Domains freely. **Burning Out:** hostless, so **Stability** drains 1 per hour until it secures a body; at 0 the form comes apart. Coherence is untouched by this — find a host in time and it is entirely itself again. **Desperate:** acts on instinct, poor at deception, prone to overwhelming force. Wipe difficulty 6.
 
 ### Coherent Psidolon
 *The survivor. The hunt target. Threat: high.*
@@ -68,7 +78,7 @@ Has held a host for months or years, masks expertly, has built defenses. The sta
 **Attributes:** Physical 3/3/3, Social 4/3/3, Mental 3/4/4
 **Key Abilities:** Subterfuge 4, Awareness 3, Empathy 3, Investigation 3, Stealth 3
 **Domains:** Intrusion 5, Memory 4, Barriers 4, Detection 3, Control 3
-**Willpower:** 7 · **Coherence:** 6 · **Host Health:** standard 7
+**Willpower:** 7 · **Coherence:** 6 · **Stability:** 5 · **Host Health:** standard 7
 **Powers/Notes:** *No Strain.* **Worn Face:** +2 difficulty to detect by behavioral tell. **Trained Host Barriers:** the host body resists Intrusion at Barriers 4 — getting access to wipe it is a real fight. **Slip the Skin** (above). **Mobility:** keeps escape routes and candidate hosts mapped. Wipe difficulty 7.
 
 ### Ancient Psidolon
@@ -79,13 +89,13 @@ A mind so accumulated it is barely a mind — many-voiced, self-contradicting, n
 **Attributes:** Physical 4/4/4, Social 5/4/4, Mental 4/5/5
 **Key Abilities:** Subterfuge 6, Awareness 5, Investigation 5, Intimidation 5, plus centuries of accumulated competence (treat most relevant Abilities as 4+)
 **Domains:** 5 in Intrusion, Memory, Barriers, Detection; 4 in Control, Projection, Kinesis
-**Willpower:** 9 · **Coherence:** 12 — of which **3 boxes are "load-bearing"** memory, so deeply fused with its core cognition that they **cannot be wiped** without a specialized, scene-long procedure to even make them targetable. Effectively, armor.
+**Willpower:** 9 · **Stability:** 8 · **Coherence:** 12 — of which **3 boxes are "load-bearing"** memory, so deeply fused with its core cognition that they **cannot be wiped** without a specialized, scene-long procedure to even make them targetable. Effectively, armor.
 **Powers/Notes:** *No Strain.* **Many Voices:** once per scene, fragmentation may surface — the ST may have it falter, hesitate, or act on a buried personality's logic (the players' sliver of hope). **The Long Game:** it sees threats coming and removes them through institutional and social leverage long before a direct confrontation (the Ivan playbook). **Cannot be eliminated in one engagement** by any normal group. Wipe difficulty 8.
 
 ### The Old One
 *Unique. The oldest surviving psidolon. Threat: existential.*
 
-Use the Ancient template, raised: **Coherence ~18 with 5 load-bearing boxes**, every Domain at 5, Willpower 10, and the accumulated skill of millennia. It does not get hunted and killed in a session — the dedicated Inquisition task force has run for over a century without resolution. It is a force the chronicle is *about*, not an encounter on its track. When it finally acts directly, the campaign is ending one way or another. (See [its history](Psidolons%20-%20The%20Untethered.md) — Voronov, Ivan, the doctrine change.)
+Use the Ancient template, raised: **Coherence ~18 with 5 load-bearing boxes**, **Stability ~12** (millennia of practice at simply holding together, which is why an evicted Old One is a problem lasting half a day rather than an afternoon), every Domain at 5, Willpower 10, and the accumulated skill of millennia. It does not get hunted and killed in a session — the dedicated Inquisition task force has run for over a century without resolution. It is a force the chronicle is *about*, not an encounter on its track. When it finally acts directly, the campaign is ending one way or another. (See [its history](Psidolons%20-%20The%20Untethered.md) — Voronov, Ivan, the doctrine change.)
 
 ---
 
@@ -100,7 +110,7 @@ When a PC fails a Snap Check, resolve immediately by **highest Domain rating**:
 1. Keep the character's Attributes, Abilities, and Domains.
 2. **Delete the Tether trait and the Tether Track.** Erase all Strain and Fray. The psidolon pays nothing to act now.
 3. Set **Coherence = highest Domain rating − 1** (so a Gifted who snapped on Intrusion 5 begins at Coherence 4).
-4. Begin **Burning Out** immediately: 1 Coherence/hour, find a host or dissipate.
+4. Set **Stability 3** and begin **Burning Out** immediately: 1 Stability/hour, find a host or dissipate. (Coherence is not spent by this.)
 5. The host body the PC left behind lies vacant and breathing — and is itself now a potential first host, or a horror for the surviving party to find.
 
 This is the single most useful thing to make players *feel*: the character they built is not dead, exactly. Something is wearing them, and it is loose, and it remembers everyone at the table. A snapped PC is the most personal antagonist a Psion chronicle can produce.
@@ -158,10 +168,11 @@ Streamlined adversaries and allies. Scale Domains and Tether up or down for seni
 ## Quick Reference
 
 - **Psidolons:** no tether, no fraying, **no Strain** — Domains are free. No Snap Check. Cannot cooperate. Cannot take Kindred hosts.
-- **Coherence** = true health; Memory-wipe destroys it (1 box/success). **0 = dissipation.** Host Health destroyed = *displacement* + Burning Out (1 Coherence/hour, find a host or dissipate).
+- **Coherence** = what it IS (accumulated memory); Memory-wipe destroys it (1 box/success). **0 = dissipation, permanently.**
+- **Stability** = whether the form holds with no body; full while hosted. Host Health destroyed = *displacement* + Burning Out (1 **Stability**/hour, find a host or dissipate). Does not touch Coherence.
 - **Wipe:** hold Intrusion access (vs psidolon Barriers) → Intelligence + Memory vs diff 6/7/8 (fresh/coherent/ancient). Botch hits host memory.
 - **Partial wipe:** below ⅓ → collapses in hours but goes **feral** (no masking, +2 attacks, kill-the-wiper); above ⅓ → recovers, remembers you.
 - **Immune:** Puppeteer/Compel/Emotion, and Memory-*editing* (only destruction works). **Detected by:** Tether Sense (definitive), Wraiths (automatic), behavioral tells (fresh ones).
-- **Snapped PC:** highest Domain ≤3 dissipate / 4+ → Fresh Psidolon (Coherence = highest Domain −1, Burning Out begins).
+- **Snapped PC:** highest Domain ≤3 dissipate / 4+ → Fresh Psidolon (Coherence = highest Domain −1, Stability 3, Burning Out begins).
 
 *See also: [Psidolons — The Untethered](Psidolons%20-%20The%20Untethered.md) · [The Fraying — Game Mechanics](The%20Fraying%20-%20Game%20Mechanics.md) · [The Seven Domains — Game Mechanics](The%20Seven%20Domains%20-%20Game%20Mechanics.md) · [The Inquisition Circuit](The%20Inquisition%20Circuit.md)*

@@ -212,7 +212,7 @@ Marcus Thiel has prepared to perform this procedure alone, on a mid-tier psidolo
 
 ### Physical Destruction of the Host
 
-Destroying the host body displaces the psidolon but does not destroy it. A psidolon that survives its host's destruction re-enters the desperate immediate post-formation state — burning coherence, seeking another body. If another viable host is not available within the window, the psidolon dissipates. If one is available, the psidolon survives and the process begins again.
+Destroying the host body displaces the psidolon but does not destroy it. A psidolon that survives its host's destruction re-enters the desperate immediate post-formation state — **burning stability**, seeking another body. Free structure with nothing to inhabit does not hold, and holding shape without a host costs it by the hour. If another viable host is not available within the window, the psidolon comes apart. If one is available, it survives entire — **eviction is a deadline, not a wound** — and the process begins again.
 
 This is why the Inquisition treats host destruction as a last resort for psidolon elimination rather than a solution. It resolves the immediate tactical situation. It does not resolve the psidolon.
 

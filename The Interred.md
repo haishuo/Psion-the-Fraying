@@ -118,7 +118,7 @@ The vessel is ancient and singular; there is no spare. The blood-sorcery half of
 
 Should the Interred ever come loose, the Gifted would face the one psidolon categorically worse than the Old One. Older. More accumulated. More load-bearing in its memory, and therefore even harder to unmake. A thing the thirteen greatest Gifted who ever lived could not kill, freed into a world whose most powerful Gifted are bound, monitored, and forbidden the kind of reckless mastery the Thirteen took for granted. The Inquisition's standing task force for the Old One has run a century without resolution. There is no task force for the Interred, because there is no Inquisition knowledge that it exists.
 
-**Mechanically**, a freed Interred is the Ancient template of [Antagonists — Game Mechanics](Antagonists%20-%20Game%20Mechanics.md) taken past its ceiling: every Domain at 5, Coherence beyond counting and almost entirely load-bearing, the accumulated competence of millennia, and no resource limit of any kind. It is not an antagonist a party defeats. It is the event a chronicle ends on.
+**Mechanically**, a freed Interred is the Ancient template of [Antagonists — Game Mechanics](Antagonists%20-%20Game%20Mechanics.md) taken past its ceiling: every Domain at 5, Coherence and Stability beyond counting and almost entirely load-bearing, the accumulated competence of millennia, and no resource limit of any kind. It is not an antagonist a party defeats. It is the event a chronicle ends on.
 
 ---
 

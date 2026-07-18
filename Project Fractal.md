@@ -47,6 +47,12 @@ It is the same engine — the conviction that a sufficiently interesting questio
 
 The mirror is not metaphor. It is **lineage.** Fractal was founded by Praxis's own defectors — lower-level researchers who fled [Correction](The%20Praxis%20Circuit.md) before it could close on them and concluded, having helped build the model, that the whole model might be wrong. They carried Praxis's defining curiosity out the door and left only its cruelty behind. That is why the two ask the same kind of question and arrive at opposite institutions: Fractal is not *like* Praxis by coincidence. It is Praxis's runaway child, the same hunger raised to refuse the laboratory. (The full origin — and its mirror in Rebel, the Inquisition's runaway child — is in [The Projects — Overview](The%20Projects%20-%20Overview.md), "Origins: The Two That Came First.")
 
+**Which raises an obvious objection, and the answer to it is the most interesting thing about them.** If Fractal is Praxis's child, why does the ledger set them against the **Preservers**? Because the Projects are paired by *what they oppose*, not by *who bore them*, and those are not the same question. [Heterodox](Project%20Heterodox.md) is Praxis's other child, and Heterodox stayed home to argue: it took its parent's framework as its lifelong enemy and has never looked at anything else. Fractal walked out and kept walking, and by the time it stopped it had found a different enemy entirely — the Circuit that decides what happened.
+
+Consider what that means. Fractal did not leave Praxis and spend a century relitigating Praxis. It left, looked around at an institution with seven arms, and concluded that the deepest wound was not the laboratory but **the record** — that a lie in a Praxis file damages one subject, and a lie in a Preserver archive damages everyone who comes after, forever, including the people who would otherwise have known to be angry. Praxis breaks a person. The Preservers break the sentence that says a person was broken. Fractal ran from the first and turned around to face the second, and it is the only Project that chose its enemy rather than inheriting it.
+
+The Preservers, for their part, do not think of Fractal as an opponent at all. They think of Fractal as a filing error.
+
 **The operational uselessness, rendered in full.** The Projects hold their briefings, and the contrast writes itself:
 
 > *Railroad:* "We extracted seventeen people."
@@ -76,7 +82,7 @@ Three hours each. No conclusions. No action items. Standing ovation.
 **Typical Fractal member:**
 - Philosophers, artists, intellectuals
 - Former Preservers disgusted by historical revisionism — who, being living archives, did not so much resign as *abscond with a wing of the true record behind their eyes*
-- Gifted who expressed late and avoided Integration
+- Gifted who Triggered late and avoided Integration
 - Idealists who genuinely believe in absolute freedom
 - Often well-educated, articulate, passionate
 - Strong Barriers (practiced mental sovereignty)

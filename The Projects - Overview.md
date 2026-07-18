@@ -22,12 +22,12 @@ Each Project mirrors a specific MetaConcert Circuit — not as a deliberate desi
 
 | Project | Circuit Counterpart | The Mirror |
 |---|---|---|
-| Railroad | Integrators | Both handle newly Expressed children. One integrates them into the system. The other intercepts them before the system arrives. |
+| Railroad | Integrators | Both handle newly Triggered children. One integrates them into the system. The other intercepts them before the system arrives. |
 | Rebel | Inquisition | Both use force. One enforces institutional authority. The other attacks it. |
 | Parasyte | Operatives | Both operate under cover, maintaining false identities. One infiltrates external factions for the MetaConcert. The other infiltrates the MetaConcert for the resistance. |
 | Fractal | Preservers | Both are concerned with truth and institutional narrative. One curates the record to serve power. The other preserves the record to defy it. |
 | Iconoclast | Maintainers | Both understand lattice architecture at an engineering level. One builds and maintains. The other reverse-engineers and dismantles. |
-| Heterodox | Praxis | Both do research into the nature of the Talent. One built the framework. The other questions whether the framework is complete. |
+| Heterodox | Praxis | Both do research into the nature of the power. One built the framework. The other questions whether the framework is complete. |
 | Lacuna | Panopticon | Both are defined by Detection. One uses it for surveillance. The other defeats it. |
 
 ---
@@ -54,7 +54,7 @@ And so the quiet implication is the one [Fractal](Project%20Fractal.md) lives by
 
 ## The Seven Projects
 
-**[Project Railroad](Project%20Railroad.md)** (↔ Integrators) — Humanitarian extraction and refugee protection. Railroad operates an underground network dedicated to intercepting newly Expressed Gifted before the MetaConcert can integrate them into the lattice. Their primary ally is the Children of Gaia, who provide permanent sanctuary on tribal land. They measure success in individual lives saved, and they carry the weight of every extraction that fails.
+**[Project Railroad](Project%20Railroad.md)** (↔ Integrators) — Humanitarian extraction and refugee protection. Railroad operates an underground network dedicated to intercepting newly Triggered Gifted before the MetaConcert can integrate them into the lattice. Their primary ally is the Children of Gaia, who provide permanent sanctuary on tribal land. They measure success in individual lives saved, and they carry the weight of every extraction that fails.
 
 **[Project Rebel](Project%20Rebel.md)** (↔ Inquisition) — Direct military action against MetaConcert infrastructure. While Railroad rescues and Fractal philosophizes, Rebel fights. Sabotage, assassination, armed resistance — and the knowledge that every action triggers Inquisition response that justifies increased authoritarianism. They fight anyway.
 
@@ -64,7 +64,7 @@ And so the quiet implication is the one [Fractal](Project%20Fractal.md) lives by
 
 **[Project Iconoclast](Project%20Iconoclast.md)** (↔ Maintainers) — Technical dismantlement of the lattice and reversal of binding constructs. Where the Maintainers build and maintain the lattice's architecture, Iconoclast reverse-engineers it. Their holy grail: proving that lattice integration is reversible. The Maintainers consider them the only Project that represents an existential threat.
 
-**[Project Heterodox](Project%20Heterodox.md)** (↔ Praxis) — Alternative frameworks for understanding the Talent. Praxis built the Domain taxonomy and the epistemological framework every Gifted uses. Heterodox asks whether the map might not match the territory. They are the Project that Praxis takes personally.
+**[Project Heterodox](Project%20Heterodox.md)** (↔ Praxis) — Alternative frameworks for understanding the power. Praxis built the Domain taxonomy and the epistemological framework every Gifted uses. Heterodox asks whether the map might not match the territory. They are the Project that Praxis takes personally.
 
 **[Project Lacuna](Project%20Lacuna.md)** (↔ Panopticon) — Counter-surveillance, privacy engineering, and the creation of spaces the Panopticon cannot see. Lacuna does not rescue, philosophize, fight, or infiltrate. They create the conditions under which all of those activities become possible. The infrastructure of resistance.
 
@@ -165,7 +165,7 @@ All Projects face the same impossible situation:
 **They cannot win without potentially destroying everyone.**
 
 The MetaConcert has MAD deterrent. If Projects actually succeed in destroying MetaConcert infrastructure:
-- Lattice might trigger mass Memory broadcast
+- The MAD trigger network might be released across the mundane population
 - Masquerade/Consensus shattered globally
 - All supernatural communities exposed
 - Everyone dies

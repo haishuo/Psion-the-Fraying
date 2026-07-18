@@ -12,7 +12,7 @@
 
 Rebel is the militant wing of Project resistance. While Railroad rescues, Fractal philosophizes, and Iconoclast engineers, Rebel fights. They are the blunt instrument — force, violence, direct confrontation with MetaConcert infrastructure and personnel.
 
-The distinction between Rebel and the other Projects matters. Rebel *assaults*. They storm White Rooms to grab Gifted mid-Correction. They ambush Integration transports to free newly Expressed children en route. They attack Maintainer hubs, Inquisition safe houses, Panopticon monitoring stations. They are the Project that kicks in the door.
+The distinction between Rebel and the other Projects matters. Rebel *assaults*. They storm White Rooms to grab Gifted mid-Correction. They ambush Integration transports to free newly Triggered children en route. They attack Maintainer hubs, Inquisition safe houses, Panopticon monitoring stations. They are the Project that kicks in the door.
 
 But Rebel is not Railroad. Once a target has been liberated — a child pulled from an Integration transport, a Gifted freed from a White Room — Rebel hands them off. Railroad takes custody, gets them to a bolthole, provides the training and sanctuary that Rebel cannot. Rebel doesn't teach bracing. Rebel doesn't run safe houses. Rebel creates the violent opening that makes extraction possible, and then other Projects do the work of turning that opening into a life.
 
@@ -192,4 +192,4 @@ Mainstream Rebel leadership tries to maintain standards, but cells operate indep
 
 ---
 
-*See also: [The Projects — Overview](The%20Projects%20-%20Overview.md); [The MetaConcert — Overview](The%20MetaConcert%20-%20Overview.md); [The Maintainers Circuit](The%20Maintainers%20Circuit.md)*
+*See also: [The Projects — Overview](The%20Projects%20-%20Overview.md); [The MetaConcert — Overview](The%20MetaConcert%20-%20Overview.md); [The Inquisition Circuit](The%20Inquisition%20Circuit.md)*

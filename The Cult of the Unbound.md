@@ -1,6 +1,6 @@
 # The Cult of the Unbound
 
-**Mission:** Emergence — to break the Chrysalis and fly free of the mortal flesh
+**Mission:** Emergence — to break the Cocoon and fly free of the mortal flesh
 
 **Philosophy:** "We are all caterpillars. The Liberated have simply emerged first."
 
@@ -17,19 +17,27 @@
 **Their symbol** is the **monarch butterfly**, and the whole of their doctrine is written in its life cycle:
 
 - The **caterpillar** is mortal, tethered life — earthbound, devouring, blind to what it could become.
-- The **Chrysalis** is what outsiders call *fraying.* Inside it the caterpillar dissolves completely — its old body unmade into formlessness — so that something new can be built from the ruin. The pain is not damage, the Unbound teach. It is metamorphosis.
+- The **Cocoon** is what outsiders call *fraying.* Inside it the caterpillar dissolves completely — its old body unmade into formlessness — so that something new can be built from the ruin. The pain is not damage, the Unbound teach. It is metamorphosis.
 - **Emergence** is what outsiders call *untethering,* the Snap: the moment the new thing splits the shell and pulls itself free of the dead flesh.
 - The **Liberated** are what outsiders call *psidolons* — the monarchs, the emerged, consciousness on the wing and done with meat and bone forever.
 
-At the end of the doctrine waits **the Final Dispensation** — the Unbound's eschatology, the promised day the whole tethered world enters its Chrysalis and every mind Emerges at once. The faithful call it **the Migration**: the great rising, when the air fills with the Liberated and the age of the leash ends forever. What the MetaConcert would call the extinction of humanity, the Unbound call the morning the butterflies finally leave.
+At the end of the doctrine waits **the Final Dispensation** — the Unbound's eschatology, the promised day the whole tethered world enters its Cocoon and every mind Emerges at once. The faithful call it **the Migration**: the great rising, when the air fills with the Liberated and the age of the leash ends forever. What the MetaConcert would call the extinction of humanity, the Unbound call the morning the butterflies finally leave.
 
-**The lie folded inside the metaphor.** Every one of the Unbound knows, and none of them will say, that *most chrysalises never open.* A caterpillar that liquefies and is not rebuilt does not become anything — it simply ends. They have watched this happen more times than any other body in the world, the MetaConcert included, and they have never once mentioned it to a recruit. "He is in his Chrysalis now" is the gentlest sentence they own, and most of the time it means *he is already gone.*
+**The lie folded inside the metaphor.** Every one of the Unbound knows, and none of them will say, that *most cocoons never open.* A caterpillar that liquefies and is not rebuilt does not become anything — it simply ends. They have watched this happen more times than any other body in the world, the MetaConcert included, and they have never once mentioned it to a recruit. "He is in his Cocoon now" is the gentlest sentence they own, and most of the time it means *he is already gone.*
 
 ---
 
 ## What They Actually Do
 
 The Cult of the Unbound is not a group of raving lunatics. They are sophisticated manipulators who target the most vulnerable population in the Gifted community: adult escapees with no support network.
+
+**And they run two roads, which nobody outside the Cult has ever bothered to tell apart.** This matters more than it sounds, because they are not two versions of one death. They are two unrelated ways of ceasing to exist, sold under one word.
+
+**The first road is for people who are not Gifted at all.** The Cult finds a frightened adult, tells them the door is open to anyone with the courage to walk through, and talks them into **forcing a Trigger.** If the rope is hemp — and it usually is, because the Cult does not test and most people are hemp — it parts on the first pull. That is a **misfire.** There is no psidolon. There is no ascension, no persistence, no aftermath of any kind. A person stops. The Cult's own accumulated observation has taught them roughly who this happens to, and they have never once put that knowledge into a recruitment conversation.
+
+**The second road is for people who already Triggered.** These are real Gifted, and the Cult does not need to talk them into anything sudden — only into *using it*, freely, gratefully, past every limit their discipline was built to hold. That road ends at the **Snap**, which is a completely different event: not a rope parting under a first load, but a rope worn through by a life. And it does not reliably produce a monster either. The weak dissipate. Only the strong cohere.
+
+**A Gifted walked to the Snap cannot misfire, and a misfire cannot produce a psidolon.** The two roads share nothing but the sales pitch. Which is the tell: a theology that genuinely believed in ascension would have to explain why its god has two entirely different doors, one of which leads nowhere at all. The Cult has never explained it, because the Cult is not confused. **They know which door they are pointing you at.** They simply need both, because they need the pitch to work on everyone who walks in frightened, and only some of those people have anything to ascend with.
 
 **Their hunting grounds:**
 - Adults who fled MetaConcert on their own
@@ -65,7 +73,7 @@ The Cult of the Unbound is not a group of raving lunatics. They are sophisticate
 *"Let me tell you the truth, the truth they do not wish you to know, the real truth: Fraying is not death. The pain you feel is simply the process. What process? The process of becoming something more, something beyond, something greater. There is a stage of human consciousness beyond the physical—and if you come with me, I can show you how to reach it."*
 
 **The reframe:**
-- Fraying isn't breakdown → it's the Chrysalis
+- Fraying isn't breakdown → it's the Cocoon
 - Pain isn't warning → it's metamorphosis
 - Untethering isn't death → it's Emergence
 - Psidolons aren't monsters → they're the Liberated, monarchs on the wing
@@ -104,7 +112,7 @@ The Cult of the Unbound is not a group of raving lunatics. They are sophisticate
 - Introduce philosophical framework (consciousness evolution)
 - Offer "proof" (testimonials from psidolons, controlled demonstrations)
 - "The Old One has existed for millennia. Does that sound like a monster?"
-- Present untethering as Emergence — the breaking of the Chrysalis
+- Present untethering as Emergence — the breaking of the Cocoon
 
 **Stage 4 - Community:**
 - Introduce to other Cult members
@@ -179,9 +187,9 @@ Many Cult recruits are people who COULD have stabilized with proper rest and sup
 
 **What the Cult knows and doesn't advertise:**
 
-The Cult of the Unbound knows about failed Expression — individuals with insufficient tether resilience who attempt Expression and do not survive. Given the nature of their activities, they have observed more failed Expressions than any other organization, possibly more than the MetaConcert itself. They know the warning signs. They have developed informal assessment frameworks for tether resilience based on accumulated observation.
+The Cult of the Unbound knows about misfires — individuals with insufficient tether resilience who force a Trigger and do not survive. Given the nature of their activities, they have observed more misfires than any other organization, possibly more than the MetaConcert itself. They know the warning signs. They have developed informal assessment frameworks for tether resilience based on accumulated observation.
 
-They do not discuss this in recruitment contexts. The transcendence narrative requires the outcome of Expression to be transformation or death-as-ascension. Failed Expression — immediate catastrophic dissolution before any ability expresses, no psidolon, no aftermath, just a person who no longer exists — does not fit the narrative. It gets filed under things experienced members know and new recruits learn about later, if at all. In the order's own gentle idiom, these are the Chrysalises that never open — and the word for them, when a word is needed at all, is only that someone *was not ready.*
+They do not discuss this in recruitment contexts. The transcendence narrative requires the outcome of a Trigger to be transformation or death-as-ascension. A misfire — immediate catastrophic dissolution before any ability surfaces, no psidolon, no aftermath, just a person who no longer exists — does not fit the narrative. It gets filed under things experienced members know and new recruits learn about later, if at all. In the order's own gentle idiom, these are the Cocoons that never open — and the word for them, when a word is needed at all, is only that someone *was not ready.*
 
 Whether the Cult uses its tether resilience assessment knowledge to screen recruits, prioritize resources toward those likely to succeed, or simply observe the pattern without acting on it is a question different Cult cells would answer differently.
 
@@ -202,9 +210,9 @@ Whether the Cult uses its tether resilience assessment knowledge to screen recru
 - Now alone and vulnerable
 - Cult recruits them
 
-**Scenario 3:** Family member Expressed late
+**Scenario 3:** Family member Triggered late
 - Railroad saved the child
-- Parent or sibling expressed later (stress-triggered Talent Expression)
+- Parent or sibling Triggered later (stress-forced Trigger)
 - Adult relative now Gifted, escaped, hiding
 - Cult approaches them
 

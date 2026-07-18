@@ -42,6 +42,8 @@ The overlay is not constructed from nothing. A complete fabricated identity buil
 
 The overlay operates on the same fundamental principle as the MAD trigger constructs — a dormant psionic structure that sits inert until a specific signal activates it. In this case, there are two constructs: the overlay itself (which suppresses the real identity and runs the fabricated one) and the **restoration trigger** (which deactivates the overlay and surfaces the original self).
 
+The shared principle stops at the construct. At the level of the *trigger* the two systems are exact opposites, and the difference decides everything about how each can be used. **MAD's signal is universal** — one instruction, identical for every construct on earth, carrying no content at all, which is what lets it cross a continent in an instant and why nothing can jam it. **Parasyte's signal is unique to one person** — a configuration cut for one mind and no other, which means it can never be broadcast, never fired at scale, and never delivered except by someone who holds that operative's particular shape.
+
 **How the two selves coexist:**
 
 The overlay does not destroy the original self. It suppresses it — pushing it below the threshold of conscious access the way a deep Memory suppression pushes a recollection below the threshold of retrieval. The original self is still there. It is simply not running. The overlay occupies the active layer of consciousness entirely: making decisions, forming relationships, doing the MetaConcert's work sincerely, competently, sometimes brilliantly.
@@ -58,6 +60,8 @@ The solution: a specific thought-pattern transmitted via Intrusion Domain. A pas
 
 This creates the operational security the system requires. Routine Panopticon monitoring cannot stumble across the trigger because it is not a thought the operative has — it is a thought that must be transmitted to them from outside. MetaConcert interrogators cannot activate it because they don't know the configuration. Even a full Intrusion-based interrogation of the overlay identity produces nothing, because the overlay genuinely does not know the trigger exists.
 
+**The uniqueness is not a preference. It is forced.** A trigger that could be fired at many operatives at once would have to be *the same trigger* for all of them — and a shared trigger is one the MetaConcert needs to discover exactly once. Worse than that: the MetaConcert invented the overlay. It has the technique, it has the lattice, and a uniform restoration signal is one it could place on the bus itself and watch the whole continent at the same moment, identifying every Parasyte operative in the institution by the simple fact of who suddenly changed. Every efficiency Parasyte might buy by standardising the trigger is an efficiency handed directly to the only adversary who could use it. So each trigger is cut for one mind, and the cost of that safety is the handler.
+
 **The handler problem:**
 
 Every Parasyte operative has a handler somewhere in the Project ecosystem who holds their restoration trigger. This creates a single point of failure that Parasyte finds acceptable because the alternative — self-triggered restoration — would mean the overlay identity could potentially discover and activate the trigger accidentally, or the MetaConcert could extract it through interrogation.
@@ -67,6 +71,12 @@ If the handler dies, is captured, or loses the trigger configuration, the operat
 This has happened. Parasyte does not know how many times, because by definition there is no way to identify an operative whose handler has been lost. Somewhere inside the MetaConcert, there may be Gifted who were once Parasyte operatives, now permanently locked into overlay identities, doing the MetaConcert's work with genuine conviction and no memory of who they were before.
 
 The thought keeps every handler awake at night.
+
+**And there is no last resort.** Parasyte has no mass restoration and structurally cannot have one. There is no signal that surfaces every operative at once — no final order, no all-hands, nothing to send if the day ever arrives when the whole network is needed awake and pointed the same direction. Waking a specific buried person is an act performed on one particular mind, and acts performed on one particular mind do not scale (see *Broadcast* in [The Seven Domains — Game Mechanics](The%20Seven%20Domains%20-%20Game%20Mechanics.md)). Restoration happens one operative at a time, by one surviving handler at a time, over weeks, assuming the handlers are alive to do it.
+
+Set that beside the weapon on the other side of the table. **MAD fires in an instant, everywhere, because its instruction is identical for everyone it touches.** The institution's doomsday device parallelises perfectly. The resistance's liberation cannot parallelise at all — and for exactly the same reason, read from the losing side of it. Freedom, in this setting, has to be delivered by hand, to one person, by someone who knew who they were.
+
+Parasyte's people are the clearest case of it. If they are ever brought home, they will be brought home retail.
 
 ---
 
@@ -199,7 +209,7 @@ Railroad's effectiveness depends almost entirely on Parasyte intelligence. Witho
 
 **How it works:**
 
-**Step 1 - Panopticon detects Expression:**
+**Step 1 - Panopticon detects a Trigger:**
 - New psionic signature appears on Detection sweeps
 - Gifted child identified and located
 - Information passed to Integrator Circuit
@@ -218,7 +228,7 @@ Railroad's effectiveness depends almost entirely on Parasyte intelligence. Witho
 - Must convince family and extract quickly
 
 **Step 4 - The race:**
-- Railroad arrives: "Your daughter Expressed. They're coming to integrate her into surveillance network. We can hide her."
+- Railroad arrives: "Your daughter Triggered. They're coming to integrate her into surveillance network. We can hide her."
 - Family: confusion, fear, disbelief
 - Clock ticking: Integrators en route
 - Decision must be made in minutes
@@ -231,7 +241,7 @@ Railroad's effectiveness depends almost entirely on Parasyte intelligence. Witho
 
 **Without Parasyte intel:**
 - Railroad operates blind or relies on rumors
-- Might hear about Expression days or weeks too late
+- Might hear about a Trigger days or weeks too late
 - Child already integrated into lattice
 - Success rate drops to 10-20%
 
@@ -243,10 +253,10 @@ Railroad's effectiveness depends almost entirely on Parasyte intelligence. Witho
 
 **The cost to Parasyte operatives:**
 
-*"I flag the Expression. I prepare the integration assignment. I watch Integrators review the file—another child about to be hooked into the lattice. Then I slip a message to Railroad. Address. Family name. Timeline. Sometimes Railroad gets there first and the Integrators find an empty house. Sometimes they don't. When they don't, I'm often the one assigned to perform the integration. I hold that child's hand. I weave their mind into the lattice while they cry and ask for their parents. I tell them it's for their safety. I watch their mind go on the network. And I hate myself. But if I blow my cover, Railroad loses their source. No more warnings. No more interceptions. No more children saved. So I keep doing it. I integrate children into slavery so that other children might stay free. The math has to work. Please, let the math work."*
+*"I flag the Onset. I prepare the integration assignment. I watch Integrators review the file—another child about to be hooked into the lattice. Then I slip a message to Railroad. Address. Family name. Timeline. Sometimes Railroad gets there first and the Integrators find an empty house. Sometimes they don't. When they don't, I'm often the one assigned to perform the integration. I hold that child's hand. I weave their mind into the lattice while they cry and ask for their parents. I tell them it's for their safety. I watch their mind go on the network. And I hate myself. But if I blow my cover, Railroad loses their source. No more warnings. No more interceptions. No more children saved. So I keep doing it. I integrate children into slavery so that other children might stay free. The math has to work. Please, let the math work."*
 
 **Why Parasyte operatives are essential:**
-- Only source of real-time Expression intelligence
+- Only source of real-time Trigger intelligence
 - Provide exact timing for successful interceptions
 - Can sometimes delay Integrator deployment (buying Railroad time)
 - Occasionally sabotage integration assignments (lost paperwork, wrong addresses)

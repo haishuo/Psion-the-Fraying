@@ -10,13 +10,13 @@
 
 ## What They Do
 
-Railroad operates an underground network dedicated to intercepting newly Expressed Gifted before the MetaConcert can integrate them into the lattice. Their primary mission is not rescue—it's prevention.
+Railroad operates an underground network dedicated to intercepting newly Triggered Gifted before the MetaConcert can integrate them into the lattice. Their primary mission is not rescue—it's prevention.
 
 **Primary mission:**
-Reach Expressing children before Integrators do and offer them freedom instead of the lattice.
+Reach Triggering children before Integrators do and offer them freedom instead of the lattice.
 
 **The race against integration:**
-1. Child expresses the Talent (usually age 12-16)
+1. Child Triggers (usually age 12-16)
 2. Panopticon detects psionic signature
 3. Integrators dispatched to bring child in for integration
 4. Railroad receives intelligence (usually from Parasyte)
@@ -174,7 +174,7 @@ So they watch, they threaten, they occasionally probe CoG territory with Detecti
 
 **What keeps Railroad operatives up at night:**
 
-*"We intercepted the Johnsons' daughter before Integrators arrived. Told them their twelve-year-old was about to be taken, integrated into a surveillance network, monitored for life. They didn't believe us at first. We had maybe twenty minutes to convince them. Her mother cried. Her father threatened to call the police. We got her out with five minutes to spare. Integrators showed up to an empty house. She's safe now, living with the Children of Gaia, learning to use her Talent without fraying. But we tore that family apart. They may never see their daughter again. The Integrators would have let them visit. We can't risk it—might compromise the sanctuary. So that girl is free, and her parents think we kidnapped her. Both things are true."*
+*"We intercepted the Johnsons' daughter before Integrators arrived. Told them their twelve-year-old was about to be taken, integrated into a surveillance network, monitored for life. They didn't believe us at first. We had maybe twenty minutes to convince them. Her mother cried. Her father threatened to call the police. We got her out with five minutes to spare. Integrators showed up to an empty house. She's safe now, living with the Children of Gaia, learning to use her power without fraying. But we tore that family apart. They may never see their daughter again. The Integrators would have let them visit. We can't risk it—might compromise the sanctuary. So that girl is free, and her parents think we kidnapped her. Both things are true."*
 
 *"Sometimes we're too late. We get there and the child is already integrated. There's nothing we can do then. The lattice connection is permanent. We watch the Integrators drive away with another kid hooked into the system. One more mind we couldn't save. And we know—we KNOW—that some of those kids will be flagged for White Rooms in a few years. Critical fraying. Preemptive execution. We could have saved them. But we were twenty minutes too slow."*
 

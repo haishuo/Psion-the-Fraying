@@ -32,7 +32,7 @@ But a framework is not the thing it describes. The Domain taxonomy reflects the 
 
 Heterodox's research is preliminary, fragmentary, and maddeningly suggestive. They have documented cases where:
 - Gifted develop abilities that sit between Domains in ways the taxonomy can't cleanly categorize
-- Technique prerequisites that Praxis considers universal turn out to be artifacts of how Praxis teaches, not of how the Talent works
+- Technique prerequisites that Praxis considers universal turn out to be artifacts of how Praxis teaches, not of how the power works
 - Tether strain profiles don't match Praxis's models for practitioners who developed their abilities outside MetaConcert training
 - The seven-Domain structure may be an artifact of the seven-Circuit institutional structure rather than a fundamental property of psionic mechanics
 
@@ -110,7 +110,9 @@ The Domain taxonomy is not just a classification system. It is the language ever
 
 Heterodox's most radical claim is that this shaping is itself a form of constraint. A Gifted trained in the Domain system develops abilities *within* that system — they learn what the system teaches, they develop along the paths the system provides, they conceive of their potential in terms the system defines. A Gifted who develops outside the system — who has never been taught the seven Domains, who has no framework for categorizing their abilities into institutional boxes — sometimes develops differently. Not necessarily better. But differently, in ways the taxonomy can't fully account for.
 
-This is the implication Praxis finds most threatening: not that the taxonomy is wrong, but that the taxonomy is *limiting*. That by teaching every Gifted to understand their abilities through the same seven-category framework, Praxis has inadvertently narrowed the range of what Gifted can conceive of doing. The framework doesn't just describe the Talent. It shapes it. And what it shapes the Talent into is what serves MetaConcert institutional needs.
+This is the implication Praxis finds most threatening: not that the taxonomy is wrong, but that the taxonomy is *limiting*. That by teaching every Gifted to understand their abilities through the same seven-category framework, Praxis has inadvertently narrowed the range of what Gifted can conceive of doing. The framework doesn't just describe the power. It shapes it. And what it shapes the power into is what serves MetaConcert institutional needs.
+
+**And this is why Heterodox did the one concrete, portable thing it is known for: it built new words.** If the vocabulary is the cage, a rival vocabulary is the first pry-bar — not the complete alternative map, which Heterodox freely admits it cannot draw, but a handful of tools for loosening the old one's grip. So Heterodox is where the counter-language comes from. *The power* for the Noesis. *Triggered* for Onset. *Technique* for protocol. *The Gifted*, held deliberately against *the Noetic*. These were not folk terms that drifted up on their own outside the lattice; they were coined, on purpose, by defected researchers who knew exactly what they were prying at — each one built to name the thing Praxis named without dragging Praxis's frame in behind it. It is why a single word can place a speaker so precisely: to say *the power* is not to lack the other word, it is to have been handed a choice and made it. And it is the clearest vindication Heterodox has of its own thesis about itself — that its gift to the resistance would not be a finished theory but a proof, a tool, a wedge. The theory has never left the seminar rooms. The words are in every safehouse in the world. You do not need to have read a line of Heterodox to carry its argument. You need only refuse to say *Noesis*.
 
 **Eve as evidence:**
 
@@ -146,7 +148,7 @@ They are attempting to think outside the MetaConcert's epistemological framework
 
 This is not a problem they can solve by trying harder. It is a structural limitation of their position: you cannot fully escape a conceptual framework from inside it. You can identify its boundaries. You can push against them. You can document the places where reality doesn't match the map. But you cannot draw a new map without using the cartographic tools the old map gave you.
 
-Heterodox knows this. Their best researchers are honest about the limitation. The question of whether a truly alternative framework for understanding the Talent is achievable — whether it is possible to understand psionic mechanics in ways that are genuinely free of Praxis's assumptions — remains open. Heterodox's contribution may not be the alternative framework itself. It may be the documented proof that the existing framework is incomplete, which is itself valuable even if the replacement never arrives.
+Heterodox knows this. Their best researchers are honest about the limitation. The question of whether a truly alternative framework for understanding the power is achievable — whether it is possible to understand psionic mechanics in ways that are genuinely free of Praxis's assumptions — remains open. Heterodox's contribution may not be the alternative framework itself. It may be the documented proof that the existing framework is incomplete, which is itself valuable even if the replacement never arrives.
 
 Praxis finds this possibility — that Heterodox might be right about the limitation without being able to provide the solution — more disturbing than the possibility that Heterodox has a complete alternative theory. An alternative theory can be evaluated, tested, and potentially refuted. A documented gap in the existing theory that nobody can fill is a permanent source of institutional uncertainty.
 

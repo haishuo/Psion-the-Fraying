@@ -32,7 +32,7 @@ This is the moment of formation. The Gifted is gone. The psidolon begins.
 
 ### The Archivist's Road: Saturation
 
-The Snap described above is the *strain* road — the tether worn past tolerance and failing. It is how most psidolons are born, but it is not the only road to the same cliff. A few Gifted reach it by *choice:* the Cult of the Unbound talk themselves into the chrysalis, certain it hatches wings *(see [The Cult of the Unbound](The%20Cult%20of%20the%20Unbound.md); there are no wings).* And one Circuit reaches it by a road that belongs to no one else — **saturation.**
+The Snap described above is the *strain* road — the tether worn past tolerance and failing. It is how most psidolons are born, but it is not the only road to the same cliff. A few Gifted reach it by *choice:* the Cult of the Unbound talk themselves into the cocoon, certain it hatches wings *(see [The Cult of the Unbound](The%20Cult%20of%20the%20Unbound.md); there are no wings).* And one Circuit reaches it by a road that belongs to no one else — **saturation.**
 
 A living archivist — a [Preserver](The%20Preservers%20Circuit.md), or one of Praxis's [Black Archivists](The%20Praxis%20Circuit.md) — holds vast quantities of borrowed memory as psionic constructs. Holding costs them almost nothing, so they seldom fray from use. But a mind has a ceiling, and a keeper packed past it begins to lose the discipline that holds *archive* and *self* apart. The borrowed memory crowds the self; the self thins; and at the end the mind can no longer hold its own anchor. The tether fails — not torn by strain, but *dissolved,* eroded from within by the sheer weight of what was kept. The cliff is the same. The road is its opposite: not too much force, but too much memory.
 
@@ -350,7 +350,7 @@ With Voronov gone, the Old One turned the Oprichnina's considerable resources to
 
 **Ivan's Son**
 
-Tsarevich Ivan Ivanovich, the Tsar's eldest son and heir, was a latent psionic. Not Expressed — he would likely never have Expressed without intervention — but the latent sensitivity was there, inherited through bloodlines the Old One had not accounted for when it selected Ivan's body in a moment of panic.
+Tsarevich Ivan Ivanovich, the Tsar's eldest son and heir, was a latent psionic. Not Triggered — he would likely never have Triggered without intervention — but the latent sensitivity was there, inherited through bloodlines the Old One had not accounted for when it selected Ivan's body in a moment of panic.
 
 Latent psionics do not produce Tether Sense or Empathic Sense or any formal Detection capability. What they produce is subtler: a vague, persistent sense that something is wrong with a person who should be familiar. An instinctive discomfort that the conscious mind cannot explain or source. The Tsarevich had lived with this feeling about his father for years. He could not have named what he was sensing. He knew something was deeply, fundamentally wrong with the man wearing his father's face.
 
@@ -422,7 +422,7 @@ They are catastrophically wrong about almost everything in this claim.
 
 Psidolons are not evolved. They are damaged. They are not free — they are trapped in a survival dynamic that requires constant host acquisition to avoid dissipation. They are not purer — they are less coherent, less themselves, less capable of genuine experience than the Gifted they were formed from. The Old One is not Liberated. It is a nightmare of layered fragments that can barely remember which of its thousands of accumulated memories are originally its own.
 
-The Cult knows about failed Expression — they have observed more cases than almost any other organization, given the nature of their recruitment activities. They know the warning signs. They have developed informal frameworks for assessing tether resilience. They have never advertised this knowledge, because the knowledge directly contradicts their public doctrine: if the process of untethering is so frequently immediately fatal, it is difficult to frame it as transcendence.
+The Cult knows about misfires — they have observed more cases than almost any other organization, given the nature of their recruitment activities. They know the warning signs. They have developed informal frameworks for assessing tether resilience. They have never advertised this knowledge, because the knowledge directly contradicts their public doctrine: if the process of untethering is so frequently immediately fatal, it is difficult to frame it as transcendence.
 
 The Cult keeps this information internal. It is the largest single piece of evidence that the Cult's leadership knows, on some level, that their doctrine is wrong — and continues to recruit anyway.
 

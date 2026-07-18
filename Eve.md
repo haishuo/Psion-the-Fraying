@@ -10,9 +10,9 @@
 
 Eve Taranis Vire should not exist.
 
-A hybrid of Garou and Gifted bloodlines, she represents a statistical impossibility — someone whose very nature allows her to wield psionic abilities without fraying. Her existence challenges the fundamental assumptions upon which the MetaConcert has built its entire society.
+A hybrid of Garou and Gifted bloodlines, she represents a statistical impossibility — unmistakably psionic, carrying a tether that does not fray, and doing things the Domain framework has no category for and no prospect of getting one. Her existence challenges the fundamental assumptions upon which the MetaConcert has built its entire society.
 
-**A number, for the record, and it is deliberately harsh.** Roughly one in a thousand Garou-Gifted births produces a hybrid at all rather than one nature sorting out the other entirely (see [Cross-Splat Edge Cases](Cross-Splat%20Edge%20Cases.md), "The Garou and the Gifted"). Whether that hybrid is anything like Eve — instinctual, fray-less, Rage and Talent braided past telling apart — is a second, far longer lottery on top of the first. All-in, something on the order of **one in a million to one in ten million.** This is not modesty. A character who keeps full access to instinctual, never-fraying psionics *and* the physical benefits of a Garou war-form at the same time is a genuinely powerful combination — the kind that would strain any table if it were reproducible. It is kept this rare on purpose, for the game's sake as much as the story's. One of her is enough. This holds even against the obvious loophole: if Eve ever has a child — with Marcus or with anyone else — that child does not inherit her configuration. They would face the same thousand-to-one, million-to-one odds as any other Garou-Gifted union, no better, because whatever settled in her womb was never a trait passed down. It was a single, unrepeatable outcome of that lottery, and having happened once buys no one, not even her own blood, a second ticket.
+**A number, for the record, and it is deliberately harsh.** Roughly one in a thousand Garou-Gifted births produces a hybrid at all rather than one nature sorting out the other entirely (see [Cross-Splat Edge Cases](Cross-Splat%20Edge%20Cases.md), "The Garou and the Gifted"). Whether that hybrid is anything like Eve — instinctual, fray-less, Rage and power braided past telling apart — is a second, far longer lottery on top of the first. All-in, something on the order of **one in a million to one in ten million.** This is not modesty. A character who has instinctual, never-fraying psionics *and* a Garou war-form to fall back on — never both in the same breath, but each available when the other will not serve — is a genuinely powerful combination, the kind that would strain any table if it were reproducible. It is kept this rare on purpose, for the game's sake as much as the story's. One of her is enough. This holds even against the obvious loophole: if Eve ever has a child — with Marcus or with anyone else — that child does not inherit her configuration. They would face the same thousand-to-one, million-to-one odds as any other Garou-Gifted union, no better, because whatever settled in her womb was never a trait passed down. It was a single, unrepeatable outcome of that lottery, and having happened once buys no one, not even her own blood, a second ticket.
 
 She is not a bridge between worlds. She is not a chosen one. She is a young woman shaped by tragedy, raised in sanctuary, and cursed with abilities she never asked for that mark her as a threat to every power structure that knows she exists.
 
@@ -40,7 +40,7 @@ Her final words, transmitted through the lattice before she severed her own conn
 
 Julian Vire grew up knowing he was born from an act of treason. His mother had abandoned everything — status, purpose, community — for love and for him. That knowledge shaped him.
 
-He never expressed the Talent strongly. Perhaps the bloodline had diluted. Perhaps the stress of constant flight suppressed it. Perhaps Miriam's exile had consequences that extended to her offspring. Whatever the reason, Julian was more human than Gifted — but he carried his mother's iron will.
+He never Triggered strongly. Perhaps the bloodline had diluted. Perhaps the stress of constant flight suppressed it. Perhaps Miriam's exile had consequences that extended to her offspring. Whatever the reason, Julian was more human than Gifted — but he carried his mother's iron will.
 
 He developed mental discipline the way one develops scar tissue: through necessity, through pain, through constant awareness that discovery meant death. Not the MetaConcert's structured training, but something rawer and perhaps more resilient.
 
@@ -70,7 +70,7 @@ Lyra reached the Children of Gaia bolthole and left her newborn daughter in thei
 
 The war party returned shaken. They had killed their target, but Lyra's final stand was the kind of death that becomes legend. She proved herself worthy of the tribe at the exact moment she died as an exile.
 
-Julian lasted weeks under sustained Intrusion — far longer than most trained Inquisitors could manage. His resistance became a whispered embarrassment within Inquisition ranks. An untrained civilian with barely any Talent Expression had outlasted their best interrogators through nothing but human stubbornness and love.
+Julian lasted weeks under sustained Intrusion — far longer than most trained Inquisitors could manage. His resistance became a whispered embarrassment within Inquisition ranks. An untrained civilian with barely any power at all had outlasted their best interrogators — not on raw will, which cannot keep a psion out, but on the crude, self-forged wall his hunted life had built, which his interrogators could only mistake for stubbornness and love.
 
 He never broke. They never got Lyra's location. They never got Eve's. He took both to his grave.
 
@@ -100,17 +100,39 @@ Eve's hybrid nature operates on principles no one fully understands.
 
 **She does not fray.**
 
-When Eve uses psionic abilities — and she does, instinctively, without training — there is no tether strain. No progressive dissociation. No risk of untethering. The metaphysical mechanics that govern every other Gifted simply do not apply to her.
+When Eve uses her power — and she does, instinctively, without training — there is no tether strain. No progressive dissociation. No risk of untethering. The metaphysical mechanics that govern every other Gifted simply do not apply to her.
 
-This is not because she is more disciplined, more careful, or more talented. The split analogy that describes the Gifted applies unusually to Eve: she doesn't just have the physiology to perform the split safely — she has a physiology where the split doesn't create the normal stress on the relevant structures at all.
+**Start from what's true of every other Gifted, because it's the thing Eve is the exception to.** Every ordinary Gifted's tether is, by default, a leak — a mind resilient enough to Trigger is resilient enough to project involuntarily, and containing that leak is the first and most constant discipline any trained psion learns (see [The Tether and Fraying — Metaphysical Mechanics](The%20Tether%20and%20Fraying%20-%20Metaphysical%20Mechanics.md), "Thought and Projection"). The Thoughtshield most Gifted carry is a muscle held tensed for life: effortful once, habitual forever, but never actually released, because releasing it means broadcasting again.
 
-Her Garou heritage interacts with her Talent in ways that bypass the normal constraints entirely. The Rage component of her hybrid nature anchors her consciousness in a way that bypasses normal tether strain mechanics entirely. This is not a stronger tether in the conventional sense. It is a tether made of different material — one where psionic stress mechanics do not apply in the same way. The Rage that grounds her also grounds her psionic architecture. These two supernatural inheritances do not cancel each other out. They reinforce each other in her specific case in ways that have no precedent.
+**Eve is not a Gifted whose leak simply stopped costing anything.** That would still be the same mechanism, just consequence-free — psionics working instinctively instead of trained, only luckier. It isn't that, and the difference is not a technicality. Her output *does* run through her tether. She projects, and the tether carries it, exactly as the architecture says it must. **Her tether is not made of the same thing yours is.**
 
-**This is worth stating plainly, because it is easy to mis-file: what Eve does is not an eighth Domain, and it is not psionics working instinctively instead of trained.** It only *resembles* psionics in its outputs — a detectable signature, effects that overlap with what Empathic Sense or Thoughtsense produce — the way smell and taste overlap into one impression of flavor without either being a version of the other. Sight is not a strange form of hearing. Eve's gift is not a strange form of the Talent. It is a difference of kind, born from a fusion — Garou and Gifted at once — that has never happened this way before and may never happen again. [Project Heterodox](Project%20Heterodox.md) comes closer to grasping this than Praxis ever will, but even their furthest reach stops at "the map is smaller than the territory" — they assume the missing territory is still psionic ground, merely uncharted. Some of what they're charting in Eve was never inside that country at all.
+That is the whole of it, and everything else about her follows. There is no leak in her to contain, so there was never a muscle to tense in the first place — not discipline, not luck, not a Thoughtshield held so well it looks effortless. The material simply doesn't leak. It doesn't fray for the same reason: fraying is what happens to *her* kind of rope under *this* kind of load, and hers is not that rope.
+
+**Eve's tether is a fourth material, and her Garou half is what made it.** *(For the metallurgy — hemp, steel, the Beast's reforging — see [The Tether and Fraying](The%20Tether%20and%20Fraying%20-%20Metaphysical%20Mechanics.md), "What a Tether Is Made Of.")* Not hemp, not steel, not a reforging — something braided in the womb out of two inheritances that had no business meeting, and it has properties steel does not have. It carries a psionic load. It does not fray under one. Those are not in tension: carbon fibre is not steel that got a discount, and it is not steel that cheats. It is a different substance with a different failure mode, and under the loads Praxis knows how to apply, it has no failure mode at all.
+
+This is why she cannot be studied into a doctrine, and why her existence is not a loophole anyone else can climb through. You cannot train hemp into steel and you cannot train steel into whatever she is. The material was settled before she was born, in a womb where two things fused that fuse nowhere else. The Rage that grounds her is not armor bolted onto a Gifted's tether. It is in the weave.
+
+**This is worth stating plainly, because it is easy to mis-file: what Eve does is not an eighth Domain, and it is not psionics working instinctively instead of trained.** She is psionic; that was never the question. What her output *resembles* is the Domains — a detectable signature, effects that overlap with what Empathic Sense or Thoughtsense produce — the way smell and taste overlap into one impression of flavor without either being a version of the other. Sight is not a strange form of hearing. Whatever is doing the work in Eve is not a strange form of the Noesis. It is a difference of kind, born from a fusion — Garou and Gifted at once — that has never happened this way before and may never happen again. [Project Heterodox](Project%20Heterodox.md) comes closer to grasping this than Praxis ever will, but even their furthest reach stops at "the map is smaller than the territory" — they assume the missing territory is more of the same kind of ground, merely uncharted. It is not more ground. What they are charting in Eve is another kingdom.
+
+**The mushroom.** Imagine a taxonomy with three kingdoms — animal, fish, plant — and no others, assembled in good faith by people who had never encountered anything else. Now hand them a mushroom. It is not an animal. It is not a fish. It is not a plant. What it is, unmistakably and in front of everyone, is *alive.*
+
+Eve is the mushroom. She is psionic. Anyone who has stood in a room with her knows it in their spine, and no one has ever seriously argued otherwise. What she is not is any of the seven things Praxis built shelves for — and here is the cut that Praxis cannot take, because it goes through the floor they are standing on. Their framework does not merely lack a shelf for her. It defines psionics **as** tether-projection through the Domains, for the plain reason that tether-projection through the Domains is the only psionics anyone in that institution has ever seen. They mistook a species for the genus. A taxonomy that holds life to mean *animal, fish, or plant* does not fail to classify the mushroom; it fails to notice the mushroom is alive.
+
+So when Praxis looks at Eve, the framework returns one of two answers, and both are wrong. Either she is a strange Gifted — an epicycle, a weird plant — or she is not really doing psionics at all. The third answer, the true one, is not available from inside: *psionics is larger than the thing we named psionics, and we never knew, because we had only ever met one kind.*
+
+**The orbit of Mercury.** For sixty years the planet's perihelion drifted further each century than Newton permitted, and nobody concluded that Newton was wrong. They concluded there was a planet they had not found yet. They named it Vulcan. They hunted it for decades; eminent men reported seeing it; it was never there. The drift was not a missing object. It was the first visible edge of a framework that did not reach as far as it claimed to.
+
+Shown Eve, Praxis wants an epicycle — an eighth Domain, a subclause, a special case bolted onto a taxonomy that is not permitted to be incomplete. Heterodox does better and still not well: they know the map is smaller than the territory, so they go looking for Vulcan, and every instrument they bring is calibrated for psionic ground. Both are searching the same country. She was never in it.
+
+This is why she is unbearable to Praxis specifically, and their rivals' own charter says why: *a documented gap in the existing theory that nobody can fill is a permanent source of institutional uncertainty.* An unsolved problem is a compliment to a framework — it says *your questions are the right ones, and we simply lack the answer.* Eve is worse than unsolved. She is a standing demonstration that the questions do not apply.
+
+**And notice what this document cannot do.** It has no word for what she does. It has *Noesis* — a Praxis coinage meaning the direct reach of a tether that reaches — and her tether is not in the circuit at all; something else is doing the work. It has *Domain*, *Detection*, *Thoughtshield*, and each one is a hand closing on a shape it does not fit. So this entry says *her power*, or *whatever is doing the work in her*, and those are not evasions or style. They are the sound of a vocabulary running out. Whoever wrote this was trained by the people who built that vocabulary, and cannot offer a better word, because there is not one. **The absence is the most accurate thing in the entry.**
+
+**Her thought-shield, such as it is, follows the same logic.** A trained Gifted's Thoughtshield is a technique: learned, effortful, sustained by the same standing discipline that keeps the leak from ever restarting. What defends Eve's mind is not that technique running better than anyone else's. It isn't tensed, because there was never a muscle recruited to hold it — it is simply how her mind is built, load-bearing architecture rather than an applied habit, the way a wall doesn't have to *try* to stand. Calling it a Thoughtshield at all is a convenience for people who need a word for "why doesn't this work on her" — it is probably not the same category of thing as what an Integrator teaches, any more than what produces her Detection-adjacent output is the Detection Domain.
 
 **Her abilities are instinctual rather than controlled:**
 - She does not study Domains or learn techniques
-- Powers express in response to need, threat, or emotional intensity
+- Powers surface in response to need, threat, or emotional intensity
 - She cannot reliably reproduce effects on demand
 - Her psionic signature is abnormal — detectable but "wrong" to trained Detection specialists
 
@@ -121,12 +143,14 @@ Her Garou heritage interacts with her Talent in ways that bypass the normal cons
 - The lattice cannot integrate her — her mental "texture" is incompatible
 
 **She possesses automatic threat detection and defensive responses:**
-- Senses hostile psionic attention before it expresses as action
+- Senses hostile psionic attention before it becomes action
 - Reflexive Barriers activate without conscious thought
 - Can identify Gifted, psidolons, and other supernatural entities on instinct
 - Her danger sense extends beyond psionic threats to include physical danger
 
-The Children of Gaia mystics have theorized she represents a fusion of Rage and Talent — two forms of supernatural heritage that should be incompatible but instead complement each other in her specific case. The Rage anchors her consciousness in a way that prevents tether strain. The Talent channels through Garou spiritual resilience rather than pure mental projection.
+The Children of Gaia mystics have theorized she represents a fusion of Rage and Noesis — two forms of supernatural heritage that should be incompatible but instead complement each other in her specific case. In their telling, the Rage anchors her consciousness in a way that spares her the strain, and what she does channels through Garou spiritual resilience rather than through mental projection at all.
+
+**They are wrong, and wrong in precisely the way everyone is wrong about her.** Nothing in Eve is routed around her tether. Her power goes straight through it, exactly as the architecture demands, and the reason it costs her nothing is that the tether it goes through is not made of what yours is. The mystics have noticed the true thing — the Rage is *in* her, and it matters — and then assumed it must be doing the work, because the only alternative is that the tether is not the object they believe a tether to be. Praxis reaches for an eighth Domain. The Children of Gaia reach for Rage. Both are holding a frame they already owned and pressing her into it. They are the gentlest possible demonstration of the problem, and they raised her, and they love her, and they still cannot see her.
 
 **This cannot be replicated.** Eve is not a template. She is an accident of bloodline, circumstance, and impossible genetic lottery. No amount of study, experimentation, or breeding programs could reproduce her condition.
 
@@ -171,7 +195,7 @@ To the various factions, Eve is a symbol as much as a person:
 
 **Living proof their surveillance can fail.** Eve exists outside the lattice, undetectable through normal monitoring, immune to standard techniques. Every doctrine about the necessity of total Integration is challenged by her existence.
 
-**Evidence their fundamental assumptions may be flawed.** If fraying is not inevitable — if there exists even one case where Talent Expression does not strain the tether — then the entire justification for preemptive execution becomes questionable.
+**Evidence their fundamental assumptions may be flawed.** If fraying is not inevitable — if there exists even one case where using the Noesis does not strain the tether — then the entire justification for preemptive execution becomes questionable.
 
 **An intelligence nightmare.** They cannot monitor her. Cannot predict her. Cannot control her. She is a blind spot in a system built on total awareness.
 
@@ -205,15 +229,15 @@ If the MetaConcert confirmed her nature and location, the response would be imme
 
 Eve remains under Children of Gaia protection, living within their caern territory. She is not a prisoner, but she is not free. Leaving means exposure. Exposure means death.
 
-She has been trained in basic Garou traditions and combat forms, though her hybrid nature means she will never undergo the First Change or gain full Garou abilities. The CoG have taught her meditation, spiritual awareness, and the importance of balance — lessons that may help her understand her own nature even if they cannot explain it.
+She has been trained in basic Garou traditions and combat forms, though her hybrid nature means she will never stand in the tribe's full inheritance — the Gifts a Garou earns through relationship with spirits have never come to her through any formal channel, and the sept that raised her is not the sept that would have to grant them. The CoG have taught her meditation, spiritual awareness, and the importance of balance — lessons that may help her understand her own nature even if they cannot explain it.
 
-Her psionic abilities express unpredictably:
+Her psionic abilities surface unpredictably:
 - Sudden Barrier activation when threatened
 - Instinctive Detection pulses during stress
 - Occasional Intrusion flashes that show her others' emotional states
-- Rare Kinesis Expressions during extreme emotion
+- Rare involuntary Kinesis during extreme emotion
 
-She cannot control these Expressions reliably. She cannot turn them off. She simply lives with abilities that respond to need rather than will.
+She cannot control these reliably. She cannot turn them off. She simply lives with abilities that respond to need rather than will.
 
 **She is angry.** Angry at parents she never knew for making choices that left her orphaned. Angry at the Black Furies for killing her mother. Angry at the MetaConcert for killing her father. Angry at the Children of Gaia for their kindness that feels like a cage. Angry at herself for abilities she never wanted that make her a target.
 
@@ -277,7 +301,7 @@ For gameplay purposes, Eve operates under unique rules:
 - Eve may use psionic abilities without tracking tether strain
 - Her powers are instinctual and cannot be reliably controlled
 - She cannot learn techniques in the traditional sense
-- Power Expression is tied to emotional/survival triggers
+- Her power is tied to emotional/survival triggers
 
 **Natural Immunities:**
 - Standard Intrusion, Control, and Memory techniques automatically fail against her
@@ -286,15 +310,15 @@ For gameplay purposes, Eve operates under unique rules:
 - Psidolons attempting to possess her find her mind incompatible as a host
 
 **Automatic Defenses:**
-- Barrier Expression activates reflexively when threatened
+- Barriers activate reflexively when threatened
 - Detection pulses trigger in presence of hostile psionic attention
 - Danger sense extends to physical and supernatural threats
 - Cannot be surprised by psionic attacks
 
 **Limitations:**
-- Cannot control when or how powers express
+- Cannot control when or how her powers surface
 - No formal training means no tactical sophistication
-- Emotional volatility can trigger unwanted Expressions
+- Emotional volatility can trigger unwanted psionic activity
 - Her unique signature makes her identifiable to those who know what to look for
 
 **Political Vulnerability:**
@@ -311,7 +335,11 @@ Eve can achieve the Crinos war form. Her Garou heritage is real and Rage is doin
 
 However her Crinos form has significant limitations compared to full-blooded Garou.
 
-**Mutual exclusivity:** Crinos and psionics cannot operate simultaneously. Crinos is Rage externalized into flesh — consciousness surrendering to the Beast, body becoming weapon. Psionics is consciousness projected outward, mind dominating matter through will. These are philosophically opposed modes of being. When Rage floods her system and transformation occurs, the mental architecture enabling psionic projection is overwhelmed. She cannot use the Talent in Crinos. The anchor becomes a wave.
+**Mutual exclusivity:** Crinos and psionics cannot operate simultaneously. Crinos is Rage externalized into flesh — consciousness surrendering to the Beast, body becoming weapon. Psionics is consciousness projected outward, mind dominating matter through will. These are philosophically opposed modes of being, and beneath the philosophy there are two separate bars, either of which would be enough on its own.
+
+**The change seats her in.** Crinos is not a costume thrown over a person. Entering it demands that mind and soul settle wholly into the flesh — bound there as completely as a full-blooded Garou is bound every hour of their life. That is not a side effect of the transformation; it is the transformation's price of admission, and Eve pays it like anyone else who wears that shape. While she is in it there is no leaving her own body, and all psionics is projection. There is nothing to project. The door is not locked; it is not there.
+
+**And the mind inside would be unfit for the work regardless.** Rage is not a mood, and what it floods is precisely the faculty psionics runs on: the cold, articulate, deliberate mind that reaches and shapes and holds a thing steady at a distance. Even if some part of her could step out in that state, what stepped out would not be coherent enough to do anything once it arrived. You cannot perform surgery while screaming. She cannot use her power in Crinos. The anchor becomes a wave.
 
 **Physical scale:** Her Crinos form is real but may be subtly atypical in appearance — her hybrid nature potentially manifesting as something uncanny even by Garou standards. Detection-trained Gifted would find her Crinos resonance deeply unsettling even without active psionic signature.
 

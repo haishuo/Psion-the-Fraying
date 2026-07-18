@@ -8,7 +8,7 @@
 
 Psion: The Fraying is a modern gothic horror splatbook set in the World of Darkness. The title names the one thing every character in the setting cannot escape.
 
-Every WoD splat subtitle captures the condition the characters exist under — the Masquerade you maintain, the Apocalypse you fight, the Ascension you seek, the Dreaming you inhabit, the Oblivion you face. The Fraying is the condition the Gifted live with: every time you use your abilities, you damage yourself. The tether — the metaphysical architecture binding mind, body, and soul into coherent existence — frays under the load of psionic Expression. It can recover with rest. It cannot be strengthened. It cannot be made permanent. It can only be managed, carefully, for as long as discipline holds and circumstances permit.
+Every WoD splat subtitle captures the condition the characters exist under — the Masquerade you maintain, the Apocalypse you fight, the Ascension you seek, the Dreaming you inhabit, the Oblivion you face. The Fraying is the condition the Gifted live with: every time you use your abilities, you damage yourself. The tether — the metaphysical architecture binding mind, body, and soul into coherent existence — frays under the load of psionic use. It can recover with rest. It cannot be strengthened. It cannot be made permanent. It can only be managed, carefully, for as long as discipline holds and circumstances permit.
 
 Fraying is inevitable. As long as you use psionics, you fray. You can slow it. You can rest. You can be disciplined and careful and restrained. But the tether is finite, and the world does not always permit discipline. Emergencies happen. Desperate situations arise. The moment comes when you must push harder than is safe, and every time you do, the damage accumulates. The question is not whether you will fray. The question is how much fraying you can sustain before the tether snaps and you become something else entirely.
 
@@ -26,27 +26,27 @@ The Fraying is deliberately less grand than Ascension, Apocalypse, or Masquerade
 
 Every human being has a tether. It is the invisible metaphysical structure binding mind, body, and soul into coherent existence — and without it, coherent existence is not possible.
 
-The Gifted are not special because they have something others lack. They are people whose tether happens to be resilient enough to survive psionic Expression.
+The Gifted are not special because they have something others lack. They are people whose tether happens to be resilient enough to survive a Trigger.
 
-The analogy is physiological: performing a full split requires specific structural capacity. Most people have legs. Not everyone's physiology permits a full split even with dedicated training. The Gifted are those with the structural capacity to perform the split and who have attempted it. Expression is not guaranteed even in those with sufficient tether resilience — trauma and extreme emotional states are suspected triggers, but the mechanism is not fully understood. Some people with sufficiently resilient tethers never Express at all. They live ordinary lives and never know what they might have been capable of.
+The analogy is physiological: performing a full split requires specific structural capacity. Most people have legs. Not everyone's physiology permits a full split even with dedicated training. The Gifted are those with the structural capacity to perform the split and who have attempted it. A Trigger is not guaranteed even in those with sufficient tether resilience — trauma and extreme emotional states are suspected triggers, but the mechanism is not fully understood. Some people with sufficiently resilient tethers never Trigger at all. They live ordinary lives and never know what they might have been capable of.
 
-When the Talent expresses — usually in childhood or adolescence — it marks the individual not as categorically different, but as someone whose metaphysical architecture can bear a load most people's cannot. What they do with that capacity is the question. What it costs them is the horror.
+When the power Triggers — usually in childhood or adolescence — it marks the individual not as categorically different, but as someone whose metaphysical architecture can bear a load most people's cannot. What they do with that capacity is the question. What it costs them is the horror.
 
 The Gifted call themselves that with something between pride and irony. Not because they were given anything. Because the community needed a name, and this one stuck.
 
-**A note on terminology:** A person expresses the Talent and is called Gifted. You are "Gifted" the way you are "tall" — it is a description of what you are, not a name for what you were given.
+**A note on terminology:** A person Triggers and is called Gifted. You are "Gifted" the way you are "tall" — it is a description of what you are, not a name for what you were given.
 
 ---
 
-## Failed Expression
+## Misfire
 
-Some people attempt Expression with insufficient tether resilience.
+Some people force a Trigger with insufficient tether resilience.
 
-The results are immediately and catastrophically fatal. The tether fails under the first load of psionic projection before any ability expresses. This is distinct from fraying, which is gradual and offers warning signs before any permanent damage occurs. Failed Expression is structural collapse on first load. There is no aftermath in the conventional sense. There is no psidolon, no coherent consciousness. The individual simply ceases to exist as a coherent entity.
+The results are immediately and catastrophically fatal. The tether fails under the first load of psionic projection before any ability surfaces. This is distinct from fraying, which is gradual and offers warning signs before any permanent damage occurs. A misfire is structural collapse on first load. There is no aftermath in the conventional sense. There is no psidolon, no coherent consciousness. The individual simply ceases to exist as a coherent entity.
 
-The MetaConcert documents these cases. Their files are clinical and brief. The Cult of the Unbound has observed more failed Expressions than any other organization, given the nature of their activities. They do not discuss this in recruitment contexts.
+The MetaConcert documents these cases. Their files are clinical and brief. The Cult of the Unbound has observed more misfires than any other organization, given the nature of their activities. They do not discuss this in recruitment contexts.
 
-The frequency of failed Expression is not publicly known. It is suspected to be more common than the MetaConcert's documentation acknowledges.
+The frequency of misfires is not publicly known. It is suspected to be more common than the MetaConcert's documentation acknowledges.
 
 ---
 
@@ -71,7 +71,7 @@ The progression is clinical, measurable, and utterly inevitable for those who pu
 
 **Late-stage fraying:**
 - Severe body rejection (pain when returning from projection)
-- Involuntary Expression during stress or sleep
+- Involuntary Bleed during stress or sleep
 - Stuttered coherence and identity flickering
 - Detectable by the Panopticon through lattice monitoring
 
@@ -90,7 +90,7 @@ Psionic abilities are organized into seven fundamental Domains, each representin
 
 **Kinesis** - Telekinesis and kinetic energy manipulation
 
-**Intrusion** - Telepathy, mind reading, and mental exploration
+**Intrusion** - Reaching *past* a mind's surface — the truth it hides, deep extraction, and projecting in
 
 **Control** - Mind domination, compulsion, and will override
 
@@ -98,7 +98,7 @@ Psionic abilities are organized into seven fundamental Domains, each representin
 
 **Memory** - Information storage, recall, and manipulation within minds
 
-**Detection** - Sensing supernatural signatures and psionic entities
+**Detection** - Reading what a mind broadcasts — surface thought and emotion, presence, signatures, tether
 
 Each Domain contains techniques ranging from basic abilities to master-level powers. The strength and range of a projection directly correlates to the strain placed on the tether.
 
@@ -110,7 +110,7 @@ The seven Domains are not merely a taxonomy of powers. They are the organizing s
 
 The central governing body of the Gifted operates as both protective organization and totalitarian surveillance state. The name is not musical — "concert" means *concerted effort*, coordinated action at the meta scale. The MetaConcert is a living lattice of minds — every initiated Gifted connected to a shared psychic network whether they consent or not.
 
-Membership is not optional. When a child expresses the Talent, the Circuits find them. A binding construct is installed in their mind, connecting them to the lattice permanently. From that moment forward, they are on the network — not constantly broadcasting, but always addressable, always observable, always reachable by Panopticon monitors who can access their surface thoughts at any time without their knowledge. You can never tell when you are being watched — only that you always might be.
+Membership is not optional. When a child Triggers, the Circuits find them. A binding construct is installed in their mind, connecting them to the lattice permanently. From that moment forward, they are on the network — not constantly broadcasting, but always addressable, always observable, always reachable by Panopticon monitors who can access their surface thoughts at any time without their knowledge. You can never tell when you are being watched — only that you always might be.
 
 The MetaConcert maintains order through seven specialized Circuits, each aligned with one of the seven Domains and listed here in the order they were founded — the institution accreted function by function rather than being designed all at once:
 
@@ -122,7 +122,7 @@ The MetaConcert maintains order through seven specialized Circuits, each aligned
 
 **The Panopticon** (Detection) - Surveillance, intelligence, and tether monitoring
 
-**The Integrators** (Intrusion) - Training and safe development of newly Expressed Gifted
+**The Integrators** (Intrusion) - Training and safe development of newly Triggered Gifted
 
 **The Preservers** (Memory) - Information management and institutional memory
 
@@ -162,7 +162,7 @@ Not all Gifted accept the MetaConcert's authority. Those who reject the lattice,
 
 **Project Iconoclast** (↔ Maintainers) - Technical dismantlement of the lattice and reversal of binding constructs
 
-**Project Heterodox** (↔ Praxis) - Alternative frameworks for understanding the Talent
+**Project Heterodox** (↔ Praxis) - Alternative frameworks for understanding the power
 
 **Project Lacuna** (↔ Panopticon) - Counter-surveillance and the creation of spaces the Panopticon cannot see
 
@@ -202,29 +202,55 @@ The population of psidolons remains small — most are eliminated by the Inquisi
 
 **You Are Your Own Beast** - The temptation is internal: push a little further, see one second ahead, take one more mind, project just beyond safe limits.
 
-**The Curse of Power** - Most Gifted would prefer not to have their abilities. The Talent is a curse offering power at the cost of inevitable self-destruction if misused.
+**The Curse of Power** - Most Gifted would prefer not to have their abilities. It is a curse offering power at the cost of inevitable self-destruction if misused.
 
 **Impossible Moral Equations** - When does preemptive execution become murder? When does safety become oppression? When does resistance become recklessness?
 
 ---
 
+## A Note on This Text
+
+Someone wrote this, and it matters who.
+
+The voice belonged to Praxis once — trained in the Domain system, fluent in its Greek, credentialed by the institution this book spends most of its length indicting. They left. They write for [Project Heterodox](Project%20Heterodox.md) now, and what you are holding is what Heterodox's own charter predicts it must be: not the alternative framework, but *the documented proof that the existing one is incomplete.*
+
+You can watch it happen in the vocabulary. In his own voice — describing a child, a life, a thing done to a person — he writes **the power**, **Triggered**, **technique**, **misfire**: the plain words, lowercase, the ones a mother uses. That plainness is not folk speech he picked up outside the lattice. It was *built.* The whole counter-language is a **Heterodox** invention, engineered on purpose by people who understood, from the inside, that Praxis's vocabulary was never neutral — that a child taught to name her own mind in Praxis's Greek has already been told what she is permitted to think about it. So Heterodox made rival words and put them in the mouth of anyone willing to refuse. *Noesis* was coined in a seminar room this writer once sat in, and he can still hear the man who taught it to him explaining that precision is a kindness to the reader. To write **the power** instead is that whole argument, carried in two syllables, by someone who helped build it.
+
+And yet he does not refuse those words everywhere — and where he *keeps* them tells you as much as where he drops them. When he quotes the MetaConcert, the MetaConcert speaks its own tongue: **Onset**, the **Noetic subject**, **protocol**, **Correction**, **Sterilization**. Not because he has gone soft, but because that is what they *said*, and the word is a shibboleth — put *the power* in a Praxis mouth and you have written an officer who does not exist. When he names the institution's machinery, he names it in the institution's language and lets the coldness of the name do the indicting. The register is a border. Cross into the MetaConcert's frame and the words change at the line, every time, on purpose — and the change is how you know whose eyes you are behind.
+
+But they write **Domains**. They write **Barriers**, and **Detection**, and **Intrusion**, because there are no other words and they know there are no other words. Heterodox's own honest researchers said it first: *you cannot draw a new map without using the cartographic tools the old map gave you.*
+
+So watch where **Noesis** appears anyway. It is not carelessness and it is not habit — it is the handful of places where nothing plainer will carry the weight, and the writer reaches back into Praxis's vocabulary because the argument requires it and no substitute exists. Each one is a small defeat, and they know it, and they let you see it. The terminology of this book is not neutral, not consistent, and not an accident. It is someone refusing the words they can refuse and surrendering, sentence by sentence, on the words they cannot — and if you want to know where Praxis's framework ends, watch for the places where their vocabulary stops having alternatives.
+
+Where this text knows things no Heterodox researcher could — the MetaCouncil in private session, the interior of a psidolon, what the Sealed College keeps — it is not them. Those passages have no author. Take them as the book's other voice, the one that owes you the truth instead of a perspective. The seam between the two is itself informative: **everything the first voice cannot tell you is something the institution successfully kept.**
+
+---
+
 ## Key Terminology
 
-**The Gifted** - Humans whose tether resilience is sufficient to survive psionic Expression; the community term for people with the Talent
+*Most entries below carry a two-register split: the Projects' word and the MetaConcert's. That is because those are the two **coined** vocabularies — each built on purpose, each a shibboleth. Real speech has two further layers that are **not** catalogued because they have no fixed word: the **psion-colloquial** (off-duty shop-talk — a psion says "override," not "Puppeteer") and the **outsider** frame (a non-psion has no psion word at all and reaches for their own — a Kindred says "mind control" or "Dominate," a mage "the Mind sphere," a mortal "hypnosis"). Those live in dialogue, where which word a speaker refuses is characterization. Catalogue the coined two; let the natural two emerge.*
 
-**The Talent** - The innate psionic ability expressed by the Gifted. Named for its quality as a natural aptitude some possess rather than a gift bestowed from outside.
+**The Gifted** - Humans whose tether resilience is sufficient to survive a Trigger; the community term for those who have Triggered. *(The MetaConcert's register is* **Noetic** *— see below.)*
 
-**Expression / To Express** - The emergence of the Talent in a Gifted individual. Not a transformation or awakening but the surfacing of something always present. "When did you first express?" is common community shorthand.
+**The Noetic** - What the file calls a Gifted. Praxis coined *Noesis*, and Praxis derived the adjective and applied it to the population; the word appears in case notes, extraction orders, and Correction paperwork, never in a mother's mouth. A Maintainer says *the Noetic subject is stable.* The subject's family says *my daughter is Gifted.* Same child. Like *protocol* against *technique*, it is a shibboleth: a character who says *Noetic* was raised in the lattice — or is reading from a form.
 
-**Failed Expression** - When an individual with insufficient tether resilience attempts Expression. Immediately and catastrophically fatal. Distinct from fraying. More common than the MetaConcert's public documentation acknowledges.
+**The Noesis** - The direct, unmediated reach of a tether resilient enough to survive a Trigger: a mind meeting the world with nothing standing in between. Praxis took the word from the Greek for *direct intellectual apprehension* — as against the mediated kind of knowing that must work through an interface, translating intention into paradigm before reality will answer. That is the whole difference between a Gifted and a mage, and it is why the word names a *mode*, not a possession. Nothing was bestowed. There is no second thing living inside a Gifted. Their tether simply reaches, and the reaching is the Noesis.
+
+*Outside the lattice — among the Projects, the unaffiliated, the Cult — it is simply* **the power***. Not ignorance: most of them were raised in the lattice and know the word perfectly well. It is refusal, and it is refusal that someone designed. The counter-vocabulary —* the power, Triggered, technique *— was built by [Project Heterodox](Project%20Heterodox.md) on purpose, word by word, as the working edge of their charge that Praxis's taxonomy is* limiting*: that teaching a child to name her own mind in Praxis's Greek decides what she can afterward think with it. To say* the power *instead of* the Noesis *is to pick up a tool Heterodox forged and make that argument in two syllables, for free — which is why the word has reached mouths that never heard the theory behind it. Marcus Thiel has not said* Noesis *since the night he cut the lattice out of his own skull.*
+
+**Trigger / To Trigger** - The night the tether first reaches. Not a transformation and not an awakening — nothing arrives that was not already there; a threshold is simply crossed, usually under trauma, usually between twelve and sixteen, and almost never on purpose. *"When did you Trigger?"* is the first question one Gifted asks another, and the answer is always a story. *(The MetaConcert's register is* **Onset** *— a noun, never a verb, because a file has no room for a night anyone remembers. Date of onset: age 12.)*
+
+**Misfire** - A Trigger the tether cannot survive. Immediately and catastrophically fatal, and distinct from fraying: fraying is a wound that accumulates, a misfire is a structure that fails on first load. The word is what people outside the lattice actually say, and it is doing what such words do — a child is dead, and the sentence that carries her is short enough to get through. More common than the MetaConcert's public documentation acknowledges. *(The file says* **Failed Onset***.)*
+
+**Bleed** - Involuntary psionic emission from a badly frayed Gifted: a stray thought broadcast across the lattice, a small object twitching, someone else's surface thoughts leaking in. It is loud, it costs Strain, and it is the reason the frayed cannot keep a secret. *(The MetaConcert files it as a* **saccade** *— borrowed, with characteristic precision, from the jerk of the eye between fixations. The borrowing carries a second meaning the Circuits do not advertise: the eye is blind during its own saccade. You do not perceive yours either. Everyone else does.)*
 
 **The Fray / Fraying** - Progressive weakening of the tether through psionic projection
 
 **The Tether** - Invisible metaphysical structure anchoring mind, body, and soul; universal in all humans, varies in resilience
 
-**Unshielded** - The pre-training state of a newly Expressed Gifted: uncontrolled, bidirectional thought leakage with no containment. Not tether damage but the absence of training, and distinct from fraying. Resolved by bracing. *Register:* "Unshielded" is the neutral term used throughout this book; the MetaConcert's own clinical name for the condition is **Exposed**, while Gifted in the vernacular call it being **Raw**. (Earlier drafts called this the "Unmoored" state — retired because it wrongly implied tether loss, which is the opposite end of the severity scale.)
+**Unshielded** - The pre-training state of a newly Triggered Gifted: uncontrolled, bidirectional thought leakage with no containment. Not tether damage but the absence of training, and distinct from fraying. Resolved by bracing. *Register:* "Unshielded" is the neutral term used throughout this book; the MetaConcert's own clinical name for the condition is **Exposed**, while Gifted in the vernacular call it being **Raw**. (Earlier drafts called this the "Unmoored" state — retired because it wrongly implied tether loss, which is the opposite end of the severity scale.)
 
-**Bracing** - The foundational containment technique taught to every newly Expressed Gifted, establishing the first mental boundary and ending the Unshielded state. The precondition for all other technique.
+**Bracing** - The foundational containment taught to every newly Triggered Gifted, establishing the first mental boundary and ending the Unshielded state — the psionic equivalent of a fledgling learning to leash the Hunger. It sits *below* the Domain scale (not a Barriers dot, never on the sheet): it is the *skin* — one membrane that gates the inbound flood of nearby surface cognition down to something survivable and keeps your own mind from broadcasting out, both in the same act. The trained *armor* against a directed intrusion is the separate Barriers Domain. The precondition for all other technique.
 
 **Domains** - Seven categories of psionic ability, each the organizing basis of one Circuit and, by mirror, one Project
 
@@ -236,7 +262,9 @@ The population of psidolons remains small — most are eliminated by the Inquisi
 
 **The MetaConcert** - Living lattice of psionic minds governing initiated Gifted
 
-**The Lattice** - The mental network connecting all MetaConcert members
+**The Lattice** - The mental network connecting all MetaConcert members — and, more precisely, a **bus**: a shared channel that a broadcast instruction can be placed on, reaching every bound mind at any distance. Receiving what crosses it is ambient and free, which is why an ordinary analyst commands city-scale perception. Placing something on it is a credential very few hold. A bound Gifted is therefore not only watched; they are *addressable*, and an unbound one is not merely unmonitored but unavailable.
+
+**Broadcast** - One psionic act addressed to every mind in reach at once. Possible because the power was never point-to-point — every unshielded mind already pours its surface out for free, and broadcast is that same channel run outward. The cost is set by the *instruction*, not the audience: five thousand and five million are not meaningfully different jobs, provided the instruction is identical for every mind and needs to know nothing about any of them. The moment it must be fitted to a particular life — a specific memory, a specific will — it **diverges**, and becomes as many jobs as there are people. Hence the law that shapes the whole setting: **violation cannot be parallelized.** You can make a city forget. You will never make a city obey.
 
 **The MetaCouncil** - Seven-member ruling body, one senior representative from each Circuit
 
@@ -252,7 +280,7 @@ The population of psidolons remains small — most are eliminated by the Inquisi
 
 **The Projects** - The seven resistance movements operating outside MetaConcert authority, each mirroring a Circuit
 
-**The Cult of the Unbound** - An extremist fringe that venerates psidolons as the next stage of consciousness; not a Project and aligned to no Circuit, standing apart from the resistance that disowns it. *Cult of the Unbound* is an exonym; to themselves they are simply **the Unbound**, and their formal/liturgical name is **Asclepias tuberosa** (milkweed — the monarch's host plant). Their symbol is the **monarch butterfly**, and their whole doctrine is its life cycle: mortal life is the caterpillar, fraying is the **Chrysalis**, the Snap is **Emergence**, the psidolon is the emerged **Liberated**, and their eschatology — the day all minds Emerge at once — is the **Final Dispensation**, or **the Migration**.
+**The Cult of the Unbound** - An extremist fringe that venerates psidolons as the next stage of consciousness; not a Project and aligned to no Circuit, standing apart from the resistance that disowns it. *Cult of the Unbound* is an exonym; to themselves they are simply **the Unbound**, and their formal/liturgical name is **Asclepias tuberosa** (milkweed — the monarch's host plant). Their symbol is the **monarch butterfly**, and their whole doctrine is its life cycle: mortal life is the caterpillar, fraying is the **Cocoon**, the Snap is **Emergence**, the psidolon is the emerged **Liberated**, and their eschatology — the day all minds Emerge at once — is the **Final Dispensation**, or **the Migration**.
 
 **The Old One** - Ancient psidolon whose existence haunts all psionic society
 
@@ -272,7 +300,7 @@ It is a spy thriller wearing the skin of a horror game. The signature move is no
 
 Every power in the World of Darkness keeps to its own ground. The Kindred move through boardrooms and ballrooms and the velvet backrooms of money and politics — the night belongs to predators who dress well. The Garou keep to the wild and the margins, the caern and the wrecking yard, where the spirit world presses close. The Gifted move somewhere else entirely. **The Gifted move in academia.**
 
-Universities, teaching hospitals, research institutes, archives, endowed libraries, grant committees — the whole machinery of credentialed knowledge and the institutional management of minds and bodies. It is the perfect habitat for them, and not by accident. The Talent surfaces in the young, usually under stress, so the newly Expressed concentrate exactly where the young gather under pressure: on campuses. The Gifted's power is information and the quiet management of other minds — the native currency of the institutions that produce, hoard, and classify knowledge. And the clinical horror beneath everything they do has an obvious home in the places built for observing, sorting, treating, and confining people *for their own good:* the clinic, the ward, the examination hall. The Gifted do not merely hide in these institutions. They are *of* them — what those institutions would be if the watching and the sorting and the correcting were done by people who could reach directly into your head.
+Universities, teaching hospitals, research institutes, archives, endowed libraries, grant committees — the whole machinery of credentialed knowledge and the institutional management of minds and bodies. It is the perfect habitat for them, and not by accident. The power surfaces in the young, usually under stress, so the newly Triggered concentrate exactly where the young gather under pressure: on campuses. The Gifted's power is information and the quiet management of other minds — the native currency of the institutions that produce, hoard, and classify knowledge. And the clinical horror beneath everything they do has an obvious home in the places built for observing, sorting, treating, and confining people *for their own good:* the clinic, the ward, the examination hall. The Gifted do not merely hide in these institutions. They are *of* them — what those institutions would be if the watching and the sorting and the correcting were done by people who could reach directly into your head.
 
 Praxis is the proof in the Circuit's own bones. It began not as a hunting party but as **scholars** — psionic scholars, but scholars still — in the places where scholars gather, and it has never stopped being a faculty. Where the Inquisition was a necessity before it was an organization, Praxis was a *seminar.* And the whole MetaConcert presence on a campus reads, to anyone who could see it clearly, like a secret society of the most sinister kind: the honor society that taps the truly gifted, the faculty who are rather more than faculty, the research wing nobody has clearance for, the bright student who changes over a semester into someone calmer and emptier and cannot remember why. Picture the apocryphal version of an Ivy League secret society — the hooded oligarchy-in-training everyone half-believes in — then make it real, make it psionic, and give it the authority to decide which minds are too dangerous to keep.
 
@@ -290,7 +318,7 @@ Psion's fantasy: **if this fight becomes a fight over the mind itself, there are
 
 Psion risks the **Wraith: The Oblivion problem** — a splat can be thematically superb and still be a nightmare to actually *play*, if the player can never point to a verb and say "that's what makes me feel strong." Wraith never solved this; the Fraying can't afford to repeat it. The Gifted's power fantasy is real, and it is not borrowed from anyone else's toolbox.
 
-**The verb has no tell.** Every other splat's signature power costs a beat the world can react to. Dominate needs the eyes. A rote needs the gesture, the incantation, a Vulgar roll witnesses can notice. Crinos needs the transformation to physically happen in front of you. A Gifted's Talent has no externally visible windup at all — thought is the entire action. There is nothing to flinch from, dodge, or interrupt. The only trace is retroactive, on the lattice, after the fact. No other splat in this toolkit has *uninterruptible action* as its baseline.
+**The verb has no tell.** Every other splat's signature power costs a beat the world can react to. Dominate needs the eyes. A rote needs the gesture, the incantation, a Vulgar roll witnesses can notice. Crinos needs the transformation to physically happen in front of you. A Gifted's power has no externally visible windup at all — thought is the entire action. There is nothing to flinch from, dodge, or interrupt. The only trace is retroactive, on the lattice, after the fact. No other splat in this toolkit has *uninterruptible action* as its baseline.
 
 **The mastery expression is omniscience, not force.** Detection is the cheapest Domain in the book (Strain Rating 1, tied with Barriers), and Thoughtsense in particular is enormous in range and nearly unblockable — it reads anything that thinks, which in the World of Darkness is nearly everything. A Gifted's fantasy isn't winning the fight; it's arranging things so the fight was never necessary, because they already knew the guard's rotation, the mark's real fear, the ambush three rooms early. This is competence porn: the reward for mastery is *always being the best-informed person in the room*, not the biggest hammer.
 

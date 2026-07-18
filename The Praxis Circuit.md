@@ -200,6 +200,18 @@ Praxis recorded all of it, rigorously, and never identified the cause — every 
 
 This is the pattern in its purest form, and the Circuit has never quite been made to look at it. **Praxis produces the thing, declines the consequences of the thing, and is genuinely puzzled when the consequences turn out to have been part of it.**
 
+**The resentment was arithmetic, and the arithmetic was correct.** Anyone who has spent time in a university knows the type exactly: the brilliant researcher who despises teaching, and who despises it *in proportion to how brilliant they are*, because the calculation is so plain from the inside. Every hour in front of a classroom is an hour not spent on the work only they can do. A Praxis theorist pulled off tether topology to sit with a frightened twelve-year-old is, in a real and checkable sense, costing the field a discovery — and the record shows Praxis kept producing discoveries at a rate that made the complaint credible. **They were not wrong about what teaching cost.** They were wrong about the ledger it belonged on, and about which of the two costs was recoverable.
+
+The child in front of them was not an enemy. That would have been survivable. The child was an **obstacle** — an allocation error, a misuse of an instrument, a thing standing between a first-rate mind and the paper it should have been writing. Children are extremely good at detecting which of those two they are, and being resented as an inconvenience by someone who will not look at you is its own specific injury.
+
+**And then the Integrators were founded, which fixed the children and made Praxis worse.**
+
+Not every Praxis researcher hated teaching. A minority were good at it and knew they were, some because they liked children and some because explaining a thing well is its own intellectual pleasure. When a Circuit was created whose entire purpose was that work, those were the people who went. **The founding of the Integrators drained out of Praxis, in a single generation, very nearly everyone in it with a pedagogical instinct** — and the ones who stayed were specifically the ones for whom the assignment had always been an insult.
+
+Nobody planned that. It is a selection effect, and it has been compounding for centuries: each generation of Praxis is recruited, trained, and promoted by the survivors of the last, and the trait that left has never come back. **The MetaConcert solved the teaching problem by building an outlet, and the outlet drained the warmth out of the institution it was draining.** Praxis today is colder than Praxis was, and it is colder precisely because the Integrators exist.
+
+There is a version of this Circuit that did not happen — the one in which the good teachers stayed and argued, and Praxis had to keep looking at what its work did to the people it was done to. That Praxis would have been a very different institution. It is not clear it would have discovered less.
+
 When Praxis built the lattice, the Concordat required a third party to maintain it. That third party became the Maintainers. And the moment the Maintainers existed, formalization became necessary. Praxis built the infrastructure that made formal organization inevitable, and then watched the organization they'd accidentally created develop the authority to constrain them. This is the detail Praxis finds most uncomfortable about their own history. Their most significant achievement wasn't intellectual. It was political.
 
 ### The Black Archive

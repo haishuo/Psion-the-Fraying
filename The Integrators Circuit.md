@@ -58,9 +58,15 @@ The fact that this system operated for years before anyone raised a formal objec
 
 The Integrators were created to solve this specific problem: children needed someone whose first instinct was not threat assessment. The Circuit was built from the ground up around a different premise than any other Circuit — that the MetaConcert's first contact with a new Gifted should be an act of care, not an act of evaluation. This was radical by MetaConcert standards. It remains the institution's closest approach to a genuinely humane principle.
 
-**And it is worth asking where the first Integrators came from, because the answer explains the Circuit's temperament better than any charter.** The cure for the curse of knowledge is not intelligence. It is *memory* — someone who can still recall what not knowing felt like from the inside. So the founding cohort was drawn very largely from the people the old system had processed: children who had been assessed as threats, bound by a technician, handed to a researcher who resented the assignment, and who had come out the other side anyway. They remembered being twelve in a room with somebody explaining topology. They remembered which sentence had finally worked, and how many had come before it.
+**And it is worth asking where the first Integrators came from, because the answer explains the Circuit's temperament better than any charter.** They arrived from two directions, and the Circuit is still visibly made of both.
 
-That is the whole of it. Every other Circuit is cold because the work rewards coldness. **This one is warm because it was founded by its own survivors**, and the thing they were determined to fix was not an inefficiency. It was an experience they had personally had.
+**The survivors.** The cure for the curse of knowledge is not intelligence — it is *memory*, someone who can still recall what not knowing felt like from the inside. A great many of the founding cohort were the people the old system had processed: children assessed as threats, bound by a technician, handed to a researcher who resented the assignment, and who came out the other side anyway. They remembered being twelve in a room with somebody explaining topology. They remembered which sentence had finally worked, and how many had come before it.
+
+**And the defectors.** Not every Praxis researcher hated teaching. A minority were good at it and knew it — some because they liked children, some because explaining a thing well is its own kind of intellectual pleasure — and they had spent years doing that work inside an institution that regarded it as a tax on real thought. The moment a Circuit existed whose entire purpose *was* that work, they went, and they took the Domain framework with them.
+
+**Which makes this Circuit, quietly, a schism dressed as an administrative reorganisation.** The Integrators are not a department the MetaConcert stood up. They are the part of Praxis that thought the children mattered, given somewhere to go — and Praxis has been colder ever since, for exactly the reason that they left. *(See [The Praxis Circuit](The%20Praxis%20Circuit.md), "The teaching years.")*
+
+That is the whole of it. Every other Circuit is cold because the work rewards coldness. **This one is warm because it was founded by its own survivors and by the only people in the old order who had wanted the job** — and the thing they were determined to fix was not an inefficiency. Half of them had lived it, and the other half had watched it and been told it was not the point.
 
 ---
 

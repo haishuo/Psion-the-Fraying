@@ -67,9 +67,15 @@ Both framings run the same three acts. Choose before session zero; it changes wh
 
 ## Act One — The Tell
 
-*Goal: introduce the cell and Mara, let the players notice the fraying, and give them their first low-stakes taste of using a Domain (and paying a little Strain).*
+*Goal: introduce the cell and Mara, let the players notice the fraying, and teach the line the whole engine runs on — that looking is free and reaching is not.*
 
-Open on the cell getting the tip — a loud new signature across town, a child, and a narrow window. Stage a small, calm beat that requires light psionic use: reading a nervous informant (Skim, 2 Strain), scouting the building (Thoughtsense or Remote Viewing, 1–2 Strain), quieting a suspicious neighbor (a Suggestion, 2 Strain). Let everyone spend a box or two and see that it's nothing. This is the baseline against which the rest of the night will feel like falling.
+Open on the cell getting the tip — a loud new signature across town, a child, and a narrow window. Stage a small, calm beat that uses the power lightly, and make sure it uses it on **both** sides of the line:
+
+- **Reading the nervous informant** (Skim) — **free.** He is broadcasting; they are listening. Say so out loud at the table, and let them feel how strange it is to have a mind-reading power that costs nothing.
+- **Scouting the building** (Thoughtsense) — **free** at street level; charge it the moment they want to read across the city instead of across the road, because that is reaching.
+- **Quieting a suspicious neighbour** (a Suggestion) — **2 Strain**, and cheaper still if he was half-inclined to mind his business anyway. The first box any of them marks all night, and it happens the instant they stop listening and start pushing.
+
+Let them spend a box or two and see that it's nothing. This is the baseline against which the rest of the night will feel like falling — and the contrast is the lesson: **nobody frays from knowing things. They fray from doing them.**
 
 **The tell.** Somewhere in here, let the players catch Mara's fraying — don't hand it to them; make them earn it:
 

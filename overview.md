@@ -98,7 +98,7 @@ Psionic abilities are organized into seven fundamental Domains, each representin
 
 **Memory** - Information storage, recall, and manipulation within minds
 
-**Detection** - Reading what a mind broadcasts — surface thought and emotion, presence, signatures, tether
+**Detection** - Reading what a mind broadcasts — surface thought and emotion, presence, signatures, tether. The one Domain that costs nothing at all, because receiving is not reaching
 
 Each Domain contains techniques ranging from basic abilities to master-level powers. The strength and range of a projection directly correlates to the strain placed on the tether.
 
@@ -244,7 +244,7 @@ Where this text knows things no Heterodox researcher could — the MetaCouncil i
 
 **Bleed** - Involuntary psionic emission from a badly frayed Gifted: a stray thought broadcast across the lattice, a small object twitching, someone else's surface thoughts leaking in. It is loud, it costs Strain, and it is the reason the frayed cannot keep a secret. *(The MetaConcert files it as a* **saccade** *— borrowed, with characteristic precision, from the jerk of the eye between fixations. The borrowing carries a second meaning the Circuits do not advertise: the eye is blind during its own saccade. You do not perceive yours either. Everyone else does.)*
 
-**The Fray / Fraying** - Progressive weakening of the tether through psionic projection
+**The Fray / Fraying** - Progressive weakening of the tether through psionic projection — **and through projection alone.** This is the exact definition and the setting's title, so it is worth stating precisely: the tether wears where it bears load *outside* the body. **Reception is free** (Detection: the signal was already arriving, and you cannot fray by listening). **Containment is tiring but not injurious** (bracing, and holding a Barriers wall: real effort, no permanent damage, cleared by rest). **Everything that reaches outward frays** — Intrusion, Memory, Control, Projection, Kinesis, weaponised Barriers, reading past the range the broadcast already reaches, and putting an instruction out across the lattice. It is not a tax on being Gifted. It is the price of touching the world, and by the disposition rule the price rises with how much the world objected.
 
 **The Tether** - Invisible metaphysical structure anchoring mind, body, and soul; universal in all humans, varies in resilience
 
@@ -320,7 +320,7 @@ Psion risks the **Wraith: The Oblivion problem** — a splat can be thematically
 
 **The verb has no tell.** Every other splat's signature power costs a beat the world can react to. Dominate needs the eyes. A rote needs the gesture, the incantation, a Vulgar roll witnesses can notice. Crinos needs the transformation to physically happen in front of you. A Gifted's power has no externally visible windup at all — thought is the entire action. There is nothing to flinch from, dodge, or interrupt. The only trace is retroactive, on the lattice, after the fact. No other splat in this toolkit has *uninterruptible action* as its baseline.
 
-**The mastery expression is omniscience, not force.** Detection is the cheapest Domain in the book (Strain Rating 1, tied with Barriers), and Thoughtsense in particular is enormous in range and nearly unblockable — it reads anything that thinks, which in the World of Darkness is nearly everything. A Gifted's fantasy isn't winning the fight; it's arranging things so the fight was never necessary, because they already knew the guard's rotation, the mark's real fear, the ambush three rooms early. This is competence porn: the reward for mastery is *always being the best-informed person in the room*, not the biggest hammer.
+**The mastery expression is omniscience, not force.** Detection **costs nothing at all** — it is reception, not projection, and you cannot fray by listening — so the psion's defining verb is one they may use constantly, forever, without ever paying for it. Thoughtsense in particular is enormous in range and nearly unblockable — it reads anything that thinks, which in the World of Darkness is nearly everything. A Gifted's fantasy isn't winning the fight; it's arranging things so the fight was never necessary, because they already knew the guard's rotation, the mark's real fear, the ambush three rooms early. This is competence porn: the reward for mastery is *always being the best-informed person in the room*, not the biggest hammer.
 
 Both halves scale specifically with the mental Domains (Intrusion, Detection, Control, Memory) — Kinesis stays physical, throttled, and expensive. A Gifted isn't instant at everything. They're instant at exactly the verbs where every other splat still has to pay a toll.
 

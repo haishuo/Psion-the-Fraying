@@ -178,7 +178,7 @@ That is not a mercy anyone designed. It is a property of the machinery, and it i
 
 **Primary Use:** Protecting against mental intrusion, manipulation, and detection
 
-**Tether Strain:** Low to moderate (defensive techniques generally safer)
+**Tether Strain:** Low, and **it never becomes permanent damage.** Holding a wall is an active contest, so it tires you — but nothing leaves the body, so the Strain of defending never hardens into Fray, and rest clears it completely. A psion can hold the line all night and wake up whole. The *offensive* half of the Domain is another matter: Mind Barbs, Feedback and an Aegis stretched over other people all reach back out through the door, and reaching out frays like anything else.
 
 ### The Unshielded State
 
@@ -576,7 +576,7 @@ And it is why the *defense* against it is unlike any other. Dominate is resisted
 
 **Primary Use:** Reading surface thought and emotion, sensing minds and supernatural entities, feeling psionic activity, reading tether condition
 
-**Tether Strain:** Low (reading a broadcast is the cheapest thing psionics does)
+**Tether Strain:** **None.** Reading a broadcast is not a reach — the signal was already arriving, and the Domain only opens a specific gate rather than the whole floodgate. Nothing leaves you, so nothing wears. *You cannot fray by listening.* (Two exceptions, both of which are reaching rather than receiving: reading past the range at which the broadcast already reaches you, and **Trace**, which runs back down a live connection against a resisting quarry. Originating a Detection **broadcast** costs too — receiving is free, transmitting never is.)
 
 **The innate floor:** Every psion passively *receives* — an unbraced one takes in the genuine surface cognition of every unshielded mind nearby: real thoughts, emotions, images, memory-fragments, rich and true, but indiscriminate, unattributed, simultaneous, contextless — a firehose with no valve. **Bracing** is the valve; **Detection dots** are the trained attention that turns the flood into a clean, directed, attributed read. That raw reception is not the same as *usable* Detection, which still takes active technique — and it is nothing like Eve's controlled, always-on, fray-free sense, which is a different phenomenon entirely (see [Eve](Eve.md)).
 

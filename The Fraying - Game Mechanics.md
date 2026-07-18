@@ -33,7 +33,7 @@ The two marks on the track are the heart of the system.
 
 **Marking.** Fill boxes from the left, lowest empty box first.
 
-**The escalation rule** (this is the engine's cruel heart): **if Strain would be marked on a box that already holds Strain, it is marked as Fray instead.** Use your powers, rest, and recover, and your strain stays temporary. Stack use on use without rest, and the overflow *hardens into permanent damage*. This is "death by a thousand cuts" expressed in a rule your players already know from bashing-into-lethal.
+**The escalation rule** (this is the engine's cruel heart): **if Strain would be marked on a box that already holds Strain, it is marked as Fray instead.** *(Exception: **containment** Strain — holding a Barriers wall — never escalates. See §3. If there is no empty box for it, you simply cannot pay it, and the wall does not go up.)* Use your powers, rest, and recover, and your strain stays temporary. Stack use on use without rest, and the overflow *hardens into permanent damage*. This is "death by a thousand cuts" expressed in a rule your players already know from bashing-into-lethal.
 
 > A Gifted at boxes 1–4 (all Strain) who takes 3 more Strain without resting marks boxes 5, 6, 7 — but if they were already at 1–7 Strain and take 3 more, those land on filled boxes and become **Fray** on 1, 2, 3. The tether is now permanently scarred where it used to merely ache.
 
@@ -41,11 +41,36 @@ The two marks on the track are the heart of the system.
 
 ## 3. The Cost of Power
 
-Every use of a Domain inflicts **Strain** equal to that Domain's **Strain Rating**, modified above all by *how hard you pushed against the will you imposed it on.* The governing principle is one sentence: **the tether frays in proportion to the resistance the projection overcomes.** You are not paying for the power — you are paying for the violation, and where there is nothing to violate you pay almost nothing.
+### What fraying actually is
+
+Before any table of numbers, the definition — because the word is the title of the game and it should mean one exact thing.
+
+> **Fraying is the cost of projection, and of nothing else.**
+
+All psionics is projection: consciousness leaving the boundary of the body to reach. The tether is what you stand on to do it, and it wears where it bears that load. It follows — strictly, not as a special case — that anything which is *not* a reach outward does not fray you. Three tiers, and every technique in this book sits in one of them.
+
+| | What it is | What it costs |
+|---|---|---|
+| **Reception** | The world arriving at you. Nothing leaves. | **Nothing.** No Strain, no Fray. |
+| **Containment** | Holding your own boundary. Nothing leaves. | **Strain, which never becomes Fray.** |
+| **Projection** | Reaching outward past yourself. | **Strain, escalating to Fray** by the rule above. |
+
+**Reception is free.** This is the **Detection** Domain and the innate floor beneath it. Every unshielded mind broadcasts its surface for nothing; a psion is a thing that receives. The Domain does not buy *signal* — the signal is already arriving — it buys **processing**: selecting one mind from the crowd, attributing a thought to a thinker, holding a stream, reading cleanly. Charging tether for better attention was always the wrong model. You cannot fray by listening.
+
+**Containment is tiring but not injurious.** **Bracing** is free outright, being a standing habit rather than an act. Holding a **Barriers** wall costs Strain, because a wall under assault is an active contest and a long one should exhaust you — but that Strain **never escalates into Fray**, however many times it is marked. Rest clears it entirely. Nothing left you; nothing was damaged.
+
+**Projection is the only thing that frays**, and it is most of the book: **Intrusion, Memory, Control, Kinesis, Projection**, the offensive uses of Barriers, Detection stretched past the range where the signal already reaches you, and originating a **broadcast** on the lattice. All of it is the tether bearing weight outside the body, and all of it is priced by the rule below.
+
+**Why this matters beyond bookkeeping.** It means the Fraying is not a tax on *being* Gifted. A psion who only ever listens never frays at all, no matter how long they live or how good they get. **What costs you is reaching into the world** — and, per the disposition dial below, what costs you *most* is reaching into someone who did not want you there. The engine has one moral in it, and this is the shape of it.
+
+### The dial
+
+Every **projective** use of a Domain inflicts **Strain** equal to that Domain's **Strain Rating**, modified above all by *how hard you pushed against the will you imposed it on.* The governing principle is one sentence: **the tether frays in proportion to the resistance the projection overcomes.** You are not paying for the power — you are paying for the violation, and where there is nothing to violate you pay almost nothing.
 
 | Strain Rating | Domains | In the fiction |
 |:---:|---|---|
-| **1** | Detection, Barriers | Passive, defensive — brief extension or pure shielding |
+| **0** | Detection | Reception. The signal was already arriving; you only opened a gate |
+| **1** | Barriers *(defensive)* | Holding your own boundary — Strain only, never Fray |
 | **2** | Intrusion, Memory | Active but read-or-edit work inside a mind |
 | **3** | Control, Projection | Overriding a will; stretching the tether from the body |
 | **4** | Kinesis | Wrestling physical reality itself |
@@ -78,7 +103,7 @@ Judge it as though you had asked aloud — *would they have said yes?* Yes is co
 The Strain is taken **whether the roll succeeds or fails.** You pay for the attempt, not the result. (A botch may inflict additional Strain or an involuntary effect — see §4.)
 
 **Worked costs:**
-- A calm Thoughtsense pulse to check a room: **1 Strain.** Neutral, undefended; you rest it off and never think about it.
+- A calm Thoughtsense pulse to check a room: **nothing at all.** Reception is free — the minds in that room were already broadcasting, and you only opened a gate onto it. This is the one a table forgets: the Gifted may look, always, and it never costs them anything.
 - **A consonant nudge** — a guard already lost in his phone, told to keep looking down: `2 −2 = ` **0** (floor). The thing psionics is quietly *for.* It barely happened.
 - A Memory Rewrite on a witness fighting to keep the memory — dissonant, pushed: `2 +1 dissonant +1 push = ` **4**.
 - **Forcing a man to stab his own leg** — Control, anathema: `3 +4 = ` **7 in a single act**, and an immediate Snap Check. This is the road to the psidolon written in dice: the atrocity and the self-destruction are one stroke.
@@ -225,7 +250,8 @@ This is the loop that drives campaigns: the more you use your power, the more yo
 
 ## 12. Quick Reference
 
-**Strain per use** = Domain Strain Rating (Det/Bar 1 · Int/Mem 2 · Con/Proj 3 · Kin 4) ± Disposition (Consonant −2 floor 0 · Neutral base · Dissonant/Contrary +1–2 · Dissonant/Anathema +4 & Snap Check) + Push 1 + Sustained 1/scene (1/turn combat) + Desperate 1 / Panicked 2 + Range 1/band.
+**Detection is free** (reception; no Strain, no Fray) · **Barriers defence** costs Strain that never becomes Fray · everything projective uses the dial below.
+**Strain per use** = Domain Strain Rating (Bar 1 · Int/Mem 2 · Con/Proj 3 · Kin 4) ± Disposition (Consonant −2 floor 0 · Neutral base · Dissonant/Contrary +1–2 · Dissonant/Anathema +4 & Snap Check) + Push 1 + Sustained 1/scene (1/turn combat) + Desperate 1 / Panicked 2 + Range 1/band.
 
 **Escalation:** Strain on an already-Strained box → Fray.
 

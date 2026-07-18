@@ -14,7 +14,7 @@ This folder is not the book. It is a **primer**: the minimum set of documents ne
 
 **All of the crunch.** No dice, no dice pools, no difficulties, no numeric costs, no character creation, no combat rules, no stat blocks. The full game uses the Classic World of Darkness Storyteller System (ten-siders, difficulty 6, count successes) with three additions — the seven **Domains** in place of Disciplines, a **Tether** trait, and a **Tether Track** where the horror lives. None of that is reproduced here, because none of it is needed to understand the world, and it would crowd out what is.
 
-Where a rule matters to comprehension, it appears as a fact about reality rather than a mechanic. *Using the power damages you. The damage accumulates. The deepest of it never heals. Nothing repairs a tether — no drug, no therapy, no ritual, no expenditure of will. Rest works. Time works. Nothing else does.* That is the truth of the setting. The dice are elsewhere.
+Where a rule matters to comprehension, it appears as a fact about reality rather than a mechanic. *Reaching out with the power damages you — and only reaching out. Listening is free; holding your own boundary is merely tiring; every act that leaves the body wears the tether that carried it. The damage accumulates. The deepest of it never heals. Nothing repairs a tether — no drug, no therapy, no ritual, no expenditure of will. Rest works. Time works. Nothing else does.* That is the truth of the setting. The dice are elsewhere.
 
 ## Read in this order
 

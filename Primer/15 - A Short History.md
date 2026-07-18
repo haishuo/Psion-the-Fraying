@@ -12,6 +12,12 @@ No Inquisition. No Praxis. No MetaConcert. A scattering of powerful, mostly soli
 
 Because no one hunted them, psidolons ran rampant. A psidolon could wear a life for decades. It could wear a throne. Some of history's famous sudden personality-replacements — rulers and beloved figures turned overnight into strangers — may have been an Untethered consciousness wearing a crown.
 
+**And the titans had no taxonomy.** Nobody said *Memory Domain*. Nobody had heard of Intrusion, or Barriers, or bracing. They did all of it anyway — by trial, by error, by figuring it out — and **systematization is not invention**, however much Praxis has enjoyed the confusion. Two masters of that age could practise forty years each and share no common word for a single thing either of them did.
+
+Some of them reached further than a modern Gifted ever will, and for a plain reason: no doctrine had told them which things were impossible, so a number of them did those things. **They also had no idea what any of it cost.** No Strain economy, no notion that forcing an unwilling mind is the specific act that eats you — only the work, and the sense arriving far too late that something was wrong. That is the entire explanation for why the world was once full of psidolons. The titans were not merely powerful; **they were uninsured**, and the monsters of that age were very largely the previous generation of its heroes.
+
+So Praxis's real gift was never power. **It was survival rate** — a cage and a safety harness in the same object. Which means the MetaConcert's founding claim is not propaganda: systematization genuinely saved them, and everything monstrous built later stands on a foundation that was, at the start, entirely sound.
+
 The emblem of the era is the sealing of the Interred: thirteen of the mightiest Gifted who ever lived, most of whom despised each other, joined hands exactly once, because the alternative was worse, to contain a psidolon they could not kill — then scattered again. Not an institution. A one-time armistice among rivals.
 
 ## Two Convictions, No Names

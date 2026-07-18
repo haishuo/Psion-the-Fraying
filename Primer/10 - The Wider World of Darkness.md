@@ -48,6 +48,12 @@ A Gifted's tether already reaches. There is no gap left for an Avatar to bridge,
 
 The tragedy is the rare soul in whom both somehow begin to stir. It does not produce a hybrid. It produces a brief, catastrophic incompatibility that resolves in one of three ways, all fast and all final: the mind **tears apart** under two architectures that cannot share a skull; the tether snaps under the impossible load and the would-be mage **untethers** on the spot, a psidolon born from an Awakening that never finished; or the Avatar floods a mind with no framework to hold it and the person drops instantly and permanently into **Quiet.** Praxis has a thin file of these cases — one of the few things it studied once and chose never to study again.
 
+**Said in the language of the metallurgy: a mage's tether is *occupied*.** The tether binds mind, body and **soul**, and an Awakened soul is not empty — an Avatar sits at precisely the junction the reach would have to pass through. The rope underneath is ordinary hemp, which is *why* an Avatar grew there at all; but having grown, it holds the position. **The mage's problem is no longer that the hemp is weak. It is that the seat is taken.**
+
+Resist the obvious wrong version: it is not that a mage's mind is too *busy*. A Mind-sphere mage with a shield raised does something very like both at once, and he is the most formidable opponent this book grants the Gifted. **Capacity is not the constraint. Occupancy is.** And it is only the hybrid rule again — *the tether is one rope and settles into one weave*, the same law that resolves a Garou-Gifted union to one thing or none. A Garou's tether will not release; a mage's has nothing free to release *with*. Neither is a defect.
+
+*(And no, this does not apply to a **fae** soul — see the Dreambound. An Avatar sits in the junction; a fae soul sits alongside, leaving the tether an ordinary tether that frays normally and, in their case, worse. A mage is one thing the tether cannot accommodate. A Dreambound is two things that never contested the same seat.)*
+
 This is also, quietly, the final word on why Psion is not Mage. The Gifted are barred from ascension by their own nature; the tether forecloses authorship. Whatever a Gifted becomes, they will never become a god — only, if they push too far, a monster.
 
 ---

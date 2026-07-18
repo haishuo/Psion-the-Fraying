@@ -56,6 +56,16 @@ Her defenses follow the same logic: not a technique running better than anyone e
 
 Her abilities are instinctual, not controlled. She studies no Domains and learns no techniques. Her power surfaces in response to need, threat, or feeling — reflexive Barriers, Detection pulses under stress, flashes that hand her someone's emotional state, rare involuntary Kinesis at the extremes. She cannot reproduce any of it on demand, and she cannot turn it off.
 
+**Which the setting already has a name for, and it is normally a death sentence.** A mind that reaches without technique, without intent, and with no notion of the cost is **Unshielded** — and the untrained do not merely go mad, they fray blind, from acts they cannot identify, until a proportion of them simply stop. Every clause of that is true of Eve, and she is thirty-odd years into it with an intact tether.
+
+Note carefully which untrained mode she is. The pre-taxonomic titans were *unsystematized but willed* — they tried things, practised, worked it out, and every bit of that is intent. Eve does none of it. Her power does not answer to intention; it **surfaces**. That is not the old craftsman. **That is the Raw child** — and the difference between her and one dying in a bedroom is not care, or skill, or luck. Fraying is what happens to steel under that load, and hers is not steel.
+
+> **Eve is what the Unshielded would look like if the rope could take it.**
+
+Two things carry her and only one is metallurgy. The other is her father: Julian never Triggered strongly and still lasted **weeks** under sustained Intrusion, an untrained man who forged a real wall out of nothing but a hunted life. Eve produces the same thing instinctively, one generation on. The rope came from the fusion; the wall came from the Vires. **A child with her tether and no defence would be the loudest thing in the hemisphere**, and the Panopticon would have collected her before she could walk.
+
+And this is where Praxis's failure stops being taxonomic and becomes an indictment. Their doctrine on the untrained is not wrong — reaching without training destroys you, the dead children are real, the Integrators who take them are genuinely saving lives. What the doctrine cannot contain is the clause it never knew it was assuming: *destroys you **if your tether is steel***. **Eve and a dying Raw child in a bedroom are the same event.** Praxis can describe one of them perfectly and cannot describe the other at all.
+
 ---
 
 ## Crinos

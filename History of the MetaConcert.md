@@ -32,6 +32,8 @@ Before that, psionics was a craft in the way any craft is before anyone writes t
 
 It also means the MetaConcert's founding claim is not propaganda. Systematization genuinely saved them. Everything monstrous the institution later built stands on a foundation that was, at the beginning, entirely sound. That is not a defence of what came after. It is the reason what came after was possible.
 
+*(One living case is often mistaken for this, and is not. [Eve](Eve.md) reaches without training, but she does not reach without **intent** the way the titans did — she does not try things, practise, or figure anything out. Her power surfaces in response to need. That is not the pre-taxonomic craftsman; that is the **Unshielded**, running on a tether that does not pay for it. See "What She Is.")*
+
 > **A note for Storytellers: this is history, not a character option.** Pre-taxonomic practice belongs to the deep past and to the rare, isolated, never-Integrated figure a chronicle might encounter — the feral talent in a mountain village, a [Cult of the Unbound](The%20Cult%20of%20the%20Unbound.md) adept who rejects Praxis's categories on principle, something very old that has been practising alone since before there was anyone to tell it not to. Such a figure has **no Domain ratings** and is adjudicated entirely by the Storyteller: capable of one or two genuinely startling things, incapable of most ordinary ones, and possessing no reliable sense of what any of it is doing to them. They are not a build. They are a *weather event*, and the correct player response to meeting one is not to fight it but to work out what it wants.
 
 ## II. Two Convictions, No Names (still deep past — the organizing impulse begins)

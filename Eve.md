@@ -136,6 +136,22 @@ This is why she is unbearable to Praxis specifically, and their rivals' own char
 - She cannot reliably reproduce effects on demand
 - Her psionic signature is abnormal — detectable but "wrong" to trained Detection specialists
 
+**And the setting already has a name for a mind that reaches without technique, intent, or any notion of the cost. It calls it Unshielded, and it is normally a death sentence.**
+
+Be careful here, because there are two untrained modes and Eve is only one of them. The practitioners of the deep past — the titans who worked before Praxis named anything — were *unsystematized*, not unwilling. They tried things, practised, and figured it out by trial and error, and every bit of that is an act of intent (see "Before the Domains" in [History of the MetaConcert](History%20of%20the%20MetaConcert.md)). Eve does none of it. Her power does not answer to intention. It **surfaces**, in response to need, the way a hand comes up in front of a face.
+
+That is not the titans. That is the Raw child.
+
+An Unshielded Gifted reaches without meaning to, cannot name the act afterward, has no concept that anything is being spent, and therefore has no reason to stop — and so frays blind and, eventually, is not there any more. Every one of those clauses is true of Eve, and she is thirty-odd years into it with an intact tether. **The difference is not that she is careful, or gifted, or lucky. It is that fraying is what happens to steel under that load, and hers is not steel.**
+
+> **Eve is what the Unshielded would look like if the rope could take it.**
+
+Two things carry her, and only one of them is metallurgy. The other is her father. Julian Vire never Triggered strongly and lasted **weeks** under sustained Intrusion, an untrained man who produced a real wall out of nothing but a hunted life and his mother's teaching — and what defends Eve is the same phenomenon arriving instinctively and complete, one generation on. **She needed both.** The rope came from the fusion; the wall came from the Vires. A child with her tether and no defence would be the loudest thing in the hemisphere, and the Panopticon would have collected her before she could walk.
+
+**And this is where Praxis's failure stops being a taxonomic embarrassment and becomes an indictment.** Their doctrine on the untrained is not wrong. Every clinical word of it is correct: reaching without training destroys you, and the children it destroys are real, and the Integrators who take them are genuinely saving lives. What the doctrine cannot say — what it has no room to *contain* — is the clause it never knew it was assuming. Reaching without training destroys you **if your tether is steel.** They wrote a law of nature from the only metal they had ever handled, and then built an institution, a curriculum, and a moral justification on top of it.
+
+So Eve and a dying Raw child in a bedroom in Ohio are the same event. Praxis can describe one of them perfectly, in exhaustive clinical detail, and cannot describe the other at all — and the reason is not that Eve is complicated. It is that the two cases differ in a variable Praxis does not know exists.
+
 **She has natural immunity to standard psionic techniques:**
 - Intrusion attempts slide off her mind like water off stone
 - Control techniques simply fail to establish purchase

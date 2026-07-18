@@ -178,6 +178,16 @@ Praxis is the second order to organize — after the hunters, but before anythin
 
 Because Praxis came so early — when organizational culture was still forming — their epistemology became the MetaConcert's epistemology. The cold clinical rationalism isn't a tone the MetaConcert adopted. It's the tone Praxis established, and everything that came after grew inside it.
 
+### The submission
+
+There is one document from the formal founding that Praxis has never been allowed to entirely live down, and it is a name.
+
+Required to enter a candidate for what the new government should be called — abstention having been ruled unavailable, over their objection that the question was not a serious one — Praxis submitted **"The Standing Joint Apparatus for the Administration of Noetic Populations, the Containment of Untethered Phenomena, and the Maintenance of Lattice-Mediated Oversight, With Provision for Subsequent Revision."**
+
+Four centuries on, no one can establish whether that was contempt or sincerity, and Praxis has never clarified. The Circuit's own scholars prefer the sincere reading, and it is the more damning one: Praxis does not distinguish a name from a definition and never has. Ask them what a thing is called and they will tell you what it *is*, at whatever length precision requires, and regard the question as closed. That reflex is the same one that produced the Domain taxonomy, and it is the same one [Project Heterodox](Project%20Heterodox.md) exists to attack — the assumption that a word is a window rather than an act, that the only way a term can fail is by being inaccurate. Heterodox's entire counter-vocabulary is an argument against a proposition Praxis has never noticed it holds. The first surviving evidence that they hold it is this submission. *(See [History of the MetaConcert](History%20of%20the%20MetaConcert.md), "Who named it.")*
+
+It should be said that it was also the only honest name anyone proposed. Every noun in it is accurate. That is very probably why it lost.
+
 When Praxis built the lattice, the Concordat required a third party to maintain it. That third party became the Maintainers. And the moment the Maintainers existed, formalization became necessary. Praxis built the infrastructure that made formal organization inevitable, and then watched the organization they'd accidentally created develop the authority to constrain them. This is the detail Praxis finds most uncomfortable about their own history. Their most significant achievement wasn't intellectual. It was political.
 
 ### The Black Archive

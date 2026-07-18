@@ -76,11 +76,15 @@ The mathematics were wrong.
 
 ## The Unraveling of the War Party
 
-They peeled away one by one. Not from fear, not from weakness, but from individual encounters with something that exceeded their frameworks for the hunt.
+They came apart in sequence, and the sequence is the point. This was not four people independently losing their nerve. It was **one withdrawal that changed the meaning of everything that happened afterward**, and three people who followed that change honestly to where it led.
 
-**The tracker** was first. A hunter of genuine skill who had tracked quarry across harder terrain than this. She lost the trail in circumstances that should not have permitted losing it. Found it again. Lost it in the same inexplicable way. Found it again, only to lose it in a different inexplicable way that nonetheless felt somehow like the same thing happening again. She was not being outmaneuvered by superior tracking technique. She was being outmaneuvered by something that knew where she was and was making choices based on that knowledge. She had not signed up to hunt something that was also, in some functional sense, hunting them back. She withdrew.
+Each departure took a different support out from under the hunt. The theurge removed its sacred legitimacy. The tracker removed its practical confidence. The believers removed its collective conviction. The last companion removed the only thing remaining, which was personal loyalty.
 
-**The theurge** lasted longer. Twenty years of experience navigating spiritual territory, reading sign, maintaining relationships with spirits who provided guidance and context. She reached into that network for assistance with the hunt and found — nothing. Not resistance. Not hostility. Silence.
+**The theurge** was first, and that is why the rest happened.
+
+Twenty years of navigating spiritual territory, reading sign, maintaining the relationships that provide a Garou with guidance and context. She reached into that network for help with the hunt and found nothing. Not resistance. Not hostility. **Silence.**
+
+She did not accept that on one attempt. She went back, and then further back — past the spirits she dealt with routinely, to the older and more particular relationships, the ones cultivated over decades that had never once failed to answer her. She spent real effort and real courtesy on it. The silence was the same everywhere she reached, and it was the same *kind* of silence, which is what finally told her something.
 
 This requires understanding what silence means to a theurge of her experience. Spirits are not always cooperative. They have their own interests, their own politics, their own relationships with events and entities. Active opposition is a thing she had navigated before. Silence was different. Silence meant the spirits had looked at what was happening and declined to participate. Had withdrawn their cooperation from this specific endeavor without hostility, without explanation, simply — declining.
 
@@ -88,13 +92,47 @@ She sat with that for some time. Twenty years of experience has a way of making 
 
 The spirits were not protecting Eve in the sense of fighting for her. They were not throwing obstacles in the war party's path. They were simply refusing to be part of what was happening. And that refusal — that considered, deliberate silence from entities that had never withheld themselves from her in quite this way before — told her something about the nature of the hunt that she did not have words for yet but understood in her body.
 
-She told Kassandra what she had found. She withdrew.
+She told Kassandra plainly, in front of the others, and did not soften it:
 
-**The true believers** came after that. Warriors who had followed Kassandra because they believed in her judgment and in the righteousness of what they were doing. The theurge's withdrawal shook them in ways they would not have predicted — they had not understood how much of their confidence rested on the spiritual framework backing the operation until that framework was visibly absent. They stayed longer than wisdom suggested, honoring their commitment to Kassandra and to the cause. They left when the weight of accumulated wrongness became something they could not continue carrying.
+> *"They hear us. They know what we are doing. They will not be part of it."*
+
+Then she withdrew.
+
+**The tracker** did not follow her, and this is worth being precise about, because it is where the story is usually told wrong.
+
+She was a hunter of genuine skill who had tracked quarry across harder terrain than this, and she had no patience whatever for letting ambiguous spirit business derail a justified hunt. Her position, stated once and not repeated, was straightforward:
+
+> *"The spirits aren't my craft. Tracking is."*
+
+So she stayed. She went back to work.
+
+**But the theurge had changed what the work meant.** Before, every lost trail carried one explanation: *this quarry is extraordinarily difficult.* After, the same lost trail carried two, and she had no method for telling them apart. She lost the trail in circumstances that should not have permitted losing it. Found it. Lost it again in the same inexplicable way, and then in a different inexplicable way that nonetheless felt like the same thing happening. Was that a woman who was simply better at this than anyone she had hunted — or was it what it looks like to attempt something the spirits have already declined to bless?
+
+She could not answer that from the failures alone. So she did the responsible thing, and the thing her whole discipline is actually for: **she went back over everything she had already found, and read it again.**
+
+The sign had been there the entire time. She had been filing it as tactical anomaly, because that was the only category her craft had offered her. Eve had crossed ground that should have held scent and left none. Eve had doubled back repeatedly without ever coming near enough to be caught doing it. And twice — she was certain of the second, and on re-examination fairly certain of the first — Eve had passed close enough to strike and had not.
+
+Then she found the place where Eve had sat.
+
+It was a good position, chosen the way she would have chosen it. And from where Eve had been sitting, the tracker could see their camp: the fire, the watch rotation, the sleeping shapes of people she had eaten with that morning.
+
+**And her two explanations collapsed into each other.** The reading in which Eve was simply extraordinary *required* that Eve had held them, cold and unaware, and elected to do nothing. Which was the other reading. The fact that proved the quarry's skill was the identical fact that proved the quarry's restraint, and she could not use one without conceding the other, and she was standing in the place that proved it.
+
+What came after only removed the last of the deniability. Above a washed-out crossing the party would otherwise have taken in the dark, she found a warning scratched into the earth.
+
+She had spent her life reading the intentions of hunted things from what they left behind. What Eve was leaving behind had become very difficult to misunderstand.
+
+She told Kassandra, in the flat register of a professional making a report:
+
+> *"I have read sign for thirty years. I know what it looks like when a thing means to kill you. This is not that."*
+
+She withdrew, and she resented every step of it, because she had wanted the theurge to be wrong and had gone looking for proof and had found the opposite with her own hands. **The theurge left on a judgment. The tracker left on evidence.** They had reached the same place by methods that shared nothing, and neither of them had needed the other to get there — only, in the tracker's case, a reason to look twice.
+
+**The true believers** came after that, and by then there was not much left to believe in. Warriors who had followed Kassandra because they trusted her judgment and the righteousness of what they were doing. The theurge's withdrawal shook them in ways they would not have predicted — they had not understood how much of their confidence rested on the spiritual framework backing the operation until that framework was visibly absent. The tracker's withdrawal finished it, and it finished it *because* she was the one who had refused to be moved by omens. When the party's least mystical member walks away citing physical evidence, there is nothing left to attribute it to. They stayed longer than wisdom suggested, honoring their commitment to Kassandra and to the cause. They left when the weight of accumulated wrongness became something they could not continue carrying.
 
 **The last one** did not simply leave. She turned back. She found Kassandra still moving forward, still hunting, still carrying the conviction that had organized the last several years of her life, and she did what a true companion does: she told her the truth.
 
-She told Kassandra to stop. She used the word *please*. She said that whatever they were doing, it had stopped being what it was supposed to be some time ago, and that continuing alone, after everything, after the tracker and the theurge and the true believers, was not righteousness. It was something else, and she did not think Kassandra would be proud of what it was.
+She told Kassandra to stop. She used the word *please*. She said that whatever they were doing, it had stopped being what it was supposed to be some time ago, and that continuing alone, after everything, after the theurge and the tracker and the true believers, was not righteousness. It was something else, and she did not think Kassandra would be proud of what it was.
 
 Kassandra told her to go if she was such a coward.
 
@@ -169,6 +207,14 @@ The hunt was over because Kassandra said it was. And Kassandra said it was becau
 ## What the Spirits Knew
 
 The spirits' silence during the hunt is worth examining carefully because it reveals something about how the spiritual world relates to Eve that institutional frameworks — Garou, MetaConcert, Projects — consistently fail to capture.
+
+> **The rule this establishes, and it should not be broken later.** The spirits did not intervene. Not once, at any point, in any form. They did not hide Eve, confuse the tracker, obscure the trail, send warnings, or arrange a single one of the party's failures. **They withdrew, and that is the entirety of what they did.**
+>
+> Everything that followed was the war party's own work. The theurge interpreted the silence herself. The tracker re-read her own evidence with her own craft and reached her own conclusion. The believers drew their own inferences. Kassandra made her own decision to continue, and made it alone. **At no point does a spirit do anything for anyone.**
+>
+> This matters more than it looks, because it is the difference between a story about the world protecting Eve and a story about thoughtful people being forced to ask whether they were still pursuing justice. The first is a miracle and cheapens everyone in it. The second is what happened. **The spirits are witnesses, not participants — their refusal denies the hunt legitimacy and nothing else, and every consequence after that is a Garou choosing.**
+>
+> Any future account of this hunt, or of the spirits' relationship to Eve generally, should hold that line. The moment a spirit *acts* on her behalf, she becomes chosen, and the entire point of what the spirits recognized in her is lost.
 
 The spirits did not protect Eve because she is powerful. She is not, by the standards of the World of Darkness, especially powerful. She is unusual, her threat profile is strange, she has capabilities that break standard frameworks — but power in the raw sense is not what she has in abundance.
 

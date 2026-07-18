@@ -30,7 +30,7 @@ A psidolon is statted unlike anything else in the game, because it is unlike any
 
 **The Wipe — the only reliable kill:**
 
-1. **Achieve Intrusion access** to the host body's mind (Surface Scan or better), opposed by the psidolon's **Barriers**. This is the hard part against a defended psidolon, and it must be *held* throughout.
+1. **Achieve Intrusion access** to the host body's mind (Dig or better), opposed by the psidolon's **Barriers**. This is the hard part against a defended psidolon, and it must be *held* throughout.
 2. **Work the memory.** Each turn of sustained Memory application, roll **Intelligence + Memory** vs the psidolon's wipe difficulty (6 fresh, 7 coherent, 8 ancient). Each success destroys **one Coherence box.**
 3. **Don't hit the wrong memories.** A botch on the Memory roll destroys *host* memory instead — collateral that can kill a host who might still have been salvageable.
 4. **Zero Coherence = dissipation.** It comes apart and is gone.
@@ -133,7 +133,7 @@ Streamlined adversaries and allies. Scale Domains and Tether up or down for seni
 *A generic mid-tier Gifted — Project cell member, junior MetaConcert agent, or unaffiliated survivor. Use for allies and rank-and-file.*
 
 **Attributes:** two at 3, the rest 2 · **Abilities:** a handful at 2–3 fitting the concept
-**Domains:** Barriers 1 (bracing) + 4–5 dots spread across two or three Domains, none above 3
+**Domains:** braced (free, below the scale); 6 dots spread across two or three Domains — typically a couple in Barriers for a real wall plus a specialty, none above 3
 **Tether:** 2 · **Willpower:** 5 · **Health:** standard
 **Notes:** Frays like a PC — these are people, with the same Tether Track and the same fear of it. A useful reminder at the table that the enemy is not a different kind of being.
 
@@ -161,7 +161,7 @@ Streamlined adversaries and allies. Scale Domains and Tether up or down for seni
 - **Coherence** = true health; Memory-wipe destroys it (1 box/success). **0 = dissipation.** Host Health destroyed = *displacement* + Burning Out (1 Coherence/hour, find a host or dissipate).
 - **Wipe:** hold Intrusion access (vs psidolon Barriers) → Intelligence + Memory vs diff 6/7/8 (fresh/coherent/ancient). Botch hits host memory.
 - **Partial wipe:** below ⅓ → collapses in hours but goes **feral** (no masking, +2 attacks, kill-the-wiper); above ⅓ → recovers, remembers you.
-- **Immune:** Override/Compel/Emotion, and Memory-*editing* (only destruction works). **Detected by:** Tether Sense (definitive), Wraiths (automatic), behavioral tells (fresh ones).
+- **Immune:** Puppeteer/Compel/Emotion, and Memory-*editing* (only destruction works). **Detected by:** Tether Sense (definitive), Wraiths (automatic), behavioral tells (fresh ones).
 - **Snapped PC:** highest Domain ≤3 dissipate / 4+ → Fresh Psidolon (Coherence = highest Domain −1, Burning Out begins).
 
 *See also: [Psidolons — The Untethered](Psidolons%20-%20The%20Untethered.md) · [The Fraying — Game Mechanics](The%20Fraying%20-%20Game%20Mechanics.md) · [The Seven Domains — Game Mechanics](The%20Seven%20Domains%20-%20Game%20Mechanics.md) · [The Inquisition Circuit](The%20Inquisition%20Circuit.md)*

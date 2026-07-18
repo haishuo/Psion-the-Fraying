@@ -50,7 +50,7 @@ Every use of a Domain inflicts **Strain** equal to that Domain's **Strain Rating
 | **3** | Control, Projection | Overriding a will; stretching the tether from the body |
 | **4** | Kinesis | Wrestling physical reality itself |
 
-**Disposition — the master dial.** The rating above is the *neutral* cost. What truly sets the price is how the act sits with the will it is imposed on, because the tether frays in proportion to the **resistance** it overcomes. This is psionics' answer to what Mage calls subtle-versus-vulgar — but it turns on a different hinge. Not whether anyone *noticed:* whether you worked **with** the will or **against** it. The two poles are **consonant** and **dissonant.**
+**Disposition — the master dial.** The rating above is the *neutral* cost. What truly sets the price is how the act sits with the will it is imposed on, because the tether frays in proportion to the **resistance** it overcomes. This is psionics' answer to what Mage calls subtle-versus-vulgar — but where Mage folds fit and cost onto one axis, psionics splits them in two, and this is the cost half. It turns on a different hinge than being seen: whether you worked **with** the will or **against** it. The two poles are **consonant** and **dissonant.** (The what-you-left-behind half is *dirty versus clean*, below.)
 
 | Disposition | The target — or, for Kinesis, the world — … | Strain |
 |---|---|:---:|
@@ -61,16 +61,17 @@ Every use of a Domain inflicts **Strain** equal to that Domain's **Strain Rating
 
 Judge it as though you had asked aloud — *would they have said yes?* Yes is consonant; a shrug, neutral; "they'd refuse," contrary; "they'd sooner die," anathema. It is their stance toward *this act,* not their feelings about you. **Kinesis** has no will to consult, so its counterpart is physics: riding momentum and leverage is consonant, arresting mass head-on is dissonant. (This dial *replaces* the old flat "resisted" modifier — a resisted act is simply a dissonant one.)
 
-**Cost is not exposure.** Dissonance frays *you;* it says nothing about whether you were *seen.* A consonant nudge in a crowded room, witnessed by a dozen people, can cost nothing; a dissonant override in an empty one, witnessed by no one, can fray you white. Being noticed is a separate axis with separate teeth — resistance is *felt,* and Control *makes witnesses* (see [The Seven Domains](The%20Seven%20Domains%20-%20Game%20Mechanics.md)). **Paradox bites when they notice; the tether bites when you force.**
+**Cost is not exposure.** Dissonance frays *you;* it says nothing about whether you were *seen.* A consonant nudge in a crowded room, witnessed by a dozen people, can cost nothing; a dissonant override in an empty one, witnessed by no one, can fray you white. Being noticed is a separate axis with separate teeth, and it has its own name: **dirty versus clean** — how much of an act can be traced back to a mind, filed by the MetaConcert as *attribution* and paid for in cleanup teams rather than in tether. Resistance is *felt,* and Control *makes witnesses* (see the dirty-vs-clean hierarchy in [The Seven Domains — Psionic Techniques](The%20Seven%20Domains%20-%20Psionic%20Techniques.md)). Dirt bites your *situation;* dissonance bites *you.* The worst thing you will ever do may well be the cleanest — no witness, no cleanup, nothing to file, and a tether frayed white for it. **Paradox bites when they notice; the tether bites when you force.**
 
 **Modifiers** (cumulative, applied on top of disposition):
 
 - **+1 Pushing** — channelling for maximum effect, affecting multiple targets, or forcing through a target's Barriers.
-- **+1 per extra scene Sustained** — for an effect held over time. For sustained combat effects (a maintained Kinetic Barrier, ongoing Override), **+1 per turn after the first**.
+- **+1 per extra scene Sustained** — for an effect held over time. For sustained combat effects (a maintained Kinetic Barrier, an ongoing override), **+1 per turn after the first**.
 - **+1 Desperate / +2 Panicked** — emotional duress multiplies strain, exactly as the fiction insists. Calm, controlled use takes the base; survival-state use is brutal.
 - **+1 per range band (Projection)** — local / building / city / continental / global. Distance is danger.
+- **+1 per order of magnitude of audience (Broadcast), maximum +4** — ten minds +1, a hundred +2, a thousand +3; ten thousand and ten million both +4. Only available to an instruction that passes the convergence test, and only from Domain ●●●● (see *Broadcast* in [The Seven Domains — Game Mechanics](The%20Seven%20Domains%20-%20Game%20Mechanics.md)). The cap is the whole point: past a certain size, a crowd stops being a bigger job. **You are not paying per mind. You are paying for the instruction.**
 
-**Holding is not sustaining.** The *Sustained* cost above is for an active effect you are continuously powering — a Barrier flexed over a firefight, an Override pressed on a mind, an Aegis stretched over a crowd. It does *not* apply to a construct that has already been **encoded and set:** a mind-palace archive, a Lockbox, an installed binding construct. Encoding one costs Strain; opening or retrieving from it costs Strain; but once it is written and sitting behind the Barriers it is inert storage, not an ongoing projection, and holding it costs nothing. This is the whole reason a Preserver or a Black Archivist can carry a lifetime's archive without fraying, and the reason [Marcus Thiel](Marcus_Thiel.md) can hold his sister perfect for a decade: the cost was in the making and is in the tending, never in the having. (A set construct still *decays* untended and must be refreshed periodically — a cheap Memory action — and a mind has a finite capacity for them; see **The Mind-Palace** in [The Seven Domains — Psionic Techniques](The%20Seven%20Domains%20-%20Psionic%20Techniques.md).)
+**Holding is not sustaining.** The *Sustained* cost above is for an active effect you are continuously powering — a Barrier flexed over a firefight, an override pressed on a mind, an Aegis stretched over a crowd. It does *not* apply to a construct that has already been **encoded and set:** a mind-palace archive, a Lockbox, an installed binding construct. Encoding one costs Strain; opening or retrieving from it costs Strain; but once it is written and sitting behind the Barriers it is inert storage, not an ongoing projection, and holding it costs nothing. This is the whole reason a Preserver or a Black Archivist can carry a lifetime's archive without fraying, and the reason [Marcus Thiel](Marcus_Thiel.md) can hold his sister perfect for a decade: the cost was in the making and is in the tending, never in the having. (A set construct still *decays* untended and must be refreshed periodically — a cheap Memory action — and a mind has a finite capacity for them; see **The Mind-Palace** in [The Seven Domains — Psionic Techniques](The%20Seven%20Domains%20-%20Psionic%20Techniques.md).)
 
 **Cleverness can lower it.** The base cost assumes the obvious, brute application. A genuinely more efficient method — backed by a relevant Ability, like nudging a car off-axis with a grasp of physics rather than arresting its mass head-on — may reduce a technique's Strain by **1–2** (floor of 1) at the Storyteller's discretion. Skill is the only thing besides discipline that makes the tether last; see *Power and Craft* in [The Seven Domains — Game Mechanics](The%20Seven%20Domains%20-%20Game%20Mechanics.md). For Kinesis this efficient path *is* the consonant line from the disposition table above — one reduction, not two stacked.
 
@@ -99,7 +100,7 @@ As boxes fill (Strain and Fray together), the Gifted suffers escalating penaltie
 | 9 | **4 · Deep** | −4 to all actions | flagged + actively monitored | The brink. **Even a severe shock alone forces a Snap Check.** |
 | 10 | **5 · The Snap** | — | — | Untethering (§5). |
 
-**Involuntary Expression.** At **Stage 3 or higher**, any time the Gifted botches *any* roll (psionic or not) or suffers a sudden emotional spike, they involuntarily Express: a stray thought broadcast loudly across the lattice, a small object twitching, a flicker of someone else's surface thoughts bleeding in. This inflicts **+1 Strain** and is **loud** — anyone with Detection nearby, and the Panopticon, notices. The frayed cannot keep a secret.
+**Involuntary Bleed.** At **Stage 3 or higher**, any time the Gifted botches *any* roll (psionic or not) or suffers a sudden emotional spike, they involuntarily Bleed: a stray thought broadcast loudly across the lattice, a small object twitching, a flicker of someone else's surface thoughts bleeding in. This inflicts **+1 Strain** and is **loud** — anyone with Detection nearby, and the Panopticon, notices. The frayed cannot keep a secret.
 
 ---
 
@@ -148,7 +149,7 @@ This pool is small and the difficulty is high on purpose. **Willpower may not be
 
 Willpower cannot save your tether — but it governs whether you damage it in the first place.
 
-When the temptation to push past safe limits arises — the "just one more" reach, an emotional trigger that threatens involuntary Expression, the desperate impulse to solve a problem with power you can't afford — the Storyteller may call for a **Discipline Check: a Willpower roll (difficulty 6)**, or the simple **spend of one Willpower point** to hold firm automatically.
+When the temptation to push past safe limits arises — the "just one more" reach, an emotional trigger that threatens involuntary Bleed, the desperate impulse to solve a problem with power you can't afford — the Storyteller may call for a **Discipline Check: a Willpower roll (difficulty 6)**, or the simple **spend of one Willpower point** to hold firm automatically.
 
 - **Succeed / spend:** you keep your hands off the power. You take no Strain you didn't choose.
 - **Fail:** the impulse wins. You reach for it, and you pay the Strain.
@@ -171,19 +172,23 @@ Every initiated Gifted carries a binding construct tying them to the lattice. Wh
 
 ---
 
-## 9. The Unshielded State (Barriers 0)
+## 9. Bracing and the Unshielded State
 
-Because **Barriers ●1 represents bracing**, a Gifted reduced to **Barriers 0** — by a botched severance, a shattering Intrusion, Cognitive damage, or simply never having been trained — falls back into the **Unshielded state**: the uncontrolled, bidirectional thought-leak of the newly Expressed. *(The MetaConcert files this condition as* Exposed*; Gifted call it being* Raw*.)*
+**Bracing is not a Domain — it sits below the dot scale entirely**, the way a fledgling vampire learning to leash the Hunger is not buying a Discipline. It is the baseline containment every functional psion carries: the standing habit that keeps your own mind *in* — no longer broadcasting to every Detection sweep in range, no longer drowning in the inrush of everyone else's surface thoughts. It is taught, usually in a single guided session, and once held it is simply always on. You do not spend a dot on it and it never appears on your sheet. Every trained character has it for free; the only ones who don't are the **Unshielded.**
+
+Bracing is the **skin** (see *Skin and Armor* in [The Best Defense](The%20Best%20Defense%20-%20Barriers%20and%20the%20Mental%20Domain.md)): the membrane that regulates the whole passive surface exchange, both directions at once — it gates the incoming flood of everyone's surface cognition down to something survivable, *and* keeps your own mind from broadcasting out. The **armor** — the trained wall against a *directed* intrusion reaching past your surface — is the separate **Barriers Domain** (0–5). A psion can be fully braced and still hold **Barriers 0**: surface-quiet and no longer drowning, but with no wall, so as open to a determined **Dig** as any sleeper. Bracing is the skin; Barriers is the armor. Most trained psions carry at least a dot or two of wall because being wall-less among other psions is a real danger — but a **braced, Barriers-0 reader** (all sense, no shield) is a legitimate and coherent build.
+
+**The Unshielded state is the loss of *bracing* — the membrane gone, both directions at once.** A character falls into it by a botched severance, a shattering Intrusion, Cognitive damage, or simply never having been trained (every newly Triggered child begins here). It is a *condition*, not a Barriers rating: an Unshielded psion could in principle have trained Barriers dots and still be Unshielded, though in practice the shattering that strips bracing usually takes the wall with it. *(The MetaConcert files the condition as* Exposed*; Gifted call it being* Raw*.)*
 
 **While Unshielded:**
-- The character is **psionically loud** — −2 difficulty for anyone to detect, locate, or read them. The Panopticon finds them effortlessly. This is how newly Expressed children are caught.
+- The character is **psionically loud** — −2 difficulty for anyone to detect, locate, or read them. The Panopticon finds them effortlessly. This is how newly Triggered children are caught.
 - They suffer a cumulative **−1 dice penalty per scene** to all mental and social actions as overload mounts (the inrush of others' surface thoughts), to a maximum of −3, until the state is resolved.
-- They cannot use Barriers techniques (they have none) and use all other Domains at +1 difficulty (no containment to work from).
+- They use all Domains at **+1 difficulty** — there is no containment to work from — and any inbound Barriers they trained is drowned out in the noise until they are re-braced.
 - Prolonged exposure (days, per the [metaphysics document's](The%20Tether%20and%20Fraying%20-%20Metaphysical%20Mechanics.md) escalation) risks lasting Cognitive damage, requiring Praxis's Cognitive Reconstruction — an ST-arbitrated catastrophe, not a quick fix.
 
-**Resolution — re-bracing:** an Integrator (or any Gifted with **Barriers ●●●+** and the patience) can re-establish bracing through gentle, guided Intrusion across roughly a scene of calm, restoring **Barriers ●1** and ending the state. A character can sometimes brace *themselves* under extreme focus — a contested Willpower roll at high difficulty, ST's call — but it is far harder alone, which is exactly why the Integrators exist.
+**Resolution — re-bracing:** an Integrator (or any Gifted with **Barriers ●●●+** and the patience) can re-establish bracing through gentle, guided Intrusion across roughly a scene of calm, ending the state. A character can sometimes brace *themselves* under extreme focus — a contested Willpower roll at high difficulty, ST's call — but it is far harder alone, which is exactly why the Integrators exist.
 
-This makes "shatter their shielding" a genuine, terrifying tactical option in play: reduce a Gifted to Barriers 0 and you have not merely disarmed them — you have thrown them back into the screaming overload they escaped as a child.
+This makes "shatter their bracing" a genuine, terrifying tactical option in play: force a Gifted Unshielded and you have not merely made them loud — you have thrown them back into the screaming overload they escaped as a child, whatever their trained Barriers used to be.
 
 ---
 
@@ -197,6 +202,8 @@ Fraying is not private. **Tether Sense** (a Detection threshold technique, ●�
 - **Stage 4:** flagged and **targeted for active monitoring** — and, by doctrine, for extraction or field termination.
 
 For off-lattice characters, none of this applies passively — but a Tether Sense user in line of sight can still read them directly. Barriers raises the difficulty of being read but **cannot hide tether condition from a determined, skilled examiner** (canon: strong emotion and structural damage spike through even master shielding).
+
+**Why a Bleed is so loud.** A Bleed is not a leak the Panopticon has to work to overhear. It is a **broadcast** — the same outbound channel a master uses to lay one instruction across a plaza, running open, carrying nothing, with no one steering it (see *Broadcast* in [The Seven Domains — Game Mechanics](The%20Seven%20Domains%20-%20Game%20Mechanics.md)). For a bound Gifted this puts it directly onto the lattice, which is why it is caught instantly and without effort: the analysts are not listening hard. It is on their bus by definition. The master's signature power and the dying psion's signature symptom are one mechanism, read at opposite ends — and the machinery does not distinguish between a psion transmitting and a psion coming apart.
 
 This is the loop that drives campaigns: the more you use your power, the more you fray; the more you fray, the more visible you become; the more visible you become, the closer the Inquisition gets. Power is self-incriminating.
 
@@ -230,7 +237,7 @@ This is the loop that drives campaigns: the more you use your power, the more yo
 
 **Cascade:** lattice Snap/death nearby = 2 Strain (3 if bonded) to connected Gifted; Stage 4 victims roll a Snap Check.
 
-**Unshielded (Barriers 0):** psionically loud (−2 diff to detect), escalating −1/scene overload (max −3), other Domains +1 diff; re-brace to restore Barriers ●1.
+**Unshielded (unbraced):** psionically loud (−2 diff to detect), escalating −1/scene overload (max −3), all Domains +1 diff; re-brace to end it. (Bracing is baseline containment, below the Domain scale — not a Barriers dot. Barriers 0 while *braced* = quiet but wall-less, a valid build.)
 
 ---
 
@@ -238,7 +245,7 @@ This is the loop that drives campaigns: the more you use your power, the more yo
 
 Aaron Vey — Inquisition interrogator, **Tether 2, Stamina 3**, Intrusion 4, Memory 3, Barriers 2 — is told to extract the location of a Railroad safehouse from a captured Conductor before she can be moved. The Conductor has Barriers 3.
 
-**Beat 1.** A **Surface Scan** to read her state: Intrusion, base **2 Strain**. Calm, controlled. Boxes 1–2. Stage 1. Nothing.
+**Beat 1.** A **Dig** to read her guarded state (she is shielding, so this reaches past her surface): Intrusion, base **2 Strain**. Calm, controlled. Boxes 1–2. Stage 1. Nothing.
 
 **Beat 2.** She's shielding hard. A **Thought Probe** (Intrusion threshold), pushed through her Barriers, and dissonant — she is fighting it: `2 +1 push +1 dissonant = 4`. Boxes 3–6. **Stage 3** — −2 to everything now, and an ambient Panopticon sweep auto-flags him. He notices the dissociation creeping in. He should stop.
 

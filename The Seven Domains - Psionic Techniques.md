@@ -17,7 +17,7 @@ Psionic abilities are organized into seven fundamental Domains, each representin
 - **Memory** - Information manipulation within minds
 - **Detection** - Sensing supernatural signatures
 
-**A note on Expression:** The Talent expressed through the tether requires sufficient tether resilience — not everyone who might develop the Talent does so, and individuals with insufficient tether resilience who attempt Expression do not survive the attempt. Training remains essential even for those with sufficient resilience; the physiology enabling Expression does not guarantee safe use without proper technique, any more than having the physiology to perform a split guarantees performing one without injury.
+**A note on the Trigger:** The power reaching through the tether requires sufficient tether resilience — not everyone who might develop the power does so, and individuals with insufficient tether resilience who force a Trigger do not survive the attempt. Training remains essential even for those with sufficient resilience; the physiology enabling a Trigger does not guarantee safe use without proper technique, any more than having the physiology to perform a split guarantees performing one without injury.
 
 ---
 
@@ -51,16 +51,16 @@ Understanding how Domains interact is crucial to effective psionic practice:
 - Passive defense maintained within strain limits
 
 **DETECTION (Packet Sniffing):**
-- Observes outgoing mental activity on accessible minds
-- Reads unencrypted thoughts (mundanes without Barriers)
-- Can't force entry, only observes natural flow
-- Against Barriers: only sees what gets through
+- Reads the surface a mind broadcasts — the traffic it is already sending in the clear
+- Trivial on the unbraced (mundanes, sleepers, the Unshielded — all transmitting)
+- Can't force anything, only picks up what's being sent
+- Against **bracing** or a held **Empty Mind**: nothing is broadcast — the wire is silent
 
 **INTRUSION (Unauthorized Access):**
-- Active penetration into another's mind
-- Read-only access to mental content
-- Must overcome Barriers first
-- Browse thoughts but cannot modify
+- Active reach *past* the broadcast surface, into what a mind holds back
+- Reads the held content, or projects *into* the live mind — but does not edit (that's Memory)
+- Must get past the **Barriers** wall first
+- Skim sniffs the traffic; Intrusion breaks into the host
 
 **MEMORY (File Manipulation):**
 - REQUIRES Intrusion access first
@@ -88,11 +88,13 @@ Understanding how Domains interact is crucial to effective psionic practice:
 
 ---
 
-## Vulgar vs. Subtle Psionics
+## Dirty vs. Clean Psionics
 
-Among the Gifted, certain Domains are considered "vulgar" not because they violate reality, but because they create cleanup problems for the MetaConcert.
+Among the Gifted, certain Domains are called **dirty** — not because they cost more, but because they leave something behind for someone else to clean up. (The MetaConcert, which does the cleaning, files the same distinction as *high-* and *low-attribution*: how much of an incident can be traced back to a mind.)
 
-**"VULGAR" DOMAINS (High Noise, Heavy Cleanup):**
+**This is not the same axis as Strain.** Dirt is about what you *left;* Strain is about what you *forced* — see the disposition dial in [The Fraying — Game Mechanics](The%20Fraying%20-%20Game%20Mechanics.md). The two come apart constantly, and the gap between them is where tradecraft lives. A consonant nudge in a crowded lobby is free and filthy. An anathema override in a sealed room is a **clean** atrocity: no witness, no cleanup, nothing to file — and it frays you white. The Gifted who confuse the two do not last. They mistake *nobody saw me* for *it cost me nothing*, and the tether keeps its own books regardless of what the paperwork says.
+
+**DIRTY DOMAINS (High Attribution, Heavy Cleanup):**
 
 **KINESIS** - The worst offender:
 - Visible to everyone (flying objects, kinetic impacts)
@@ -109,7 +111,7 @@ Among the Gifted, certain Domains are considered "vulgar" not because they viola
 - Victim remembers everything when you stop
 - "You made someone rob a bank. Now they're screaming about mind control to police."
 
-**"SUBTLE" DOMAINS (Low Noise, Minimal Cleanup):**
+**CLEAN DOMAINS (Low Attribution, Minimal Cleanup):**
 
 **MEMORY** - The preferred tool:
 - Edit what they remember about the event
@@ -135,7 +137,7 @@ Among the Gifted, certain Domains are considered "vulgar" not because they viola
 **PROJECTION** - Mostly invisible:
 - Astral form not typically visible to mundanes
 - Can scout without physical presence
-- Only vulgar if you interact with physical world
+- Only dirty if you interact with physical world
 
 **The MetaConcert's hierarchy of respect:**
 1. Memory - "The scalpel. Precise, elegant, self-cleaning."
@@ -145,6 +147,28 @@ Among the Gifted, certain Domains are considered "vulgar" not because they viola
 5. Projection - "Useful but risky to yourself."
 6. Control - "Amateur hour. Creates witnesses."
 7. Kinesis - "Might as well announce 'PSIONICS HERE' with fireworks."
+
+---
+
+## Broadcast: Why Five Thousand Costs Barely More Than Five
+
+Here is the thing the other splats cannot do, and the reason the MetaConcert is a government rather than a guild.
+
+A mage who wants to reach a crowd is working against arithmetic and against Paradox: the effect has to cover them, and every pair of eyes that sees a vulgar act makes the reckoning worse. Worse than that, and this is the trap with no floor — **you cannot fix vulgar with vulgar.** The cover-up is witnessed by the same crowd that witnessed the thing it was covering. There is no exit from that loop that costs less than the act did.
+
+A Gifted has no loop, because the power raises no Paradox at all. The cost is private and paid to the tether. And the reach is not arithmetic, because psionics was never point-to-point to begin with — every unshielded mind pours its surface out for free, and a psion standing in a crowd receives *all of them at once*. The channel was always one-to-many. It simply spent most of its history pointed the wrong way.
+
+Turn it outward and you get **broadcast:** one act, every mind in reach, at once.
+
+**The useful comparison is a graphics processor.** You do not address the thousands of cores one at a time. You hand them a single instruction and they all run it simultaneously, and it is fast *precisely because nothing branches* — the moment different cores need to do different work, the parallelism collapses and you are back to doing everything one at a time. That is exactly the shape of this. As long as the instruction is simple and identical for every mind, five thousand and five million are not meaningfully different jobs.
+
+*"You did not see that."* — identical for everyone, and it needs to know nothing about anybody. It costs a master real tether across a crowded plaza, and it is entirely payable.
+
+*"Forget the man in the grey coat."* — the grey coat is filed in five thousand different places in five thousand different lives. There is no single instruction. This is five thousand jobs, and nobody has that much tether.
+
+**Which yields the law, and it is the most important sentence in this section: violation cannot be parallelized.** Overcoming a will is a contest with one particular person, and a contest is not an instruction. So everything at the coercive end of this book — everything that actually frays you toward the psidolon — is permanently, structurally retail. You can make a city forget. You will never make a city obey.
+
+That is not a mercy anyone designed. It is a property of the machinery, and it is the reason the MetaConcert's authority over its own people has to be built out of leverage, dependency, Correction and the Inquisition rather than a single broadcast order. Their tyranny is labour-intensive. If it were not, there would be no Projects, and no one left to write this.
 
 ---
 
@@ -158,17 +182,17 @@ Among the Gifted, certain Domains are considered "vulgar" not because they viola
 
 ### The Unshielded State
 
-Before a newly Expressed Gifted learns any Barriers technique, they exist in the **Unshielded** state: uncontrolled bidirectional thought leakage with no containment structure. (The MetaConcert's clinical term for the condition is *Exposed*; Gifted in the vernacular call it being *Raw*.) Thoughts leak out, others' thoughts leak in, no filter exists. This is not tether damage — the tether is intact. It is the absence of any trained containment. The Unshielded state is psionically loud, which is how Panopticon Detection sweeps locate newly Expressed children. Left untreated, prolonged Unshielded state produces escalating psychic overload: cognitive destabilization, identity fragmentation, and symptoms clinically resembling severe psychiatric conditions. Bracing is the intervention that resolves it.
+Before a newly Triggered Gifted is **braced**, they exist in the **Unshielded** state: uncontrolled bidirectional thought leakage with no containment structure. (The MetaConcert's clinical term for the condition is *Exposed*; Gifted in the vernacular call it being *Raw*.) Thoughts leak out, others' thoughts leak in, no filter exists. This is not tether damage — the tether is intact. It is the absence of any trained containment. The Unshielded state is psionically loud, which is how Panopticon Detection sweeps locate newly Triggered children. Left untreated, prolonged Unshielded state produces escalating psychic overload: cognitive destabilization, identity fragmentation, and symptoms clinically resembling severe psychiatric conditions. Bracing is the intervention that resolves it.
 
 ### Known Techniques
 
 **Bracing** (Foundational pre-technique — no Domain rating required)
-- The first technique taught to every newly Expressed Gifted
+- The first technique taught to every newly Triggered Gifted
 - Not a formal Barriers technique but the experiential foundation on which all Barriers work is built
 - Taught through controlled Intrusion: the Integrator enters the child's mind gently, holds a presence, and instructs the child to push back
 - The child learns what a mental boundary feels like by producing one — experiential learning that cannot be described, only demonstrated
 - Once bracing is established, the Unshielded state resolves: bidirectional thought leakage stops, psychic overload recedes
-- Bracing is a proto-Thoughtshield — the felt sense of mental boundary before the child has vocabulary for what a boundary is
+- Bracing is *not* the Barriers Domain: it is a bidirectional membrane — a *skin* — gating the inbound flood down to something survivable and containing the outbound broadcast in the same act, where Barriers dots build the trained inbound wall against directed Intrusion. Skin, not armor. It sits below the Domain scale — the felt sense of a boundary before the child has vocabulary for one, or any wall of their own
 - Everything else in Barriers training (and all other Domain training) builds on this foundation
 - Systematized by Praxis; taught by Integrators
 
@@ -264,31 +288,31 @@ Before a newly Expressed Gifted learns any Barriers technique, they exist in the
 
 ## Domain: Intrusion
 
-**Philosophy:** The gateway to mental manipulation. Unauthorized access to another's thoughts and mind.
+**Philosophy:** The inbound door. Reaching *past* the surface a mind shows — to the truth it holds back, or to project into it. Where Detection reads the broadcast, Intrusion goes beneath it. This is the gateway Memory and Control require.
 
-**Primary Use:** Reading minds, gathering intelligence, enabling Memory and Control techniques
+**Primary Use:** Reaching the held-back truth, gathering intelligence, enabling Memory and Control techniques
 
-**Tether Strain:** Moderate to high (active penetration, resistance creates strain)
+**Tether Strain:** Moderate to high (active penetration past a defended surface creates strain)
 
-**Critical Note:** Intrusion is REQUIRED before Memory or Control techniques can function. You must successfully Intrude before you can manipulate.
+**Critical Note:** Intrusion is REQUIRED before Memory or Control techniques can function. Reading a mind's *broadcast* (Skim, Detection) is not access — you must reach *past* the surface to manipulate.
 
 ### Known Techniques
 
-**Surface Scan** (Scaling: ● to ●●●●●)
-- Read surface thoughts and immediate consciousness
-- ● Basic: Emotional states, strong surface thoughts
-- ●● Adequate: Active thought streams, current focus
-- ●●● Strong: Detailed surface reading, multi-layered thoughts
-- ●●●● Advanced: Rapid scanning, multiple targets
-- ●●●●● Master: Complete surface consciousness mapping
+**Dig** (Scaling: ● to ●●●●●)
+- Reach past the surface a mind is broadcasting to what it holds beneath
+- ● Basic: sense that something is being held back; the shape of a suppressed feeling
+- ●● Adequate: the lie under a calm answer; a guarded thought
+- ●●● Strong: read held content in detail; establish sustained access
+- ●●●● Advanced: rapid and deep; hold access against a wall
+- ●●●●● Master: complete sub-surface reading
 
-*Practical notes:* The fundamental Intrusion technique. Works well on mundanes without Barriers. Against trained Gifted, you're competing your Intrusion against their Barriers.
+*Practical notes:* The fundamental Intrusion technique, and the standard way to establish access for Memory and Control. Where **Skim** (a Detection technique) reads what a mind is openly broadcasting, Dig reaches under it — the feeling being suppressed, the thought kept off the surface, the lie beneath the words. Works freely on an unwalled mind; against a trained Gifted you pit your Intrusion against their Barriers.
 
 **Thought Probe** (Threshold: ●●●)
 - Direct extraction of specific information
-- Requires successful Intrusion first
+- Requires successful Intrusion access (a held Dig) first
 - Target must be focused on or recently thought about information
-- More invasive than Surface Scan
+- A targeted, forceful Dig for one fact
 - Inquisition staple for interrogation
 
 *Practical notes:* "Where is the safe house?" "What did you tell them?" Targeted information extraction rather than general reading. Higher ratings allow deeper, faster extraction.
@@ -328,7 +352,16 @@ Before a newly Expressed Gifted learns any Barriers technique, they exist in the
 - Edits perception, not reality — and works only on minds, never on machines
 - A target with hard contradictory evidence may see through it
 
-*Practical notes:* The quintessential ghost-in-the-building technique, and the closest a Gifted comes to moving through a place as though they were never in it. The subtle master does not make themselves invisible — invisibility is a thing people notice the absence of. They make themselves a *somebody else's problem:* the guard's eyes pass over the open door, the analyst's gaze slides off the figure at the terminal, and no alarm sounds because, as far as every living mind in the building is concerned, there is nothing to sound one about. Its great humility is the camera. Mirage fools minds, and only minds — the lens has none, the recording does not forget, and more than one overconfident operative has slipped past every guard in the building only to be undone by a thirty-dollar webcam. And it overlays perception without touching memory: pair it with a Mind Wipe to close the loop, or the people you fooled will, in time, come to wonder.
+*Practical notes:* The quintessential ghost-in-the-building technique, and the closest a Gifted comes to moving through a place as though they were never in it. The clean operator does not make themselves invisible — invisibility is a thing people notice the absence of. They make themselves a *somebody else's problem:* the guard's eyes pass over the open door, the analyst's gaze slides off the figure at the terminal, and no alarm sounds because, as far as every living mind in the building is concerned, there is nothing to sound one about. Its great humility is the camera. Mirage fools minds, and only minds — the lens has none, the recording does not forget, and more than one overconfident operative has slipped past every guard in the building only to be undone by a thirty-dollar webcam. And it overlays perception without touching memory: pair it with a Mind Wipe to close the loop, or the people you fooled will, in time, come to wonder.
+
+**The Fugue** (Threshold: ●●●●●) *(MetaConcert: the Cognitive Fugue protocol)*
+- Two minds in direct contact, concept meeting concept, with no language or senses in between
+- Not a place and not a journey — both minds stay exactly where they are; each *renders* the exchange as somewhere, because a mind has no other way to hold it
+- Requires an already-held Intrusion access, sustained; a defended mind refuses outright, with no partial effect
+- Kinesis does not function here, and neither does casting — there is no substance for either to grip
+- The rarest technique in the Domain to learn, and the one arena in the World of Darkness that belongs to the Gifted
+
+*Practical notes:* The capstone, and the only technique in the book whose vernacular and institutional names are the same word — because there was no honest older name to refuse. Praxis did not launder this one; Praxis **built** it. Before them, two masters meeting mind-to-mind was real, formless, and unteachable, described afterward in metaphors no two survivors shared; Praxis studied enough of those clashes to find the shape underneath and wrote a curriculum for it. That is the deepest reach of the taxonomy anywhere in this book: even mind-war, at its rawest personal extremity, now happens inside a form a research institution designed to be legible. The counter-vocabulary has a defiant word for nearly everything. For this it has nothing. *(Full rules for what happens once the contact is established are in [Combat and Conflict — Game Mechanics](Combat%20and%20Conflict%20-%20Game%20Mechanics.md), "The Fugue: Mental Duels." Use it the way a Garou uses Crinos — an arena, not a last resort.)*
 
 ---
 
@@ -344,7 +377,7 @@ Before a newly Expressed Gifted learns any Barriers technique, they exist in the
 
 ### Known Techniques
 
-**Override** (Scaling: ● to ●●●●●) *(MetaConcert: the Cognitive Override protocol)*
+**Puppeteer** (Scaling: ● to ●●●●●) *(MetaConcert: the Cognitive Command protocol)*
 - Force specific actions while victim remains aware
 - REQUIRES active Intrusion
 - Victim remembers being controlled afterward
@@ -355,32 +388,34 @@ Before a newly Expressed Gifted learns any Barriers technique, they exist in the
 - ●●●● Advanced: Multiple commands, sophisticated behavior
 - ●●●●● Master: Complete puppet control, extended duration
 
-*Practical notes:* The Gifted's raw mental seizure of another body — and, though almost no Gifted alive knows it, the ancestor of vampiric Dominate. Where the Kindred version works through the Blood (eye contact, proximity, and the power to rewrite memory so the victim never knows), Override works through pure mind: instant, needing no gaze, reaching as far as a thought — but overt. The victim is fully conscious, feels their body stop being theirs, and remembers every second. The medium makes the difference: blood is insidious and sinks in; mind is immediate and shows. This is why Override creates the angriest witnesses in the game, and why sophisticated Gifted consider it vulgar and reach for Memory instead. The MetaConcert files it, with characteristic warmth, as the Cognitive Override protocol. *(On its kinship with vampiric Dominate, see [The Interred](The%20Interred.md).)*
+*Practical notes:* The Gifted's raw mental seizure of another body — and, though almost no Gifted alive knows it, the ancestor of vampiric Dominate. Where the Kindred version works through the Blood (eye contact, proximity, and the power to rewrite memory so the victim never knows), Puppeteer works through pure mind: instant, needing no gaze, reaching as far as a thought — but overt. The victim is fully conscious, feels their body stop being theirs, and remembers every second. It **enters through the mind but does not alter it**: Intrusion opens the connection, and Puppeteer follows that connection *past cognition* to the body's motor controls — reading nothing, editing nothing. That is exactly why the mind stays awake to witness. The difference from Dominate is not degree but *kind*: Dominate commands the **will** — a single instruction the victim's own mind carries out — where Puppeteer bypasses the will entirely and **drives the body**, continuously, an intact mind held prisoner and made to watch its own hands obey. That is also why the Domain is called Control and not Domination: this is not a command that runs and ends, it is the moment-to-moment operation of another person for as long as you concentrate — you own every voluntary muscle they have, down to whether they may speak.
+
+And it is why the *defense* against it is unlike any other. Dominate is resisted by will — a strong enough will refuses the command, even after it lands, which is how a Tremere elder shrugs off a neonate. Puppeteer cannot be resisted that way, because it never addresses the will: once someone is past your Barriers and holding Intrusion access, your Willpower is screaming in a room it has been locked out of. The whole defense is the wall at the border. Let them in and it is already over — which is the exact terror the [Barriers ruling](The%20Best%20Defense%20-%20Barriers%20and%20the%20Mental%20Domain.md) is built around, seen from the losing side. The medium makes the difference: blood is insidious and sinks in; mind is immediate and shows. This is why it creates the angriest witnesses in the game — the mind was entered but never *altered*, only caged — and why sophisticated Gifted consider it unforgivably dirty and reach for Memory instead. The MetaConcert files it, with characteristic warmth, as the Cognitive Command protocol. *(On its kinship with vampiric Dominate, see [The Interred](The%20Interred.md).)*
 
 **Emotion Manipulation** (Threshold: ●●)
 - Alter emotional states directly
 - Fear, calm, anger, attraction
-- Subtler than Override
+- Subtler than Puppeteer
 - Victim may not realize emotions are artificial
 - Wears off when concentration ends
 
-*Practical notes:* More subtle than Override but still requires Intrusion. Useful for interrogation (induce fear) or de-escalation (force calm). Effects fade quickly after release.
+*Practical notes:* More subtle than Puppeteer but still requires Intrusion. Useful for interrogation (induce fear) or de-escalation (force calm). Effects fade quickly after release.
 
 **Compulsion** (Threshold: ●●●)
 - Plant specific behavioral compulsions
 - "You must tell the truth"
 - "You cannot leave this room"
 - "You will forget what you saw"
-- More subtle than Override
+- More subtle than Puppeteer
 - Can persist briefly after Intrusion ends
 
-*Practical notes:* Middle ground between Override (obvious control) and Memory manipulation (editing thoughts). Creates irresistible urges rather than direct control.
+*Practical notes:* Middle ground between Puppeteer (obvious control) and Memory manipulation (editing thoughts). Creates irresistible urges rather than direct control.
 
 **Suggestion** (Threshold: ●●)
 - A single, light, plausible command slipped into a compliant mind
 - Works best on the unsuspecting and the weak-willed
 - Cannot force an action the target would strongly refuse
-- Subtler than Override, briefer than Compulsion
+- Subtler than Puppeteer, briefer than Compulsion
 - Wears off quickly, leaving only faint puzzlement
 
 *Practical notes:* The famous one — "you don't need to see my papers," "there's nothing down that hall worth checking." It is the gentlest thing the Control Domain can do, and the most deniable, which is exactly why it is buried under more folklore than any other technique: the theatrical hand-wave, the lowered voice, the steady unblinking stare. None of it does anything. The override is mental and works just as well with your hands in your pockets — but newcomers learn the gesture from stories and swear by it, and veterans find the whole performance quietly embarrassing. The wave is not the power. People do it anyway.
@@ -510,7 +545,7 @@ Before a newly Expressed Gifted learns any Barriers technique, they exist in the
 - Useful for deep cover operations
 - Maintaining false profile is exhausting
 
-*Practical notes:* Operatives use this for deep cover. When someone reads your surface thoughts, they find the cover story instead of truth. Different from Barriers (which block reading) or Intrusion (which reads others). This is preparing false data for when you ARE read.
+*Practical notes:* Operatives use this for deep cover. When someone Skims your surface (or Digs beneath it), they find the cover story instead of the truth. Different from **bracing** (which stops you broadcasting at all) and **Barriers** (which blocks a reach-in): this is for when you *are* read anyway — you can't always stay silent, so instead you make the surface they find a convincing lie.
 
 **Lockbox** (Threshold: ●●●)
 - Seal specific memories of your own behind an internal barrier
@@ -535,15 +570,25 @@ Before a newly Expressed Gifted learns any Barriers technique, they exist in the
 
 ## Domain: Detection
 
-**Philosophy:** Information gathering without intrusion. The eyes and ears of psionic intelligence work.
+**Philosophy:** The outbound read — everything a mind broadcasts and cannot help broadcasting. The eyes and ears of psionic work, and the one thing a psion innately *is*: a receiver.
 
-**Primary Use:** Sensing minds, emotions, supernatural entities, psionic activity
+**Primary Use:** Reading surface thought and emotion, sensing minds and supernatural entities, feeling psionic activity, reading tether condition
 
-**Tether Strain:** Low to moderate (passive observation safer than active intrusion)
+**Tether Strain:** Low (reading a broadcast is the cheapest thing psionics does)
 
-**Note:** All Detection requires active use for normal Gifted. Only Eve has passive, always-on Detection.
+**The innate floor:** Every psion passively *receives* — an unbraced one takes in the genuine surface cognition of every unshielded mind nearby: real thoughts, emotions, images, memory-fragments, rich and true, but indiscriminate, unattributed, simultaneous, contextless — a firehose with no valve. **Bracing** is the valve; **Detection dots** are the trained attention that turns the flood into a clean, directed, attributed read. That raw reception is not the same as *usable* Detection, which still takes active technique — and it is nothing like Eve's controlled, always-on, fray-free sense, which is a different phenomenon entirely (see [Eve](Eve.md)).
 
 ### Known Techniques
+
+**Skim** (Scaling: ● to ●●●●●)
+- Direct the surface-sense at one mind and read what it is openly broadcasting — thought, emotion, image
+- ● Basic: strong feeling, the gist of loud thought
+- ●● to ●●●● : active thought streams, then detail, then several minds at once
+- ●●●●● Master: a clean, attributed map of active consciousness
+- Reads only what is *broadcast:* a **braced** mind, a held **Empty Mind**, or a disciplined calm returns nothing
+- **Not resisted by Barriers or Willpower** — the only defense is not to broadcast
+
+*Practical notes:* The workhorse read, now placed correctly. It picks up the surface a mind is leaking — trivial on the unbraced (mundanes, sleepers, the Unshielded), silent against the composed. It is *not* how you reach what someone is hiding; that is **Dig**, under Intrusion, which pushes past the surface and is what Barriers defends against. Skim reads the mask; Dig reads beneath it.
 
 **Thoughtsense** (Scaling: ● to ●●●●●)
 - Active "radar pulse" detecting nearby minds
@@ -597,11 +642,14 @@ Before a newly Expressed Gifted learns any Barriers technique, they exist in the
 **Tether Sense** (Threshold: ●●●●)
 - Detects tether strain in other Gifted
 - Panopticon specialty for monitoring fraying
-- Sees metaphysical integrity of tether
+- Sees metaphysical integrity — and material — of a tether
+- Reads mundanes, Gifted, and Kindred alike; only a psidolon reads as nothing
 - Can identify critical fraying before snap
 - Requires concentration and proximity
 
 *Practical notes:* This is what Panopticon uses to flag people for White Rooms. See the tether's condition, detect dangerous strain levels. Extremely valuable, requires master-level Detection skill. Most Gifted never learn this—it's Panopticon's secret weapon.
+
+*What it was built for:* the fraying gauge is the day job. **Tether Sense is a psidolon detector.** Every living thing has a tether, and the Embrace reforges rather than deletes one, so the technique returns *something* on nearly everything with a mind — a mundane's hemp, a Gifted's steel, a Kindred's burned-and-recast third thing that is plainly there and plainly not living. None of that is an alarm. The alarm is the reading that comes back **empty**: no tether where one must be. The answer is absolute because nothing else in the world gives it, and that is only true because everything else *has* one. A Panopticon analyst can sweep a room full of Kindred and read seven wrong-but-present tethers without a flicker of concern, then go rigid at the eighth chair, where a charming man is telling a story and the world says there is no one sitting there.
 
 ---
 
@@ -609,7 +657,7 @@ Before a newly Expressed Gifted learns any Barriers technique, they exist in the
 
 **Against Garou:**
 - The Beast is the variable — the more ascendant it is, the less purchase any mental technique finds.
-- **In Crinos or frenzy:** mental work fails. Surface Scan returns only raw rage — "KILL TEAR DESTROY," obvious and useless. Control and Memory simply don't take; there is no coherent will to seize and no stable mind to edit, only the storm. Dominating a Crinos Garou is trying to control a hurricane.
+- **In Crinos or frenzy:** mental work fails. Skim returns only raw rage — "KILL TEAR DESTROY," obvious and useless. Control and Memory simply don't take; there is no coherent will to seize and no stable mind to edit, only the storm. Dominating a Crinos Garou is trying to control a hurricane.
 - **In Homid or Lupus (the calm forms):** the Beast is quiet and mental techniques work — but a Garou is never *only* human. Even at rest the Beast is a low, ever-present resistance, so they are harder to read and harder to bend than an ordinary mortal.
 - **Spiritually attuned Garou** — theurges, elders, the ritual-disciplined — are harder still. Years of spiritual practice function like trained Barriers; some can feel a clumsy Intrusion the way a mortal feels a draft on the back of the neck.
 - **Detection** works in any form. It just confirms what you already suspected: *very angry.*
@@ -617,9 +665,8 @@ Before a newly Expressed Gifted learns any Barriers technique, they exist in the
 
 **Against Kindred:**
 - Feel subtly "wrong" to Detection (predatory, dead)
-- Vampiric Dominate vs Barriers:
-  - Barriers ● or ●●: Dominate can overpower
-  - Barriers ●●●+: Dominate fails
+- Vampiric Dominate vs Barriers is **not a threshold** — never resolve it as whose rating is higher. Dominate is the diluted copy; Barriers is the wall built to stop the original. Against a raised wall of any rating the attempt is *hazardous*, and against a real specialist it is a mistake: there is no rote, no known key, because the Barrier is active and adaptive rather than a static lock. An elder with centuries of blood to burn can still get through — but only by improvising at the limit of the Discipline, never casually, and never without opening the line back (see [The Best Defense](The%20Best%20Defense%20-%20Barriers%20and%20the%20Mental%20Domain.md))
+- The deterrent is asymmetric *risk*, not low odds. A Kindred who fails against a psion has not merely been repelled; they have handed a trained mind a live channel and a face to remember
 - Memory techniques work but inconsistently (Beast complicates things)
 - Some memories tied to Beast resist editing
 
@@ -690,7 +737,7 @@ Before a newly Expressed Gifted learns any Barriers technique, they exist in the
 **"I'll use Kinesis for everything"**
 - Extreme tether strain will snap you fast
 - Creates massive cleanup problems
-- MetaConcert considers this vulgar and reckless
+- MetaConcert considers this dirty and reckless — the highest-attribution habit a Gifted can form
 - Combat use is valid, casual use is stupid
 
 **"Control is better than Memory"**

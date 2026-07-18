@@ -20,7 +20,7 @@ Everything else — nine Attributes, the Talents/Skills/Knowledges, Willpower, H
 
 ## Step One: Concept and Affiliation
 
-Decide who your character is, when and how they **Expressed**, and — the Psion equivalent of choosing a clan or tribe — their **Affiliation**: their relationship to the institutions that rule and resist the lattice.
+Decide who your character is, when and how they **Triggered**, and — the Psion equivalent of choosing a clan or tribe — their **Affiliation**: their relationship to the institutions that rule and resist the lattice.
 
 Affiliation is not a hard cage. Any Gifted can learn any Domain. But your Affiliation shapes the Domain you were trained in, the Backgrounds available to you, and the entire texture of your chronicle.
 
@@ -30,7 +30,7 @@ Affiliation is not a hard cage. Any Gifted can learn any Domain. But your Affili
 | **Praxis** (Circuit) | Control | Status, Resources | Research, doctrine, Cognitive Reconstruction |
 | **Maintainers** (Circuit) | Barriers | Status, Lattice Access | Lattice engineering, binding, severance |
 | **Panopticon** (Circuit) | Detection | Status, Influence | Surveillance, flagging, the uncertainty of being the watcher |
-| **Integrators** (Circuit) | Intrusion | Status, Mentor | Training the newly Expressed, the families broken to do it |
+| **Integrators** (Circuit) | Intrusion | Status, Mentor | Training the newly Triggered, the families broken to do it |
 | **Preservers** (Circuit) | Memory | Status, Influence | Records, narrative control, the secret archives |
 | **Operatives** (Circuit) | Projection | Status, Contacts, Allies | Deep cover among other supernaturals, the slow erosion of identity |
 | **Railroad** (Project) | Intrusion | Safehouse, Allies (CoG) | Extraction, sanctuary, the weight of the ones you can't save |
@@ -67,15 +67,25 @@ Psion adds three setting Abilities to the standard lists:
 
 ## Step Four: Advantages
 
-### Domains — 6 dots (Barriers ●1 mandatory)
+### Domains — the innate floor, then specialization
 
-Every Gifted begins with **Barriers ●1 automatically** — the trained baseline of bracing — and then distributes **5 further dots** among the seven Domains, for **six dots total**. At creation no single Domain may exceed **4**. (For a grittier chronicle the ST may grant only 3 free dots; for a high-powered one, 7 — but the mandatory Barriers dot is constant either way.)
+One thing comes with being a psion, the way drinking blood comes with being a vampire — not bought, not a dot, just what you *are:*
 
-Three rules from the setting's metaphysics constrain how you spend these:
+- **You receive.** A psion takes in the surface cognition of the minds around them — genuine thought, emotion, image. Unbraced, it is a *firehose:* everyone at once, unlabeled, contextless, maddening. This is the raw floor of **Detection**, and it is the whole of the "reader" a psion innately is. Detection *dots* don't add signal — they add the trained attention to select one mind, attribute a thought, and read cleanly at range. (Barriers and Intrusion have **no** such floor; both are entirely trained — see below.)
 
-- **Barriers ●1 is universal, because its absence is the Unshielded state.** Bracing — the foundational proto-Thoughtshield every newly Expressed Gifted is taught — *is* Barriers ●1. It is the structure that stops the bidirectional thought-leak and makes every other Domain usable, so a trained Gifted always has it. The only characters who begin at **Barriers 0 are those still Unshielded** — just Expressed, not yet braced, leaking and overwhelmed. That is a harrowing advanced starting concept (a child mid-crisis, an escapee who never finished training), not a standard build.
-- **Memory and Control require Intrusion.** Their techniques do nothing without first achieving mental access through Intrusion. Dots in Memory or Control are inert above what your Intrusion can open. If you want to manipulate minds, buy Intrusion alongside.
-- **Your Affiliation's favored Domain costs nothing extra to raise with freebies** (6 per dot instead of 7) and is the Domain you were trained in. You begin knowing its scaling techniques. (For a Maintainer or Iconoclast, whose favored Domain *is* Barriers, the mandatory bracing dot simply gives that specialization a free head start.)
+And one thing is *taught,* not born — the way a fledgling vampire is taught to leash the Hunger:
+
+- **Bracing.** The membrane that regulates that surface exchange in both directions at once: it gates the incoming flood down to something survivable *and* keeps your own mind from broadcasting out. It sits **below the Domain scale entirely** (it is not Barriers ●1, and never appears on your sheet). Every trained character has it, free; its absence is the **Unshielded** state — the ungated flood, and a broadcast anyone can read.
+
+**The Barriers Domain is a separate thing from bracing.** Bracing is the *skin* that regulates the passive surface exchange; **Barriers ●1–●5** is the *armor* — the trained, adaptive wall against a directed intrusion reaching *past* your surface. You can be fully braced and hold **Barriers 0:** contained and surface-quiet, but with no wall, so as open to a **Dig** (Intrusion) as any sleeper. That "braced, wall-less reader" is a real, coherent build — all sense, no shield — and its danger is entirely earned.
+
+So a psion is, at their innate core, **a reader**: the receiving sense comes free; the wall, the reach past a mask, and everything else are trained. **Distribute 6 dots** among the seven Domains, no single Domain above **4** at creation. There is no mandatory dot — a starting psion is braced (free) and spends where they like. *(ST dial: grittier chronicle, 5 dots; higher-powered, 7.)*
+
+Three rules from the setting's metaphysics constrain how you spend them:
+
+- **Most trained psions carry at least a dot or two of Barriers**, because being wall-less among other psions is a real and specific danger (see [The Best Defense](The%20Best%20Defense%20-%20Barriers%20and%20the%20Mental%20Domain.md)) — but it is a strong *recommendation*, not a requirement. The one true floor is **bracing**, which is free; a character who lacks even that is Unshielded, a harrowing advanced concept (a child mid-crisis, an escapee who never finished training), not a standard build.
+- **Memory and Control require Intrusion.** Their techniques do nothing without sustained access *beneath* the surface — a held **Dig**. Reading a mind's broadcast (Skim, your free Detection floor) is not that; you have to get past the surface. Against an unwalled mind a dot or two of Intrusion opens the door; against a defended one (another Gifted's Barriers) you need Intrusion enough to beat the wall. Dots in Memory or Control are inert above what your Intrusion can open, so raise Intrusion alongside them.
+- **Your Affiliation's favored Domain costs nothing extra to raise with freebies** (6 per dot instead of 7) and is the Domain you were trained in. You begin knowing its scaling techniques.
 
 **Techniques known at creation:** you know the scaling baseline of every Domain you have dots in, plus **one threshold technique per two dots** in that Domain that you qualify for (ST may grant more based on training and Affiliation).
 
@@ -171,7 +181,7 @@ Your **Tether Track** is ten boxes, running from healthy (empty) to the Snap (fu
 
 **Recovery.** Clear **(Tether) Strain boxes per full day** of *complete* rest — any psionic use at all, even a Detection pulse, resets the day. **Fray** clears at roughly **one box per month** of total rest, and the last one or two Fray boxes from a near-Snap are **permanent**. No technique, drug, therapy, or act of will repairs the tether. That is not a gap in the rules. It is the game.
 
-**Willpower's role in fraying** is the **Discipline check**: when the "just one more" temptation arises, or an emotional trigger threatens involuntary Expression, spend or roll Willpower to *not reach for the power*. Willpower decides whether you fray. Tether decides what happens when you do.
+**Willpower's role in fraying** is the **Discipline check**: when the "just one more" temptation arises, or an emotional trigger threatens involuntary Bleed, spend or roll Willpower to *not reach for the power*. Willpower decides whether you fray. Tether decides what happens when you do.
 
 > **Design note — where the morality track went.** Psion has no Humanity, Path, or Conscience track. It doesn't need one. In this setting the slide toward becoming a monster is literal and physical, and it already has ten boxes: **Fray is your degeneration meter.** What the Gifted surrender to power is not their conscience but the thing holding them together.
 
@@ -179,13 +189,13 @@ Your **Tether Track** is ten boxes, running from healthy (empty) to the Snap (fu
 
 ## Worked Example: Dana Reyes, Railroad Conductor
 
-**Concept:** A former paramedic who Expressed at nineteen during a highway pileup, was reached by the Railroad before the Integrators, and now runs extractions. **Affiliation:** Project Railroad (favored Domain: Intrusion). **Nature:** Caregiver. **Demeanor:** Gallant.
+**Concept:** A former paramedic who Triggered at nineteen during a highway pileup, was reached by the Railroad before the Integrators, and now runs extractions. **Affiliation:** Project Railroad (favored Domain: Intrusion). **Nature:** Caregiver. **Demeanor:** Gallant.
 
 **Attributes** (7/5/3 — Physical primary): Strength 2, Dexterity 3, Stamina 3 · Charisma 3, Manipulation 2, Appearance 2 · Perception 3, Intelligence 2, Wits 2.
 
 **Abilities** (13/9/5 — Talents primary): Alertness 2, Awareness 2, Empathy 3, Athletics 1, Brawl 1, Streetwise 2, Subterfuge 2 · Drive 2, Firstaid 3, Stealth 2, Security 2 · Psionics 2, Lattice 1, Medicine 2.
 
-**Domains** (Barriers ●1 free, +5 dots): Barriers 2, Intrusion 2, Detection 1, Projection 1. *(Bracing gives every Gifted Barriers 1; she added a second for the privacy her work demands. Intrusion is her core tool — calming and reading frightened children; a dot of Detection finds the Unshielded, and a single, dreaded dot of Projection lets her scout an extraction route. She deliberately avoided Memory and Control: she has no wish to rewrite anyone, and they'd demand more Intrusion than she can spare.)*
+**Domains** (6 dots; bracing free, below the scale): Barriers 2, Intrusion 2, Detection 1, Projection 1 *(Intrusion → 3 with freebies)*. *(She's braced like any trained psion, and her innate sense and reach need no dots — but she spent for the work: two dots of Barriers wall for the privacy her cases demand, Intrusion — her core tool for calming and reading frightened children — a dot of Detection to find the Unshielded at range past the innate floor, and a single dreaded dot of Projection to scout an extraction route. She deliberately avoided Memory and Control: she has no wish to rewrite anyone, and they'd demand more Intrusion than she can spare.)*
 
 **Backgrounds** (5): Safehouse 2, Allies 2 (Children of Gaia), Contacts 1.
 
@@ -193,7 +203,7 @@ Your **Tether Track** is ten boxes, running from healthy (empty) to the Snap (fu
 
 **Freebies (15):** Willpower 3 → 5 (2 pts) · Intrusion 2 → 3 (Affiliation-favored, 6 pts) · Empathy 3 → 4 (2 pts) · Merit: Disciplined (2 pts) · Background: Safehouse 2 → 3 (1 pt) · Merit: Attuned (1 pt) · 1 pt to Drive 2 → 3. *(15 spent.)*
 
-**In play:** Reaching out to a frightened Unshielded teenager, Dana leads with a **Surface Scan** (Intrusion, Perception + Intrusion = 6 dice). Calm, careful work: 2 Strain → boxes 1–2, Stage 1, no penalty. She'll rest it off by morning (Tether 2 clears 2 boxes a day). But when an Inquisition team arrives and she has to **Astral Step** across the building to scout the exits, panicked — base 3, +2 panic, +1 distance = **6 Strain**, landing her at boxes 3–8: **Stage 4**. The next time she so much as pulses Detection to find the kid, she rolls **Tether 2 + Stamina 3 = 5 dice vs 8** and prays. This is the Railroad's whole tragedy in one scene: the power that saves the child is the power that kills the rescuer.
+**In play:** Reaching out to a frightened Unshielded teenager, Dana leads with **bracing** the child (Manipulation + Intrusion) — the Integrator move for an Unshielded teen. Calm, careful work: 2 Strain → boxes 1–2, Stage 1, no penalty. She'll rest it off by morning (Tether 2 clears 2 boxes a day). But when an Inquisition team arrives and she has to **Astral Step** across the building to scout the exits, panicked — base 3, +2 panic, +1 distance = **6 Strain**, landing her at boxes 3–8: **Stage 4**. The next time she so much as pulses Detection to find the kid, she rolls **Tether 2 + Stamina 3 = 5 dice vs 8** and prays. This is the Railroad's whole tragedy in one scene: the power that saves the child is the power that kills the rescuer.
 
 ---
 
@@ -210,16 +220,16 @@ Your **Tether Track** is ten boxes, running from healthy (empty) to the Snap (fu
 
 **The Changeling half** — build entirely by your table's standard Changeling: The Dreaming rules. Nothing here is modified: Seeming and Kith set your starting Glamour and Banality as normal, Arts and Realms are bought exactly as any changeling buys them, Willpower and Backgrounds work exactly as written.
 
-**The Gifted half** — added on top, using the standard rules from Steps Four above, at full parity with any other Gifted:
+**The Gifted half** — added on top, using the standard rules from Step Four above, at full parity with any other Gifted:
 - **Tether begins at 2**, adjustable by the same rules as any Gifted (Step Four).
-- **Domains: Barriers ●1 mandatory, plus 5 further dots** — the identical 6-dot budget every Gifted gets. No special restriction applies at creation. A Dreambound may, if the player wants, build toward deep Domain mastery from day one. Whether that is wise is a different question, answered below.
+- **Domains: 6 dots, no mandatory dot** (bracing is free, below the scale, as for any Gifted; the innate sense and reach need no dots) — the identical budget every Gifted gets. No special restriction applies at creation. A Dreambound may, if the player wants, build toward deep Domain mastery from day one. Whether that is wise is a different question, answered below.
 - Psionics, Lattice, and Awareness remain available Abilities exactly as for any Gifted.
 
 ### The Instrumental Floor
 
-The Domains are not corrupting in themselves — they are simply the instrumental expression of the Talent: precision, repeatability, categorization, control. That is exactly the mode of thought Banality rewards, and a Dreambound cannot practice it without cost to the half of them that runs on wonder instead.
+The Domains are not corrupting in themselves — they are simply the instrumental expression of the power: precision, repeatability, categorization, control. That is exactly the mode of thought Banality rewards, and a Dreambound cannot practice it without cost to the half of them that runs on wonder instead.
 
-**A Dreambound's permanent Banality can never rest below their total Domain dots ÷ 3, rounded down** (Barriers' mandatory first dot counts same as any other). This floor rises only when Domain dots are bought — never from a single scene, a single Banal act, or a single hard day. It is the arithmetic shadow of a whole *life's* orientation, not a penalty for one choice. Temporary Banality still moves up and down around that floor with ordinary Changeling play — a Dreambound deep into Memory mastery can still have a wonderful week — but the floor itself only ever climbs, and only in proportion to how far the orthodox path has been walked.
+**A Dreambound's permanent Banality can never rest below their total Domain dots ÷ 3, rounded down**. This floor rises only when Domain dots are bought — never from a single scene, a single Banal act, or a single hard day. It is the arithmetic shadow of a whole *life's* orientation, not a penalty for one choice. Temporary Banality still moves up and down around that floor with ordinary Changeling play — a Dreambound deep into Memory mastery can still have a wonderful week — but the floor itself only ever climbs, and only in proportion to how far the orthodox path has been walked.
 
 **This floor caps at 9.** Banality 10 — full, permanent loss of the fae soul, becoming simply an ordinary Gifted from that day forward — is never reached by arithmetic alone. Dots can walk a Dreambound to the door. Whatever finally opens it should be a scene the table plays, not a subtraction the Storyteller makes silently on a character sheet.
 
@@ -259,7 +269,7 @@ A Dreambound's signature abilities are neither Domains nor Changeling Arts — t
 
 *Not a rule — an illustration, meant to show where the pitfalls actually live.*
 
-**Chargen.** Wren is a sidhe-descended kinain, Wilder, Seelie Court, raised in a Railroad bolthole and drifting, as most do, toward [Project Fractal](Project%20Fractal.md) (favored Domain: Memory). Changeling side built entirely to standard rules — Glamour 5, Banality 3, a light spread of Arts and Realms. Gifted side: Barriers ●1 (mandatory) + Barriers 1 more, Memory 2 (favored), Detection 1, Intrusion 1 — six dots total. **Instrumental Floor: 6 ÷ 3 = 2.** Actual Banality (3) already sits above the floor, so nothing about Wren feels constrained yet — and at Banality 3, every Trope is open to her except Seeing the Thread (ceiling 2). Early play is almost entirely fae-native: Hearing Stories and Entering Stories for free, Reading Stories and Naming Stories earned early, Memory barely touched.
+**Chargen.** Wren is a sidhe-descended kinain, Wilder, Seelie Court, raised in a Railroad bolthole and drifting, as most do, toward [Project Fractal](Project%20Fractal.md) (favored Domain: Memory). Changeling side built entirely to standard rules — Glamour 5, Banality 3, a light spread of Arts and Realms. Gifted side: braced (free, below the scale); Barriers 2, Memory 2 (favored), Detection 1, Intrusion 1 — six dots total. **Instrumental Floor: 6 ÷ 3 = 2.** Actual Banality (3) already sits above the floor, so nothing about Wren feels constrained yet — and at Banality 3, every Trope is open to her except Seeing the Thread (ceiling 2). Early play is almost entirely fae-native: Hearing Stories and Entering Stories for free, Reading Stories and Naming Stories earned early, Memory barely touched.
 
 **The turn.** Years into the chronicle, a bolthole-mate is dying by inches to Fray. Wren, out of love and not ambition, starts training seriously — Memory 2→4 over two years of downtime XP, Intrusion 1→4 alongside it (Memory needs Intrusion access to function at all; this was never optional), and a second dot of Barriers for the privacy the work demands. Total Domain dots climb to 12. **Floor: 4.** Nobody chose to become colder. It happened one necessary dot at a time, in service of someone Wren loved. Holding Stories (ceiling 3) is already out of reach; Wren doesn't notice yet.
 

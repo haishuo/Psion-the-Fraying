@@ -34,7 +34,7 @@ Except for one.
 
 There was a spot, off to my left, down near the water, where my senses reported a person and could tell me nothing else. Not a wall — I know walls; I build the best ones there are. Not silence, either. Something stranger: a person-shaped patch of *wrong,* a note played at a pitch my whole life had never taught me to hear, a hole in the legible world exactly the size and shape of someone standing in it.
 
-I had never, not once since the night my Talent woke, met a mind I could not read.
+I had never, not once since the night my power woke, met a mind I could not read.
 
 I should have kept walking. The route was in my pocket and the trees were right there.
 

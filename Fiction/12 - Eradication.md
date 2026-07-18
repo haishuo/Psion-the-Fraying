@@ -24,7 +24,7 @@ Here is the thing no one warned me of. To erase all of it I had to go *through* 
 
 And it had been a person. That is the part I will carry a long time.
 
-At the very bottom, before everything else, there was a young man in a circle of gentle people who called each other Brother and Sister — who spoke of a chrysalis and an emergence, who told him the fraying tearing him apart was not death but a *becoming,* that he was a caterpillar and had only to be brave enough to break. They cupped his terror in their hands and called it grace. And he chose it. He walked into the unmaking on purpose, believing he would come out the other side with wings.
+At the very bottom, before everything else, there was a young man in a circle of gentle people who called each other Brother and Sister — who spoke of a cocoon and an emergence, who told him the fraying tearing him apart was not death but a *becoming,* that he was a caterpillar and had only to be brave enough to break. They cupped his terror in their hands and called it grace. And he chose it. He walked into the unmaking on purpose, believing he would come out the other side with wings.
 
 The thing that took my sister was not an accident. It was not a Gifted who slipped. It was *made* — deliberately, tenderly, by people who do it on purpose and call it liberation.
 

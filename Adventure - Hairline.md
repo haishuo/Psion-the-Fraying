@@ -12,7 +12,7 @@
 
 One of yours is fraying. You've all seen it — the headaches she waves off, the half-second lag between what she means and what she does, the way she rubbed her arm last week and said it felt like it belonged to someone else. Mara is the strongest of you, which is exactly the problem: she's the one who carries the heavy jobs, and she's been carrying too many.
 
-Tonight there's a child. Newly Expressed, no training, screaming on every frequency a Gifted can hear — and the lattice is already turning toward the sound. You have a few hours to reach a terrified eleven-year-old before the people who "help" children like that arrive to do it their way.
+Tonight there's a child. Newly Triggered, no training, screaming on every frequency a Gifted can hear — and the lattice is already turning toward the sound. You have a few hours to reach a terrified eleven-year-old before the people who "help" children like that arrive to do it their way.
 
 It's a simple job. Get in, calm the kid, get out. The only hard part is that the calming is mental work, and the strongest mind in the room is the one that can least afford to spend itself.
 
@@ -38,7 +38,7 @@ There is no clean win. There is only what the players are willing to pay, and wh
 Gifted Operative (see [template](Antagonists%20-%20Game%20Mechanics.md)), with: **Intrusion 4**, Kinesis 3, Barriers 2, Detection 2 · **Tether 2** · **Stamina 2** · **Willpower 6**.
 She begins at **Stage 3** (6 boxes filled — 2 Strain, 4 Fray from months of overuse). Highest Domain 4 → **if she snaps, she becomes a Fresh Psidolon**, not a clean death. Her Snap Check pool is a terrifying **Tether 2 + Stamina 2 = 4 dice vs 8.** Play her as warm, competent, and quietly exhausted — someone who jokes about the headaches because the alternative is admitting what they are.
 
-**Kit** — *the Unshielded child, age 11.* Barriers 0, **psionically loud** (−2 difficulty for anyone, including the Panopticon, to locate or read them). Terrified, leaking others' thoughts and broadcasting their own panic. Under stress Kit suffers **involuntary Expression** — objects trembling, a wave of borrowed terror washing over everyone nearby. Not a combatant; a clock with a heartbeat. The emotional core: this is who everyone is fighting over.
+**Kit** — *the Unshielded child, age 11.* Barriers 0, **psionically loud** (−2 difficulty for anyone, including the Panopticon, to locate or read them). Terrified, leaking others' thoughts and broadcasting their own panic. Under stress Kit suffers **involuntary Bleed** — objects trembling, a wave of borrowed terror washing over everyone nearby. Not a combatant; a clock with a heartbeat. The emotional core: this is who everyone is fighting over.
 
 **Inquisitor Tomas Hale** — *the doctrine, with a face.* Use the [Inquisitor template](Antagonists%20-%20Game%20Mechanics.md); leads a team of **2 more Inquisitors + 1 Memory specialist** (Intrusion 3 / Memory 3). Hale is not cruel. He is tired, careful, and completely certain that a loud Unshielded child and a Stage-3 Gifted are exactly the situation his doctrine exists for. Give him one line that makes the players hate that they understand him: *"I'm not the worst thing coming for that kid tonight. I'm the most careful one. There's a difference, and someday you'll wish you'd let me prove it."*
 
@@ -61,7 +61,7 @@ Both framings run the same three acts. Choose before session zero; it changes wh
 
 *Goal: introduce the cell and Mara, let the players notice the fraying, and give them their first low-stakes taste of using a Domain (and paying a little Strain).*
 
-Open on the cell getting the tip — a loud new signature across town, a child, and a narrow window. Stage a small, calm beat that requires light psionic use: reading a nervous informant (Surface Scan, 2 Strain), scouting the building (Thoughtsense or Remote Viewing, 1–2 Strain), quieting a suspicious neighbor (a Suggestion, 2 Strain). Let everyone spend a box or two and see that it's nothing. This is the baseline against which the rest of the night will feel like falling.
+Open on the cell getting the tip — a loud new signature across town, a child, and a narrow window. Stage a small, calm beat that requires light psionic use: reading a nervous informant (Skim, 2 Strain), scouting the building (Thoughtsense or Remote Viewing, 1–2 Strain), quieting a suspicious neighbor (a Suggestion, 2 Strain). Let everyone spend a box or two and see that it's nothing. This is the baseline against which the rest of the night will feel like falling.
 
 **The tell.** Somewhere in here, let the players catch Mara's fraying — don't hand it to them; make them earn it:
 
@@ -83,7 +83,7 @@ Kit is in a second-floor apartment, alone, parents already drawn off or memory-f
 
 > *Read aloud:* "You feel Kit before you see the door — a wall of noise with no words in it, every raw feeling a frightened child has ever had arriving all at once and from the inside. Your own thoughts skid. Someone's nose starts to bleed. Down the block a car alarm goes off, then another, then all of them."
 
-**The Unshielded child.** Kit cannot be reasoned with through the door — the leakage drowns speech. Calming Kit means **bracing** them: gentle, guided Intrusion that teaches a panicking mind its first boundary. *(Re-bracing: **Manipulation + Intrusion, diff 7**, across roughly a scene; restores Barriers ●1 and ends the Unshielded state — [Domains, Bracing](The%20Seven%20Domains%20-%20Game%20Mechanics.md).)*
+**The Unshielded child.** Kit cannot be reasoned with through the door — the leakage drowns speech. Calming Kit means **bracing** them: gentle, guided Intrusion that teaches a panicking mind its first boundary. *(Re-bracing: **Manipulation + Intrusion, diff 7**, across roughly a scene; restores bracing — the baseline containment, not a Barriers dot — and ends the Unshielded state — [Domains, Bracing](The%20Seven%20Domains%20-%20Game%20Mechanics.md).)*
 
 Mara (Intrusion 4) is the obvious choice and she knows it. If a PC with strong Intrusion volunteers instead, **let them** — this is the players choosing who pays, and it's a *good* choice to reward. Whoever braces Kit:
 - Pays **2 Strain to open the channel**, then grinds the diff-7 roll over several turns against a torrent. The raw Unshielded mind inflicts **+1 Strain each turn** the bracing continues (the noise pushes back). A botch means a surge of Kit's borrowed terror — everyone in the room takes a turn of disorientation and the bracer takes an extra Strain.

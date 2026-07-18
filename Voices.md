@@ -4,13 +4,13 @@
 
 ---
 
-*The documents in this setting describe what the Gifted are, what they do, and what is done to them. This document describes what it feels like from the inside — and, in one case, from what comes after. Each section is a first-person account from a different position in the setting — not a narrative, but a phenomenology. What does the Talent feel like in your body? What does the lattice feel like in your mind? What does fraying feel like in your tether? What does it feel like when the tether is gone and you are something else entirely? The answers depend on who you are and where you stand.*
+*The documents in this setting describe what the Gifted are, what they do, and what is done to them. This document describes what it feels like from the inside — and, in one case, from what comes after. Each section is a first-person account from a different position in the setting — not a narrative, but a phenomenology. What does the power feel like in your body? What does the lattice feel like in your mind? What does fraying feel like in your tether? What does it feel like when the tether is gone and you are something else entirely? The answers depend on who you are and where you stand.*
 
 ---
 
 ## The Child
 
-*A newly Expressed Gifted, age thirteen, before the Integrators arrive.*
+*A newly Triggered Gifted, age thirteen, before the Integrators arrive.*
 
 It starts with the headaches. Not regular headaches — something behind them, something *underneath*, like pressure building in a room with no windows. You don't know what it is. Nobody knows what it is. Your parents take you to the doctor. The doctor says migraines. The doctor is wrong.
 
@@ -40,11 +40,11 @@ I sit on the floor with her. Cross-legged, relaxed, unthreatening. I've done thi
 
 She looks at me with that expression they all have at this stage — exhausted, frightened, hoping I can make it stop. I can make it stop. That's the one true thing I can say to her right now.
 
-I Intrude. Gently — the lightest touch I'm capable of. I don't read anything. I don't look at anything. I just... arrive. A presence in her mental space that isn't hers. She gasps. Not pain — recognition. For the first time since Expression, she can feel the difference between something that's hers and something that isn't. I'm in her mind and she *knows* I'm something separate. That distinction — self versus other — is what she's been losing. I just gave it back to her, briefly, by being the thing she can push against.
+I Intrude. Gently — the lightest touch I'm capable of. I don't read anything. I don't look at anything. I just... arrive. A presence in her mental space that isn't hers. She gasps. Not pain — recognition. For the first time since her Onset, she can feel the difference between something that's hers and something that isn't. I'm in her mind and she *knows* I'm something separate. That distinction — self versus other — is what she's been losing. I just gave it back to her, briefly, by being the thing she can push against.
 
 "Push me out," I say.
 
-She doesn't know how. None of them know how. That's not the point. The point is that pushing is an instinct — the mental immune response, the mind's refusal to accept foreign presence. I'm not teaching her a technique. I'm showing her a reflex she already has and asking her to use it on purpose.
+She doesn't know how. None of them know how. That's not the point. The point is that pushing is an instinct — the mental immune response, the mind's refusal to accept foreign presence. I'm not teaching her a protocol. I'm showing her a reflex she already has and asking her to use it on purpose.
 
 She pushes. It's clumsy, weak, undirected — like a toddler pushing against a door. But I feel it. She feels it. She felt *herself* exert force against something that wasn't her, and in that moment she knows — not intellectually, not because I told her, but in her body and her bones — that she has a boundary. That she can hold it.
 
@@ -88,11 +88,11 @@ I nod at the Integrator on my way out. They nod back. Neither of us says anythin
 
 The lattice doesn't feel like anything from the monitoring side either. There's no hum. No glow. No mystical awareness of interconnected consciousness. It's more like having a list of addresses you can visit. Fourteen hundred addresses in my segment, each one a mind I can reach into and read if I have cause.
 
-Most shifts are nothing. You run ambient sweeps — automated Detection pulses that ping the segment for anomalies. Tether resonance disturbances. Sudden Barrier changes. The Unshielded signature of a newly Expressed child. The sweeps return data. Most data is noise. You learn to read the noise, to feel the texture of your segment's background state — the aggregate emotional weather of fourteen hundred minds going about their lives. You learn what normal looks like so you can recognize when normal changes.
+Most shifts are nothing. You run ambient sweeps — automated Detection pulses that ping the segment for anomalies. Tether resonance disturbances. Sudden Barrier changes. The Unshielded signature of a new Onset. The sweeps return data. Most data is noise. You learn to read the noise, to feel the texture of your segment's background state — the aggregate emotional weather of fourteen hundred minds going about their lives. You learn what normal looks like so you can recognize when normal changes.
 
 Tonight I'm monitoring someone. Flagged two weeks ago — intermittent tether resonance anomalies suggesting early-stage fraying. Not critical. Not urgent. But the pattern is concerning, and my supervisor wants ongoing assessment before deciding whether to escalate.
 
-I access her node. This is the part nobody outside the Circuit understands — it's not like reading a book. It's like stepping into someone's peripheral vision without them seeing you. I'm present in her mind the way a camera is present in a room. She doesn't know I'm there. Her Barriers are adequate — standard Thoughtshield, ●● level, the kind of shielding most Gifted maintain as a matter of habit. It degrades her surface thoughts from clear text to slightly fuzzy text. I can still read them.
+I access her node. This is the part nobody outside the Circuit understands — it's not like reading a book. It's like stepping into someone's peripheral vision without them seeing you. I'm present in her mind the way a camera is present in a room. She doesn't know I'm there. Her Barriers are adequate — standard Thoughtshield, ●● level, the kind of shielding most Noetic subjects maintain as a matter of habit. It degrades her surface thoughts from clear text to slightly fuzzy text. I can still read them.
 
 She's thinking about dinner. About whether she remembered to buy groceries. About a meeting tomorrow she's anxious about. About a friend who's been distant lately. Ordinary, mundane, heartbreakingly normal human thoughts. No fraying indicators in her current state. The tether anomalies must be situational — stress, overwork, the ordinary pressures that accumulate into strain.
 
@@ -158,7 +158,7 @@ The look on his face. I've seen it a hundred times. The look that says: *you are
 
 Fifteen minutes.
 
-I tell him the short version. His daughter has expressed the Talent. She's psionic — she can sense other people's thoughts and emotions, and right now she can't control it, which is why she's overwhelmed. There is an organization that manages people like her. They will arrive shortly. They will take his daughter to a facility. They will train her. They will also install a permanent connection in her mind that makes her part of a surveillance network. She will be monitored for the rest of her life. He and his wife will have their memories corrected — they will either believe their daughter died or that she never existed.
+I tell him the short version. His daughter has Triggered. She's psionic — she can sense other people's thoughts and emotions, and right now she can't control it, which is why she's overwhelmed. There is an organization that manages people like her. They will arrive shortly. They will take his daughter to a facility. They will train her. They will also install a permanent connection in her mind that makes her part of a surveillance network. She will be monitored for the rest of her life. He and his wife will have their memories corrected — they will either believe their daughter died or that she never existed.
 
 Twelve minutes.
 
@@ -216,7 +216,7 @@ The overlay killed someone three weeks ago. A Gifted flagged for critical frayin
 
 I sit with that for a while. There is no way to make this part easier. I've tried.
 
-The intelligence: a new Expression detected two days ago. Child in sector 12, family name Okafor, Integration team dispatched for Thursday. The overlay processed the assignment as routine. I process it as a clock.
+The intelligence: a new Onset detected two days ago. Child in sector 12, family name Okafor, Integration team dispatched for Thursday. The overlay processed the assignment as routine. I process it as a clock.
 
 I compose the dead drop message. Location. Name. Timeline. I route it through the channel my handler established. The message will reach Railroad within hours. Whether they reach the Okafor family before Thursday is not something I can control.
 
@@ -296,7 +296,7 @@ I can feel the lattice from the outside. That's the thing nobody expected and no
 
 The CoG mystics say I see the Pattern Web. The researchers who visit say I'm perceiving some kind of psionic field signature. Both descriptions are probably pointing at the same thing, and neither feels complete.
 
-I don't need either description. I know what I see. I know what I feel. I know that the fox at the edge of the clearing is about to move, and I know that the mist will burn off in eleven minutes, and I know that somewhere very far away a child is Expressing for the first time and the Panopticon will detect them within the hour.
+I don't need either description. I know what I see. I know what I feel. I know that the fox at the edge of the clearing is about to move, and I know that the mist will burn off in eleven minutes, and I know that somewhere very far away a child is Triggering for the first time and the Panopticon will detect them within the hour.
 
 I can't help that child. I can't help most of the people I can perceive. I am one person in a clearing in the morning mist, and the weight of what I can sense and cannot change is the thing I carry the way other Gifted carry their tether.
 
@@ -306,9 +306,9 @@ The fox moves. I watch it cross the clearing, and for a moment the world is just
 
 ---
 
-*These are not all the voices. Every Gifted has a different experience of what the Talent is and what it costs. A Preserver who edits records. A Fractal philosopher holding a salon. An Operative under deep cover for the seventh year. A Rebel loading a weapon before an assault on a White Room. An Iconoclast performing a severance, hands steady, knowing that a mistake means death. A Lacuna operative holding a dead zone open while Railroad moves through it, invisible, carrying a child who is about to be free.*
+*These are not all the voices. Every Gifted has a different experience of what the power is and what it costs. A Preserver who edits records. A Fractal philosopher holding a salon. An Operative under deep cover for the seventh year. A Rebel loading a weapon before an assault on a White Room. An Iconoclast performing a severance, hands steady, knowing that a mistake means death. A Lacuna operative holding a dead zone open while Railroad moves through it, invisible, carrying a child who is about to be free.*
 
-*The Talent is not one experience. It is a condition — like gravity, like weather, like age. Everyone lives under it. Everyone lives with it differently. What unites the Gifted is not what they feel but what they cannot escape: the tether that binds them, the fraying that follows, and the institutions that have been built around both.*
+*The power is not one experience. It is a condition — like gravity, like weather, like age. Everyone lives under it. Everyone lives with it differently. What unites the Gifted is not what they feel but what they cannot escape: the tether that binds them, the fraying that follows, and the institutions that have been built around both.*
 
 *What divides them is what they do about it.*
 

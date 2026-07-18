@@ -158,7 +158,9 @@ This pool is small and the difficulty is high on purpose. **Willpower may not be
 
 ## 6. Recovery
 
-**Strain** clears with rest. Per **full day of complete rest from all psionic use**, remove **(Tether) boxes** of Strain. *Complete* is literal: a single Detection pulse, the smallest technique, resets that day's recovery to zero. Light activity (no rest, but no exertion or psionic use) clears half, rounded down.
+**Strain** clears with rest. Per **full day of complete rest from all *projective* psionic use**, remove **(Tether) boxes** of Strain. *Complete* is literal where it applies: one Suggestion, one Dig, the smallest reach, resets that day's recovery to zero. Light activity (no rest, but no exertion and no reaching) clears half, rounded down.
+
+**Detection does not break rest.** Reception costs nothing and puts no load on the tether, so a psion can read all day and still recover fully — which is exactly what a frayed Gifted is told to do, and exactly what makes convalescence bearable. The one who cannot rest is the one who cannot stop *reaching*. (Holding a **Barriers** wall does not scar you either, but it is effort: it fills boxes, so a day spent shielded is not a day spent resting.)
 
 **Fray** clears far more slowly — roughly **one box per month** of sustained rest and low stress, and only at the Storyteller's discretion. Crucially, the **final one or two Fray boxes earned at the brink are permanent.** A tether that came within a hair of snapping does not fully heal. It scars.
 

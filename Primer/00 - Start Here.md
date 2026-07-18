@@ -12,9 +12,11 @@ This folder is not the book. It is a **primer**: the minimum set of documents ne
 
 ## What is deliberately not here
 
-**All of the crunch.** No dice, no dice pools, no difficulties, no numeric costs, no character creation, no combat rules, no stat blocks. The full game uses the Classic World of Darkness Storyteller System (ten-siders, difficulty 6, count successes) with three additions — the seven **Domains** in place of Disciplines, a **Tether** trait, and a **Tether Track** where the horror lives. None of that is reproduced here, because none of it is needed to understand the world, and it would crowd out what is.
+**The crunch, with one exception.** Files 01–19 contain no dice, no difficulties, no numeric costs, no character creation, no combat rules and no stat blocks. The full game uses the Classic World of Darkness Storyteller System (ten-siders, difficulty 6, count successes) with three additions — the seven **Domains** in place of Disciplines, a **Tether** trait, and a **Tether Track** where the horror lives. None of that appears in the body of the Primer, because none of it is needed to understand the world and it would crowd out what is.
 
-Where a rule matters to comprehension, it appears as a fact about reality rather than a mechanic. *Reaching out with the power damages you — and only reaching out. Listening is free; holding your own boundary is merely tiring; every act that leaves the body wears the tether that carried it. The damage accumulates. The deepest of it never heals. Nothing repairs a tether — no drug, no therapy, no ritual, no expenditure of will. Rest works. Time works. Nothing else does.* That is the truth of the setting. The dice are elsewhere.
+**The exception is 20 - Mechanics in Brief**, which quarantines all of it in one place: the resolution system, the resistance rules, the Fraying engine, the full Domain and technique tables, broadcast, character creation, and psidolon stats. It exists so that a rules question can be answered without the full rulebooks, and it is a **reference rather than a replacement** — worked examples, edge cases and Storyteller guidance live in the four mechanics documents it points to. Read it last, or not at all. Nothing else in the Primer depends on it.
+
+Everywhere else, where a rule matters to comprehension, it appears as a fact about reality rather than a mechanic. *Reaching out with the power damages you — and only reaching out. Listening is free; holding your own boundary is merely tiring; every act that leaves the body wears the tether that carried it. The damage accumulates. The deepest of it never heals. Nothing repairs a tether — no drug, no therapy, no ritual, no expenditure of will. Rest works. Time works. Nothing else does.* That is the truth of the setting. The dice are elsewhere.
 
 ## Read in this order
 
@@ -46,6 +48,9 @@ Where a rule matters to comprehension, it appears as a fact about reality rather
 - **16 - Baltimore** — the sample city.
 - **17 - How It Plays** — chronicle shapes and the texture of a scene. Still no dice.
 - **19 - Secrets and GM Truths** — the omniscient voice. What the setting knows that the characters don't.
+
+**The crunch**, quarantined and optional.
+- **20 - Mechanics in Brief** — every rule that matters, in one file. Here so it is available, not because it is needed. Everything above it stands without it.
 
 ## The four sentences that carry the most
 

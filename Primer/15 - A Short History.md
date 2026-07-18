@@ -66,6 +66,10 @@ Praxis's greatest invention was the lattice. Having built it and proved it worke
 
 Someone had to be created to do the job Praxis would not. The **Maintainers** were the third Circuit, and their existence is the actual founding of the MetaConcert as a government rather than an alliance. Two allied operations did not need governance. Three interdependent institutions did. Praxis built the infrastructure that made formalization inevitable, then watched the organization it had accidentally created develop the authority to constrain it. Its most significant achievement was not intellectual. It was political.
 
+**And the Maintainers named it.** Praxis, invited to name the government its own invention had just made necessary, declined to care — governance was implementation, and implementation is what one delegates. The Inquisition offered *the Bulwark*: martial, plain, honest about the job as they understood it. The Maintainers, a fortnight old and created to do the work a prestigious order had refused, offered the word they used for their own: a **concert** is many parts held in deliberate coordination, which is precisely what a lattice is, with the engineer's **meta-** for the layer above the parts. They won, and naming the enterprise is how a new body claims a seat at it.
+
+The Inquisition's name pointed outward, at the monsters. The Maintainers' pointed inward, at the organization — and the organization chose to be named after itself. That, rather than any charter, is the moment it stopped being a coalition against psidolons and became a government. The most benign word in the vocabulary of the Gifted, a *harmony*, was coined sincerely by the Circuit that installs constructs in the minds of children, in the one year it was still true.
+
 
 ## The Remaining Four
 

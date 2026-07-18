@@ -84,6 +84,24 @@ Praxis's greatest invention was the lattice. Having built it, Praxis refused to 
 
 This is the actual founding moment of the MetaConcert as a formal government, not merely an alliance. Two allied operations didn't need governance. Three interdependent institutions did. Praxis built the infrastructure that made formalization necessary, then watched the organization it had accidentally created develop the authority to constrain it. *(See [The Maintainers Circuit](The%20Maintainers%20Circuit.md).)*
 
+### Who named it
+
+The thing needed a name, and the question of who supplied it is more revealing than it looks.
+
+**It was not Praxis, and their reason was not oversight.** Asked to name the government their invention had just made necessary, Praxis declined to care. They would concede in the abstract that some governing structure was probably required; what it was *called* was implementation, and implementation is what one delegates. The order that refused to run the lattice refused, by the identical reflex, to name the thing that would run it. There is a Praxis minute somewhere, or there was before the Black Archive got to it, recording the second-greatest institution of the Gifted world responding to the naming of its own civilization with the sixteenth-century equivalent of *fine, whatever you like.*
+
+**The Inquisition proposed something else, and lost.** Their candidate was **the Bulwark** — martial, plain, and entirely honest about what they understood the enterprise to be: a line held against psidolons, by people whose job was standing on it. It is a good name. It is arguably the more accurate one.
+
+**The Panopticon was not there.** It would not exist for another generation, and had no seat, no seniority, and no case to make.
+
+**Which leaves the Maintainers, who were roughly a fortnight old.** *MetaConcert* is their word, and it is a maintenance engineer's word rather than a philosopher's: a **concert** is many parts acting in coordination, which is precisely and literally what a lattice is, and **meta-** is the systems term for the layer above — the whole that the parts add up to and that has to be tended as its own object. It describes their work, and then extends outward until it describes everyone. That is what a technician's abstraction does.
+
+They also had a motive nobody minuted. They were brand new, created to perform the labour a prestigious order had declined as beneath it, and sitting for the first time at a table with the two oldest institutions in the world. **Naming the enterprise is how a new body claims a seat at it.** It worked. It has worked for four centuries.
+
+**And this is the part worth stopping on.** The Inquisition wanted a name that pointed *outward*, at the monsters. The Maintainers wanted one that pointed *inward*, at the organization. The organization chose to be named after itself — and that, rather than any charter or vote, is the moment it stopped being a coalition against psidolons and started being a government. Everything the MetaConcert later became is prefigured in a naming argument that the pragmatists won and nobody thought was important.
+
+**The irony is not lost on anyone who notices it, which is nearly nobody.** The most benign word in the entire vocabulary of the Gifted — a *harmony*, an ensemble, many voices in deliberate accord — was coined by the Circuit that installs binding constructs in the minds of children, and it was coined **sincerely.** The Maintainers meant it. In the year it was proposed it was even true. The name is a fossil of the fortnight in which this was still three institutions agreeing to cooperate, and it has been sitting on the front of an authoritarian state ever since, because renaming it would require somebody to say out loud what it turned into.
+
 ## VIII. The Remaining Four Circuits — Filling the Gaps the First Three Left
 
 Each of the last four Circuits exists because the first three were handling something badly, part-time, or not at all:

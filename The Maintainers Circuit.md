@@ -54,6 +54,14 @@ The greatest fortress engineer of the old world — the man who wrapped a kingdo
 
 The proof, if it exists, is not in this Circuit's keeping. It is in Praxis's, sealed, where the Maintainers cannot reach it — they hold everything together and are not permitted to hold this. One detail they treat as scripture: after his death, Napoleon had **Vauban's heart cut out and interred in Les Invalides.** The man who held the realm together, his heart removed and walled into the monument, held. *We hold the network. We hold you.*
 
+### The Word
+
+There is one other thing this Circuit made that outlived any memory of its making, and it is the name of the world.
+
+**The Maintainers named the MetaConcert.** They were a fortnight old when they did it — created to perform the work Praxis had declined as beneath its attention, seated for the first time beside the two oldest institutions among the Gifted, and in need of a reason to be in the room. The Inquisition had proposed *the Bulwark*. Praxis, invited to name the government its own invention had just made necessary, could not be brought to care. So the newest body at the table offered the word it used for its own work — a **concert**, many parts held in deliberate coordination, which is exactly what a lattice is, with the **meta-** an engineer puts in front of the layer above the parts — and it stuck, and it is still there. *(Full account in [History of the MetaConcert](History%20of%20the%20MetaConcert.md), "Who named it.")*
+
+No Maintainer will tell you this. It is not modesty; there is simply no occasion on which it would come up, and the Circuit has no habit of claiming things. But it is the second time in this document that the pattern appears, and by now it should be recognisable: **the Maintainers built the thing everyone stands on and left no name on it — including, and most completely, the time the thing they built was the name.**
+
 ---
 
 ## What They Do

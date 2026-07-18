@@ -30,7 +30,7 @@ This is the fundamental thing to understand about the Maintainers: they are infr
 
 ## Founding Context
 
-The Maintainers are the third Circuit, and the reason the MetaConcert exists as a formal institution.
+The Maintainers are the third Circuit, and the reason the MetaConcert exists as a formal institution — though not, quite, the moment it did. Their creation is what made the bilateral model obsolete; the Panopticon's, a generation later, is what made carrying on with it impossible. Cause and event, and the gap between them is the length of time a comfortable arrangement can survive being wrong.
 
 Before the Maintainers, the Gifted had two organizations: the Inquisition, which killed psidolons and compromised Gifted, and Praxis, which studied how everything worked. The two operated as a bilateral arrangement — allied, mutually dependent, but not formally unified. They didn't need to be. Two operations with aligned interests and a working relationship don't require governance structure.
 
@@ -58,7 +58,9 @@ The proof, if it exists, is not in this Circuit's keeping. It is in Praxis's, se
 
 There is one other thing this Circuit made that outlived any memory of its making, and it is the name of the world.
 
-**The Maintainers named the MetaConcert.** They were a fortnight old when they did it — created to perform the work Praxis had declined as beneath its attention, seated for the first time beside the two oldest institutions among the Gifted, and in need of a reason to be in the room. The Inquisition had proposed *the Bulwark*. Praxis, invited to name the government its own invention had just made necessary, could not be brought to care. So the newest body at the table offered the word it used for its own work — a **concert**, many parts held in deliberate coordination, which is exactly what a lattice is, with the **meta-** an engineer puts in front of the layer above the parts — and it stuck, and it is still there. *(Full account in [History of the MetaConcert](History%20of%20the%20MetaConcert.md), "Who named it.")*
+**The Maintainers named the MetaConcert.** By then they had spent a generation as the utility company — indispensable, and not a party to the pact that governed anything — and the formal founding was the first occasion on which the question of what the Circuits *were to each other* was open. The Inquisition proposed *the Bulwark*. Praxis, invited to name the government its own invention had made necessary, could not be brought to care. So the Maintainers offered the word they used for their own work — a **concert**, many parts held in deliberate coordination, which is exactly what a lattice is, with the **meta-** an engineer puts in front of the layer above the parts.
+
+It was also, and everyone understood this, an argument. **A concert has no servants in it; every part of a concert is a voice.** The word said the enterprise was one organism rather than a treaty between two old orders — and in a treaty the Maintainers are staff, while in an organism they are an organ. The Panopticon, newer still and facing the same problem, backed it. Between them the two post-Concordat Circuits carried the vote, and the Inquisition was not out-argued so much as outnumbered by institutions whose existence it had approved. *(Full account in [History of the MetaConcert](History%20of%20the%20MetaConcert.md), "Who named it.")*
 
 No Maintainer will tell you this. It is not modesty; there is simply no occasion on which it would come up, and the Circuit has no habit of claiming things. But it is the second time in this document that the pattern appears, and by now it should be recognisable: **the Maintainers built the thing everyone stands on and left no name on it — including, and most completely, the time the thing they built was the name.**
 

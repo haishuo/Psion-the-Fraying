@@ -36,9 +36,31 @@ This happened by default rather than by design. In the early MetaConcert, when a
 
 Inquisitors approached newly Triggered children with Inquisition protocols: threat assessment first, containment second, everything else after. They were not cruel — Inquisitors are disciplined, not sadistic — but they were equipped for threat management, not child psychology. The child's first experience of the MetaConcert was being assessed as a potential danger by someone trained to kill potential dangers. The child's second experience was being handed to a Maintainer for binding.
 
+**The child's third experience was Praxis.**
+
+Somebody had to actually *teach* them, and the reasoning that assigned the job took about a minute. Education is the transmission of knowledge. Praxis had the knowledge — all of it, every scrap anyone had ever established about what a tether was and how a mind holds itself together. Therefore Praxis. Nobody at that meeting thought to ask whether *knowing a thing* and *being able to teach it* are the same capability, because the question does not arise in an institution that considers implementation somebody else's department.
+
+Praxis's recorded position on the assignment has survived, and it is the single most Praxis sentence in the archive:
+
+> *"This is a tremendous waste of your, and what is infinitely worse, my time."*
+
+They taught the children anyway. They were bad at it — not cruel, not negligent, and not, by their own lights, unsuccessful. They were bad at it in the specific way that expertise makes people bad at teaching: **they could no longer remember not knowing.** A researcher thirty years into the mechanics of containment cannot reconstruct what it is like to be twelve and drowning, so they explain the *topology of a mental boundary* to a child who needs to be shown a feeling. They answer questions the child did not ask. They are baffled, sincerely, when the material does not take — because they explained it correctly, and correctness is what explanation is for.
+
+**And the first lesson is the one their epistemology cannot deliver at all.** Praxis's founding conviction is that anything can eventually be made procedure. **Bracing cannot.** It is experiential in the strictest sense — you cannot describe what a mental boundary feels like, you have to make somebody feel one and have them reproduce it — and it is the first, most urgent and least optional thing any newly Triggered child is ever taught. The most procedural institution among the Gifted held sole responsibility for the one piece of the curriculum that refuses to become a procedure. It went how you would expect.
+
+**The cost was not academic, and this is the part the Circuit does not put on the wall.** Children stayed Unshielded for months that should have been days — reaching without knowing they were reaching, fraying blind, some of them past the point where anything could be done about it (see [The Tether and Fraying](The%20Tether%20and%20Fraying%20-%20Metaphysical%20Mechanics.md)). A proportion of them simply stopped. A smaller proportion learned enough to be dangerous before they learned enough to be safe, and the Inquisition went out and put those down.
+
+**Praxis kept excellent records of the failures and never once identified the variable.** The data was real and the analysis was rigorous, and every hypothesis was about the children: tether variance, age at onset, the nature of the precipitating trauma, whether some subjects were simply constitutionally unsuited to instruction. Pedagogy did not appear among the candidate factors, because pedagogy is implementation, and implementation is not the sort of thing that *is* a variable. They looked for the deficiency in the material. It is the same single-dial parochialism that would one day leave them unable to state what Eve is — arriving three centuries early, and costing children.
+
+**It was the Inquisition that forced the issue, and not out of tenderness.** They delivered the children and they hunted what the failures became. Somewhere in there, a Circuit that prides itself on doing the necessary thing without flinching worked out that it was burying the results of a curriculum it had not set, taught by people who had put in writing that they resented being asked. That is a grievance with teeth, and it is a large part of why a fifth Circuit exists at all.
+
 The fact that this system operated for years before anyone raised a formal objection says something about the MetaConcert's institutional priorities during that period. The fact that every other Circuit reacted with unanimous horror when it was finally acknowledged out loud says something about what they became afterward. The Inquisition's response — "we've been handling it fine" — remains the most revealing thing they have ever said about themselves.
 
 The Integrators were created to solve this specific problem: children needed someone whose first instinct was not threat assessment. The Circuit was built from the ground up around a different premise than any other Circuit — that the MetaConcert's first contact with a new Gifted should be an act of care, not an act of evaluation. This was radical by MetaConcert standards. It remains the institution's closest approach to a genuinely humane principle.
+
+**And it is worth asking where the first Integrators came from, because the answer explains the Circuit's temperament better than any charter.** The cure for the curse of knowledge is not intelligence. It is *memory* — someone who can still recall what not knowing felt like from the inside. So the founding cohort was drawn very largely from the people the old system had processed: children who had been assessed as threats, bound by a technician, handed to a researcher who resented the assignment, and who had come out the other side anyway. They remembered being twelve in a room with somebody explaining topology. They remembered which sentence had finally worked, and how many had come before it.
+
+That is the whole of it. Every other Circuit is cold because the work rewards coldness. **This one is warm because it was founded by its own survivors**, and the thing they were determined to fix was not an inefficiency. It was an experience they had personally had.
 
 ---
 

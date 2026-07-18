@@ -188,6 +188,18 @@ Four centuries on, no one can establish whether that was contempt or sincerity, 
 
 It should be said that it was also the only honest name anyone proposed. Every noun in it is accurate. That is very probably why it lost.
 
+### The teaching years
+
+The naming was an embarrassment. The other thing Praxis was handed and did not want cost lives.
+
+For a long stretch of the early MetaConcert, **educating newly Triggered children was Praxis's responsibility** — assigned on the flat reasoning that education is the transmission of knowledge and Praxis had the knowledge. Their minuted objection survives: *"This is a tremendous waste of your, and what is infinitely worse, my time."*
+
+They discharged the duty. They were terrible at it, for the reason experts are usually terrible at it: **they could no longer remember not knowing.** And the first thing a frightened child must learn is **bracing**, which cannot be transmitted as information at all — it has to be produced in someone and then reproduced by them. The order whose founding conviction is that anything can eventually be made procedure held sole custody of the one lesson that cannot. Children stayed Unshielded far longer than they should have, and a proportion of them did not survive it.
+
+Praxis recorded all of it, rigorously, and never identified the cause — every hypothesis concerned the children (tether variance, age, trauma type, constitutional unsuitability) and none concerned the teaching, because teaching is implementation and implementation is not a variable. The Inquisition eventually forced the creation of the Integrators, having grown tired of hunting the failures. *(See [The Integrators Circuit](The%20Integrators%20Circuit.md).)*
+
+This is the pattern in its purest form, and the Circuit has never quite been made to look at it. **Praxis produces the thing, declines the consequences of the thing, and is genuinely puzzled when the consequences turn out to have been part of it.**
+
 When Praxis built the lattice, the Concordat required a third party to maintain it. That third party became the Maintainers. And the moment the Maintainers existed, formalization became necessary. Praxis built the infrastructure that made formal organization inevitable, and then watched the organization they'd accidentally created develop the authority to constrain them. This is the detail Praxis finds most uncomfortable about their own history. Their most significant achievement wasn't intellectual. It was political.
 
 ### The Black Archive

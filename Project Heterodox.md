@@ -102,6 +102,20 @@ Specific examples: Hermetic theory predicts certain mental phenomena should be p
 
 ---
 
+## Praxis With Follow-Through
+
+It is worth saying plainly what this Project is, because from the outside it looks like a rejection of Praxis and it is very nearly the opposite.
+
+Heterodox has Praxis's training, Praxis's instruments, Praxis's vocabulary, and Praxis's conviction that a thing can be understood if you are rigorous enough about it. What it does not have is the reflex that defines the parent Circuit. **Praxis's organising principle is that a finished discovery is a debt** — a thing that must now be run, maintained, taught and governed, all of it subtracted from the next question — and so the moment the work is done, Praxis's attention has already left. That is why the lattice went to the Maintainers, the children to the Integrators, and the naming of a civilisation to whoever wanted it. *(See [The Praxis Circuit](The%20Praxis%20Circuit.md), "What they want.")*
+
+**Heterodox is what happens when a Praxis researcher stays.** Not stays *longer* — stays with the *finished thing*, and turns around, and looks at what it did. Every recruit in the list above arrived by the same route: they followed a finding past the point where the Circuit's interest ended, and were told to stop asking. The instruction was not malice. From inside Praxis it is barely even a rebuke. It is a manager pointing out that the useful part is over.
+
+Which produces the sharpest way to hold the two of them: **Praxis asks what is true. Heterodox asks what the answer did.** Same discipline; one additional question; and it is the question the parent institution is structurally incapable of asking, because asking it requires being present after the work is done.
+
+It also puts Heterodox alongside a Circuit it would not expect to be compared to. The **Integrators** are the fragment of Praxis that cared about the *people* the work was done to. Heterodox is the fragment that cared about the *consequences* the work had. Both are the same institution minus the same refusal, and neither of them could stay inside it. **Praxis has now shed its conscience twice, in two different directions, and on both occasions experienced the loss as a staffing matter.**
+
+---
+
 ## The Framework Problem
 
 **What Heterodox is actually challenging:**

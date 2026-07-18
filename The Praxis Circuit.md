@@ -26,6 +26,24 @@ The word "praxis" is deliberate. It does not mean research in the abstract sense
 
 This is why their Domain is Control, not Detection. The Panopticon watches. Praxis *acts on what it finds.* Interventional studies rather than observational ones. The distinction is the entire character of the Circuit.
 
+### What they want, which is the key to all of it
+
+Praxis wants to do research. That is the whole of the ambition, and reading it as modest is the mistake everyone makes. It does not mean *research above all else*; it means **research and nothing else** — and the enemy of that is not ignorance, or rival institutions, or even interference from the MetaCouncil.
+
+**The enemy is their own output.**
+
+Because a discovery that works does not stay a discovery. It becomes a thing that must be run, maintained, staffed, taught, explained, governed, defended, and periodically justified to people who did not understand it the first time. Every one of those hours is subtracted from the next question. So for Praxis, uniquely among the institutions of the Gifted, **a completed success is not an asset. It is a debt** — and the whole recorded behaviour of the Circuit is the behaviour of an institution trying to discharge that debt as fast as it possibly can, onto anyone who will take it.
+
+They invented the lattice and would not run it, because running it is the invention *interfering with the next invention*. They caused a government and would not name it. They were handed the children and taught them badly and resented every hour of it. In each case the shape is identical, and it is not laziness or arrogance in the ordinary sense: it is an institution that experiences its own achievements as obstructions, and wants only to set them down and move.
+
+**The consequence is the thing this book is about.** Praxis is not indifferent to what its work gets used for. Indifference implies a decision. **Praxis is *absent*** — because caring what a thing becomes would require staying with the finished thing, and staying with the finished thing is precisely the behaviour their entire psychology is built to escape. By the time anyone asks what this will be used for, the desk is empty and the occupant is three problems downstream.
+
+The lattice became a surveillance state. The Domain taxonomy became a cage. Cognitive Reconstruction became Correction. The identity overlay became a weapon for both sides of a war. In every case Praxis had already gone. A villain who chooses can be argued with, blamed, and possibly stopped. **Praxis never chose. Praxis simply never stayed** — and that has done more damage than malice ever managed.
+
+**It is also why they have never ruled anything.** Praxis built the single most powerful instrument in the Gifted world and handed it over because operating it was tedious. Three of the seven Circuits exist in the negative space of that one refusal — the **Maintainers** because Praxis would not run the lattice, the **Panopticon** because Praxis would not watch it, the **Integrators** because Praxis would not teach the children it produced. The most consequential institution among the Gifted has never once been in charge, for the simple reason that being in charge is an interruption.
+
+*(Their better-known sin is **curiosity without a stopping point** — see below. This is the other one, and it is the more consequential: **attention without a resting point.** The first takes them too far forward. The second means they are never there when it lands.)*
+
 ---
 
 ## What Praxis Built

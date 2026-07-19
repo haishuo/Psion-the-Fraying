@@ -106,7 +106,23 @@ They came apart in sequence, and the sequence is the point — one withdrawal th
 
 Then she found the place where Eve had sat, and from it she could see their camp — the fire, the watch, the sleeping shapes of people she had eaten with that morning. **And her two explanations collapsed into one.** The reading in which Eve was merely extraordinary required that Eve had held them, cold, and chosen to do nothing. She could not use one without conceding the other. A warning scratched above a washed-out crossing they would have taken in the dark only removed the last of the deniability. *"I have read sign for thirty years. I know what it looks like when a thing means to kill you. This is not that."* **The theurge left on a judgment; the tracker left on evidence**, and she resented every step of it.
 
-**The true believers** went next — and it was the tracker's departure that finished them, precisely because she was the one who had refused to be moved by omens. **The last one** turned back and told Kassandra that continuing alone was not righteousness; she used the word *please.* Kassandra told her to go if she was such a coward. She went. She was not a coward.
+**The true believers** were in the worst position of anyone there, and not from weakness. They had come to this at moots, persuaded by argument, and they had no *craft* — no way to check anything themselves. All they could evaluate was the two women whose entire function was evaluating, and both had evaluated and gone. Worse, the hunt was practically over: if the tracker could not hold the trail, no warrior there would find Eve. They were not hunting any more. They were following Kassandra, who was walking, and everyone knew it and no one said it. The fires went quiet.
+
+Nobody asked the real question. Somebody asked how many days they had been out, which is a question about duration, and every woman at that fire heard the question inside it and nobody answered that either. Then **one cracked**, which is all it takes — and she paid for everyone, because she was first, without knowing whether anyone would follow. **Everyone after her left cheaply.** Within days it was not departures but a collapse.
+
+And **Kassandra had not changed at all** — same argument, same force, as convincing as it had ever been at any moot. Nothing about her case had weakened; everything holding it up had simply walked away, and she had not noticed. She would have gone on making it to an empty field, which within a day is where she was.
+
+**The last one** did not simply leave, and by then leaving was free — the party was gone, nobody would have known. **She turned around and came back.**
+
+> *"Kassandra… please. Just… please. This stopped being about Eve days ago. I don't even think it's about the tribe anymore. I think it's about you. And I can't watch it do this to you. Let's go home."*
+
+*Let's.* She had not left. She was offering to stay, and the door was open until Kassandra closed it herself.
+
+> *"Go, if you're such a coward."*
+>
+> *"…goodbye, Kassandra."*
+
+She went. She was not a coward — she had done the one expensive thing left, which was to come back when coming back bought her nothing.
 
 *The spirits never intervened. They did not hide Eve, confuse the tracker, or arrange a single failure. **They withdrew, and that is all they did** — everything after was the war party's own work, and Kassandra's decision to continue was entirely her own.*
 

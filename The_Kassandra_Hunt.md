@@ -128,15 +128,45 @@ She told Kassandra, in the flat register of a professional making a report:
 
 She withdrew, and she resented every step of it, because she had wanted the theurge to be wrong and had gone looking for proof and had found the opposite with her own hands. **The theurge left on a judgment. The tracker left on evidence.** They had reached the same place by methods that shared nothing, and neither of them had needed the other to get there — only, in the tracker's case, a reason to look twice.
 
-**The true believers** came after that, and by then there was not much left to believe in. Warriors who had followed Kassandra because they trusted her judgment and the righteousness of what they were doing. The theurge's withdrawal shook them in ways they would not have predicted — they had not understood how much of their confidence rested on the spiritual framework backing the operation until that framework was visibly absent. The tracker's withdrawal finished it, and it finished it *because* she was the one who had refused to be moved by omens. When the party's least mystical member walks away citing physical evidence, there is nothing left to attribute it to. They stayed longer than wisdom suggested, honoring their commitment to Kassandra and to the cause. They left when the weight of accumulated wrongness became something they could not continue carrying.
+**The true believers** were in the worst position of anyone in the party, and it is worth being clear about why, because it was not weakness.
 
-**The last one** did not simply leave. She turned back. She found Kassandra still moving forward, still hunting, still carrying the conviction that had organized the last several years of her life, and she did what a true companion does: she told her the truth.
+They had come to this at moots. They had heard Kassandra speak, year after year, in the one setting built for rhetoric and conviction, and they had been persuaded — honestly, and by argument, which is what moots are for. What they had never had was a *craft*. The theurge withdrew on twenty years of reading spirit sign. The tracker withdrew on thirty years of reading what hunted things leave behind. Each of them left on the operation of her own expertise, holding something she knew and Kassandra did not.
 
-She told Kassandra to stop. She used the word *please*. She said that whatever they were doing, it had stopped being what it was supposed to be some time ago, and that continuing alone, after everything, after the theurge and the tracker and the true believers, was not righteousness. It was something else, and she did not think Kassandra would be proud of what it was.
+**The believers had no way to check.** They could not read the silence and they could not read the ground. All they could evaluate was the two people whose entire function was evaluating — and both of them had evaluated, and both of them had gone.
 
-Kassandra told her to go if she was such a coward.
+And the practical situation was worse than the spiritual one, though nobody wanted to say so. Every Garou can track a little. None of them could track *this*. If the woman who had done it for thirty years could not hold the trail, no warrior in that party was going to find Eve Taranis Vire in country she had already proved she could disappear in.
 
-She went. She was not a coward. She understood, as Kassandra in that moment could not, what was actually happening.
+**Which meant the hunt had ended and been replaced by something none of them had agreed to.** They were no longer hunting. They were following Kassandra, who was walking. The distinction was obvious to everyone and stated by no one, and the tell was the fires: they stopped discussing the hunt. Talk went to water, to ground, to nothing. Nobody proposed a plan, because proposing a plan would have required saying out loud what the plan now was.
+
+The question they all had did not get asked. Not directly. What got asked, some nights in, was whether anyone knew how many days they had been out — which is a question about duration, and every woman at that fire heard the question inside it, and nobody answered it either.
+
+Then one of them cracked, which is all it ever takes.
+
+She said she could not do this any longer. She said it badly, in front of everyone, and she left the next morning — and she paid the entire cost of it, because she was the one who said it first, without knowing whether anyone would follow, and she is the one who has been remembered since as the one who broke. **Everyone after her left cheaply.** The word had been said by somebody else; the precedent existed; there was nothing left to be first about. Within days it was not a series of departures but a collapse.
+
+They stayed longer than wisdom suggested, and the reason is the same reason it hurt. Loyalty was the only thing they had ever brought to this. The specialists could withdraw with their professional dignity intact — leaving *was* their expertise, functioning correctly. A believer had nothing to leave on except the breaking of the one promise she had made. They went when the weight of it became something they could not carry another day, and every one of them understood exactly what she was setting down.
+
+**And Kassandra had not changed at all.** This is the part that should be sat with. Her argument was the same argument, delivered with the same force, as convincing in that thinning camp as it had ever been in any moot. Nothing about her case had weakened. Everything that had been holding it up had simply walked away, and she had not noticed — and she would have gone on making it to an empty field.
+
+Which, within a day, is where she was.
+
+**The last one** did not simply leave, and by then leaving was free. The party was gone. No one would have known, and no one would have blamed her, and there was nothing left to be loyal to.
+
+She turned around and came back.
+
+She found Kassandra still moving forward, still hunting, still carrying the conviction that had organized the last several years of her life. And she did what a true companion does, which is not to follow and not to slip away, but to stand in front of someone and tell them the truth.
+
+> *"Kassandra… please. Just… please. This stopped being about Eve days ago. I don't even think it's about the tribe anymore. I think it's about you. And I can't watch it do this to you. Let's go home."*
+
+*Let's.* After everything — after the theurge and the tracker and the flood and the empty fires — she was still saying **let us.** She had not left. She was offering to stay, and to walk back with her, and the door was open right up until the moment Kassandra closed it herself.
+
+> *"Go, if you're such a coward."*
+
+There was a silence then, in which she was called a coward by the only person she had come back for, and decided not to answer it.
+
+> *"…goodbye, Kassandra."*
+
+She went. She was not a coward — she had done the one expensive thing left in that country, which was to return when returning bought her nothing. She understood, as Kassandra in that moment could not, what was actually happening.
 
 ---
 

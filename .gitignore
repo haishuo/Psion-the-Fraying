@@ -1,2 +1,18 @@
 .DS_Store
 .claude/
+
+# Raster images are NOT tracked here. They live in Backblaze B2 — see images/README.md.
+#
+# Git stores meaning in text: a small edit to a document costs bytes and reads as that
+# edit. A PNG has no diffable interior, so git stores a whole new multi-megabyte object
+# and returns nothing for it. Art needs durability, not history, and that is a different
+# problem with a different tool. Before this change the nine images were 24 MB of a 25 MB
+# repository whose text packs to under 900 KB.
+#
+# Author's ruling, 2026-08-05. Bucket haishuo-writing-images, prefix psion-the-fraying/,
+# with B2 file versioning on. Restore with `./sync_art.sh pull --yes`.
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif

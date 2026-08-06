@@ -142,7 +142,7 @@ Be careful here, because there are two untrained modes and Eve is only one of th
 
 That is not the titans. That is the Raw child.
 
-An Unshielded Gifted reaches without meaning to, cannot name the act afterward, has no concept that anything is being spent, and therefore has no reason to stop — and so frays blind and, eventually, is not there any more. Every one of those clauses is true of Eve, and she is thirty-odd years into it with an intact tether. **The difference is not that she is careful, or gifted, or lucky. It is that fraying is what happens to steel under that load, and hers is not steel.**
+An Unshielded Gifted reaches without meaning to, cannot name the act afterward, has no concept that anything is being spent, and therefore has no reason to stop — and so frays blind and, eventually, is not there any more. Every one of those clauses is true of Eve, and she is nineteen years into it — the whole of her life — with an intact tether. **The difference is not that she is careful, or gifted, or lucky. It is that fraying is what happens to steel under that load, and hers is not steel.**
 
 > **Eve is what the Unshielded would look like if the rope could take it.**
 

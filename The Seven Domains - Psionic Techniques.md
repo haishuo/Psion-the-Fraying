@@ -488,6 +488,8 @@ And it is why the *defense* against it is unlike any other. Dominate is resisted
 
 **Why Memory specialists dominate:** They ARE the cleanup crew. After every Masquerade breach, every Kinesis incident, every Control fiasco—Memory specialists make witnesses forget.
 
+**The thing masters know and nobody else does:** erasure does not destroy a memory, it destroys the mind's *route* to it. Wiping cuts the paths of association a mind uses to reach something; the material stays put, unreachable, and — unlike a vampire's buried memory — never surfaces on its own. Genuine destruction requires *overwriting*: laying new structure over old until nothing beneath survives, which is slow, invasive, and only practical on a subject who is not going anywhere. That is the whole distinction between **Mind Wipe** (a stroke) and **Memory Rewrite** (hours), and it is the reason **Correction** requires a White Room rather than a quiet word in a car park. It also means nearly every memory the MetaConcert has ever taken is still in the head it was taken from, waiting for someone who knows to look. *(Full treatment, including why recovery can never be industrialised, in [The Seven Domains — Game Mechanics](The%20Seven%20Domains%20-%20Game%20Mechanics.md), "Memory.")*
+
 ### Known Techniques
 
 **The Mind-Palace** *(Preservation)* (Threshold: ●)
@@ -510,7 +512,7 @@ And it is why the *defense* against it is unlike any other. Dominate is resisted
 - ●●●● Advanced: Multiple memories, pattern erasure
 - ●●●●● Master: Surgical precision, no detectable gaps
 
-*Practical notes:* The basic cleanup tool. "You didn't see the vampire." "You don't remember the flying car." Creates amnesia for specific events. Crude use leaves obvious gaps.
+*Practical notes:* The basic cleanup tool. "You didn't see the vampire." "You don't remember the flying car." Creates amnesia for specific events. Crude use leaves obvious gaps. Note that the dot ratings above buy *cleanliness of the cut*, never permanence — every wipe on this ladder severs a route rather than destroying the material, and a Master's seamless work is exactly as recoverable as an apprentice's ragged one by anyone with cause to dig. What the Master actually buys is that nobody ever acquires the cause.
 
 **False Memory** (Threshold: ●●●)
 - Implant completely fabricated memories

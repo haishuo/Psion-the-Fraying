@@ -252,6 +252,22 @@ Attempt to seize another body while projected — what psidolons do to survive. 
 ## Memory
 *The scalpel. The professional's preferred tool — precise, self-cleaning, and the engine of the Masquerade's maintenance. Requires Intrusion access. MetaConcert register: Memory Domain protocols. Base Strain 2.*
 
+> **Erasure does not destroy a memory. It destroys the mind's route to it.**
+>
+> This is the single most important fact about the Domain, and there is no reason to believe more than a few dozen people alive understand it. A memory is not an object sitting in a place; it is a thing *arrived at*, held in reach by the paths of association a mind uses to get there. **Mind Wipe cuts the paths.** The material stays exactly where it was. What is gone is the way in — the target cannot find it, cannot be reminded into it, will not stumble on it in a dream, and, crucially, **will never spontaneously recover it.** To the person, and to every ordinary test anyone can apply, the memory is simply not there. Unreachable and destroyed are the same thing in practice, right up until somebody comes looking.
+>
+> **Overwriting is a different act, and a far worse one.** Actually destroying the material means laying new structure over the old until nothing beneath survives — which is what **Memory Rewrite** is doing when it takes hours instead of a turn, and why **Correction** needs a room, a schedule, and an institution behind it. Deletion is one stroke of a scalpel. Overwriting is surgery on the architecture of a person, and it can only be done slowly, invasively, at length, on a subject who is not going anywhere. **This is why the MetaConcert cannot simply wipe an inconvenient Gifted and get on with its day. It has to take them somewhere.** The White Room is not theatre. It is the operating condition.
+>
+> **So recovery is almost always possible, and almost never happens.** The standard instrument is **Deep Dive** (Intrusion ●●●●), which already does exactly this — it surfaces what a target has forgotten, and it does not care *why* they forgot. But a recovery needs four things at once: someone who **knows to look** (a wiped mind advertises nothing; the gap is invisible to everyone including its owner), **master-tier skill**, **hours with an unresisting subject**, and **someone willing to do it.** Those four conditions essentially never co-occur. The memory is not beyond reach. It is behind a door nobody is standing at.
+>
+> **And recovery cannot be industrialised, for the same reason mass content-wiping cannot.** By the convergence test above, excavating a specific buried memory indexes on *content* inside *one particular head* — the most divergent work there is. Serial, full price per mind, no broadcast, forever. Six blocks can be cleaned in a single act; six blocks cannot be restored in a hundred lifetimes. The asymmetry is total, it runs entirely in the institution's favour, and it is the load-bearing reason the Masquerade holds.
+>
+> **Recovered is not restored.** Unlinked material stops being revisited, and so stops being maintained — it rots unrefreshed in a way a lived memory never does. What comes back is fragmentary, out of sequence, thin in places, and emotionally unmoored: the fact of a face without the warmth of it. Worse, it arrives in a mind that has spent years growing over the gap and building a self on the assumption of absence. Handing someone their child back is not a kindness with a clean edge, and the specialists who do this work for a living are, without exception, careful about who they agree to do it for.
+>
+> **Every excavation is also a search.** Every mind the MetaConcert has corrected carries a dormant **Binding Construct** installed in the same session (see the Operatives' cleanup doctrine). Anyone digging deep enough to recover what was taken will find the other thing that was left. The MAD network is therefore not secured by secrecy so much as by the fact that nobody has cause to dig — and the day it is exposed, it will most likely be exposed by a freelancer doing a routine job for money, not by an intelligence coup.
+>
+> **A note on register.** No one in the setting says any of this in the language above. The MetaConcert's institutional framing is clinical and anatomical — *the trace is severed*, *the associative approach is excised*, *the subject retains no access path* — and a Gifted describing it plainly will say the mind kept the place and lost the road. The **Virtual Adepts** are the exception, and the only faction that has the concept cleanly: they call it what it is in their own tongue — the memory was never deleted, only unlinked, and a sufficiently good forensic pass gets it back. They are right, they are the only ones saying it out loud, and nobody with the authority to act on it is listening to them.
+
 **The Mind-Palace** · Threshold ● · *(no MetaConcert protocol name — there is nothing here to launder)*
 **Pool** Intelligence + Memory · **Strain** 1 to encode, 1 to retrieve in full detail, **0 to hold** · **Resists** nothing — the mind is your own, or the material was entrusted willingly.
 Hold information as a stable indexed construct in your own mind: your memories, or knowledge someone gave you to keep. Successes set fidelity and how long it holds before it needs refreshing. Disposition does not apply — there is no second will in the circuit to be consonant or dissonant *with*, which is the whole reason a lifetime archive is survivable where a career of field-work is not. A set construct **decays** untended and must be revisited periodically (a cheap Memory action); a mind has a finite **capacity**, and packed past it the borrowed material begins to crowd the self. Guarding a palace is a **Barriers** function, not a Memory one.
@@ -260,6 +276,7 @@ Hold information as a stable indexed construct in your own mind: your memories, 
 **Mind Wipe** · Threshold ●● · *(MetaConcert: the Mnemonic Excision protocol)*
 **Pool** Manipulation + Memory · **Strain** 2 · **Resists** Wits + Barriers.
 Erase a specific memory or fact. Successes set how cleanly — crude wipes leave gaps the mind worries at; ●●●●● leaves no seam. The basic cleanup tool.
+**Note:** this severs the route, it does not destroy the material (see the Domain preamble). Successes buy *tidiness of the cut*, never permanence — a ●●●●● wipe and a ●● wipe are equally recoverable by anyone who knows to dig; the master's version simply leaves the subject nothing to notice. Against a psidolon, whose cohesion is its memory, unlinking accomplishes nothing at all, which is why elimination doctrine specifies *destruction* of memory structure rather than a wipe (see [Psidolons](Psidolons%20-%20The%20Untethered.md)).
 
 **Alter Memory** · Threshold ●●● · *(MetaConcert: the Mnemonic Redaction protocol)*
 **Pool** Manipulation + Memory · **Strain** 2 · **Resists** Wits + Barriers.
@@ -272,6 +289,7 @@ Implant a fabricated memory. Must be plausible to take; successes set complexity
 **Memory Rewrite** · Threshold ●●●● · *(MetaConcert: the Mnemonic Reconstruction protocol)*
 **Pool** Intelligence + Memory · **Strain** 3 · **Resists** Wits + Barriers · time-intensive.
 Wholesale reconstruction of a memory complex — elaborate false histories, deep-cover legends, total erasure of a person from someone's life. Hours of work for big jobs; the master cleanup and the technical heart of Correction.
+**Note:** this is the *overwrite*, and the hours are the whole point — new structure laid over old until nothing beneath survives. It is the only Memory technique that genuinely destroys, and its cost profile (time, sustained access, an unresisting subject) is why permanent work is institutional work. A Rewrite cannot be performed in a fight, in a doorway, or on anyone with somewhere else to be.
 
 **False Thoughts** · Threshold ●●●●
 **Pool** Manipulation + Memory · **Strain** 2 · self-targeted, maintained.
@@ -280,6 +298,7 @@ Prepare a deceptive surface-thought profile so that when someone *does* read you
 **Lockbox** · Threshold ●●●
 **Pool** Intelligence + Memory · **Strain** 2 · self or willing subject.
 Seal specific memories of your own behind an internal barrier, inaccessible even to you until you choose to open them — so a captured agent has nothing to surrender and a Deep Dive finds a locked door. Forcing one open is a contested extraction at high difficulty. Parasyte and Operative tradecraft.
+**Note:** the same act as a wipe, performed on yourself, with the route kept instead of cut — you sever your own approach and hold the key. Which is why a Lockbox is *found* where a wipe is not: a wiped mind shows an absence nobody can see, a locked one shows a door.
 
 **Binding Construct** · Threshold ●●●●●
 **Pool** Intelligence + Memory (with Projection support) · **Strain** 4 · Maintainer specialty.

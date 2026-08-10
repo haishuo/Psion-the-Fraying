@@ -192,6 +192,8 @@ The practical consequence: in most supernatural social contexts, a skilled psido
 
 The Inquisition's primary elimination protocol is iterative Memory wipe applied by Memory Domain specialists until the psidolon loses coherence and dissipates.
 
+**Note carefully that this is destruction, not erasure, and the distinction is the whole difficulty.** An ordinary Mind Wipe severs a mind's route to a memory and leaves the material intact — entirely adequate for a witness and completely useless here, because a psidolon *is* its memory in the load-bearing sense, and an entity that has merely lost its way back to itself will find its way back. What is required is the slow work: overwriting, new structure laid over old until nothing beneath survives, which is why elimination takes hours rather than seconds and why the Inquisition treats it as an operation rather than a technique. *(See [The Seven Domains — Game Mechanics](The%20Seven%20Domains%20-%20Game%20Mechanics.md), "Memory.")* A crew that reports a psidolon "wiped" has reported nothing. The question is always how much was destroyed.
+
 The process works as follows: a Memory specialist, with Intrusion access to the host body's mind, begins systematically destroying the psidolon's accumulated memories. Not the host's memories — the psidolon's own accumulated experience, the layered sediment of everything it has been and done and taken. Each successful wipe removes a portion of the structure the psidolon uses to cohere. When enough has been removed, the psidolon can no longer maintain itself as a coherent entity. It dissipates.
 
 This requires:

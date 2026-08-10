@@ -272,7 +272,9 @@ Where this text knows things no Heterodox researcher could — the MetaCouncil i
 
 **White Rooms** - Facilities for controlled termination of critically frayed Gifted, and for Correction
 
-**Correction** - The MetaConcert's institutional term for interventions that rebuild a problematic Gifted's mind from the inside through Memory Domain work — distinct from constraining someone from outside. Encompasses both Cognitive Reconstruction (clinical repair of overload damage) and ideological correction.
+**Correction** - The MetaConcert's institutional term for interventions that rebuild a problematic Gifted's mind from the inside through Memory Domain work — distinct from constraining someone from outside. Encompasses both Cognitive Reconstruction (clinical repair of overload damage) and ideological correction. It requires a White Room for a technical reason and not a ceremonial one: ordinary erasure only severs a mind's route to something, and Correction has to *overwrite*, which is slow, invasive, and impossible on a subject who can leave.
+
+**Erasure vs. overwriting** - The distinction under all Memory Domain work, understood by very few. A wipe destroys the mind's *route* to a memory, not the memory — the material stays in the head it was taken from, unreachable, and never surfaces on its own. Genuine destruction means laying new structure over the old, which takes hours and an institution. The practical consequence is that nearly every memory the MetaConcert has ever taken is still recoverable in principle, and almost never in practice: recovery needs someone who knows to look, master-tier skill, hours with an unresisting subject, and a reason. *(Full treatment in [The Seven Domains — Game Mechanics](The%20Seven%20Domains%20-%20Game%20Mechanics.md), "Memory.")*
 
 **Sterilization** - The euphemism for disposing of a subject after a failed or rejected Correction — *janitorial* (erasing a mistake the institution made) rather than *preventive*, and so carefully distinguished from **termination** (which forestalls a psidolon). The MetaConcert's clean clinical word for cleaning up its own failures.
 

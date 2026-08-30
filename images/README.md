@@ -11,6 +11,12 @@ Character art and cards for *Psion: The Fraying*. Markdown files in the project 
 | `eve-taranis-vire.png` | Eve Taranis Vire — "The Anomaly" character card | `Eve.md` (top) |
 | `eve-parents-lyra-julian.png` | Lyra Taranis & Julian Vire — "The Parents of Eve" card | `Eve.md` ("The Bloodline") |
 | `metaconcert-seven-circuits.png` | The MetaConcert — Seven Circuits infographic poster | `The MetaConcert - Overview.md` (top) |
+| `Marcus and Leah/Verbena.png` | Leah — ordinary Verbena presentation | `Leah.md` (top) |
+| `Marcus and Leah/Verbena2.png` | Leah performing a blood rite | `Leah.md` ("Appearance") |
+| `Marcus and Leah/Leah and Marcus planting.png` | Marcus and Leah planting together | `Leah.md` ("The Job") |
+| `Marcus and Leah/Marcus and Preggo Leah.png` | Marcus and Leah expecting a child — authored future | `Leah.md` ("The Authored Future") |
+| `Marcus and Leah/Thiel Family Breakfast.png` | The Thiel family — authored future | `Leah.md` ("The Authored Future") |
+| `Marcus and Leah/Old Farts still in love.png` | Marcus and Leah in old age — authored future | `Leah.md` ("The Authored Future") |
 
 *All cards are illustrative reference art, not rules text. Where a card shows a stat block, the doc text remains the canonical source.*
 
@@ -48,5 +54,5 @@ your disk. That is accepted, and re-adding the PNGs is not the fix.
 above is unchanged — save finalized images with the exact filenames listed, and if you change one,
 change it in the referencing doc, in this table, and then `./sync_art.sh push --yes`.
 
-*Not yet in the table above: `panopticon.png`, and the three `rachel-moreno` iterations (`.png`,
-`-v2`, `-v3`), which are in B2 but embedded nowhere yet.*
+*The table lists embedded assets only. `panopticon.png` and the remaining studies in
+`Marcus and Leah/` are currently embedded nowhere.*

@@ -1,12 +1,12 @@
 # Other Hands
 
-*The eleventh of the* Memories *— illustrative fiction for Psion: The Fraying, not rules. Marcus Thiel, in his own voice. See [the cycle index](00%20-%20Marcus%20Thiel%20-%20Story%20Arc.md).*
+*The twelfth of the* Memories *— illustrative fiction for Psion: The Fraying, not rules. Marcus Thiel, in his own voice. See [the cycle index](00%20-%20Marcus%20Thiel%20-%20Story%20Arc.md).*
 
 ---
 
-Once, on the worst night of my training, I cut the lattice out of my own skull alone in the dark, and told myself afterward that whatever I did from then on, I would do with my own hands. It was the proudest and stupidest vow I ever made. It held right up until I learned that my own death would take my sister with it — and that the one thing I could not do alone had become the only thing I was permitted to do at all.
+Once, on the worst night of my training, I cut the lattice out of my own skull alone in the dark, and told myself afterward that whatever I did from then on, I would do with my own hands. It was the proudest and stupidest vow I ever made. It held right up until I learned that my own death could tear away my sister's Fetter and cast her into a Harrowing — and that the one thing I could not do alone had become the only thing I was permitted to do at all.
 
-I cannot unmake the creature by myself anymore. The unmaking is slow; it leaves me open every second of it; and the one mind in the world it still wants is mine. Alone, I die doing it, and if I die, Elena goes out like a snuffed wick. So for the first time since I was twelve years old and a kind woman with a lanyard taught me what trusting an institution costs, I had to put my life in other hands.
+I cannot unmake the creature by myself anymore. The unmaking is slow; it leaves me open every second of it; and the one mind in the world it still wants is mine. Alone, I die doing it, and if I die, Elena loses her Fetter and falls into a Harrowing she may not survive. Vale was careful about the word *may.* I refuse to make my sister live or die inside that word. So for the first time since I was twelve years old and a kind woman with a lanyard taught me what trusting an institution costs, I had to put my life in other hands.
 
 I went to find the two pairs that could not be taken from me.
 

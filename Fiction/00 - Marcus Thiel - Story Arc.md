@@ -12,7 +12,7 @@ It is **not a paper diary** — Marcus is far too careful to leave one lying whe
 
 **The titles are his.** They are how *Marcus* files each memory — by its felt weight, not an editor's restraint. "The Night the World Ended" is not melodrama; it is the honest label that memory carries for him. From his side, the world did end that night.
 
-**This cycle commits to the "Fetter" telling** — Elena survived as a wraith; Marcus is her anchor. In the docs this is "very likely / open"; here it is true, because it's the version that lands. Committing to the reveal doesn't *close* the ending; it *sharpens* it. *(See [Psidolons — Where the Souls Go](../Psidolons%20-%20The%20Untethered.md); [Cross-Splat Edge Cases](../Cross-Splat%20Edge%20Cases.md).)*
+**This cycle commits to the "Fetter" telling** — Elena survived as a wraith; Marcus himself is her anchor. The nightly ritual expresses that bond but is not the Fetter and does not need to be performed to keep it intact. In the toolkit docs the bond is "very likely / open"; here it is true, because it is the version that lands. Committing to the reveal doesn't *close* the ending; it *sharpens* it. *(See [Psidolons — Where the Souls Go](../Psidolons%20-%20The%20Untethered.md); [Cross-Splat Edge Cases](../Cross-Splat%20Edge%20Cases.md).)*
 
 ## Voice & craft
 
@@ -36,13 +36,14 @@ It is **not a paper diary** — Marcus is far too careful to leave one lying whe
 | 08 | **The Ice Queen** *(first meeting, Isolde)* | Marcus | ✅ written |
 | 09a | **What I Came to Say** *(the night, his side)* | Marcus (1st) | ✅ written |
 | 09b | **Excavation** *(the same night, her side)* | Isolde (3rd) | ✅ written |
-| 10 | **Still There** *(the Euthanatos — detonates the ritual, and the record itself)* | Marcus | ✅ written *(the Sluagh who sends him to Vale is secretly [Dreambound](../The%20Dreambound.md) — canonized retroactively; see [Marcus_Thiel.md](../Marcus_Thiel.md), "The Changelings")* |
-| 11 | **Other Hands** *(the ask + the planning)* | Marcus | ✅ written |
-| 12 | **Eradication** *(the final blow; his armor-word)* | Marcus | ✅ written |
+| 10 | **Room and Board** *(Leah — the house, the work, and the leaving)* | Marcus | ✅ written |
+| 11 | **Still There** *(the Euthanatos — detonates the ritual, and the record itself)* | Marcus | ✅ written *(the Sluagh who sends him to Vale is secretly [Dreambound](../The%20Dreambound.md) — canonized retroactively; see [Marcus_Thiel.md](../Marcus_Thiel.md), "The Changelings")* |
+| 12 | **Other Hands** *(the ask + the planning)* | Marcus | ✅ written |
+| 13 | **Eradication** *(the final blow; his armor-word)* | Marcus | ✅ written |
 
-***Cycle complete — 12/12 written.*** **The chosen ending:** Marcus *survives* (the psidolon can't take him — the locked house holds; the fail-safes go unused). He unmakes it via Memory erasure, and reading down to its first memory reveals it was a **deliberate Cult product** — he keeps that origin-memory the way he kept Elena. Elena's body ends vacant (canon); her soul, freed of the usurper, stays anchored because he lived — bittersweet, not resurrection, with a grace note that he may now finally *reach* her through Vale. The record **ends on the Cult cliffhanger** (they make these on purpose; they're *people;* his clean-hands eradication logic doesn't apply; what does he do?) — closure on the psidolon, the Cult thread left open. *(This is the **fiction's** telling; per the frame, the setting docs keep Marcus's arc open — STs can run a different ending.)*
+***Cycle complete — 13/13 written.*** **The chosen ending:** Marcus *survives* (the psidolon can't take him — the locked house holds; the fail-safes go unused). He unmakes it via Memory erasure, and reading down to its first memory reveals it was a **deliberate Cult product** — he keeps that origin-memory the way he kept Elena. Elena's body ends vacant (canon); her soul, freed of the usurper, stays anchored to Marcus because he lived — bittersweet, not resurrection, with a grace note that he may now finally *reach* her through Vale. The record **ends on the Cult cliffhanger** (they make these on purpose; they're *people;* his clean-hands eradication logic doesn't apply; what does he do?) — closure on the psidolon, the Cult thread left open. In the canonical later epilogue he returns to Leah Mercer, builds a life with her, relinquishes the nightly reconstruction without ceasing to love Elena, and Elena eventually chooses to resolve him as her Fetter. *(This is the **fiction's** telling; per the frame, the setting docs keep Marcus's arc open — STs can run a different ending.)*
 
-*Title notes: the first-person frame validates the emotional titles (and rehabilitates 01 "The Night the World Ended" and 08 "The Ice Queen" as his subjective labels). Changed from earlier drafts — 10 "Fetters" → **"Still There"** (in his head the label is "she's alive," not the Wraith term he's just learned); 12 "Final Confrontation" → **"Eradication"** (his clinical armor-word). New penultimate chapter inserted: **11 "Other Hands"** (the ask + planning). 04 **Strays** implicates him too; 06/07 are the Railroad/Eve pair (see below).*
+*Title notes: the first-person frame validates the emotional titles (and rehabilitates 01 "The Night the World Ended" and 08 "The Ice Queen" as his subjective labels). **10 "Room and Board"** is Marcus's transparent accounting fiction for the first place he wants to remain. Changed from earlier drafts — 11 "Fetters" → **"Still There"** (in his head the label is "she's alive," not the Wraith term he's just learned); 13 "Final Confrontation" → **"Eradication"** (his clinical armor-word). The penultimate chapter is **12 "Other Hands"** (the ask + planning). 04 **Strays** implicates him too; 06/07 are the Railroad/Eve pair (see below).*
 
 ## Chapters 06–07: the Railroad / Eve pair
 
@@ -51,7 +52,7 @@ Two chapters, **breaking exactly on the hinge.** **06 "Saved"** is the Projects 
 - **Intro device for Eve:** Marcus, the man who reads everyone, meets the **one mind he cannot read** (immune to Intrusion; reads "wrong" to Detection). His bafflement *is* the introduction — and it foreshadows the endgame (the mind he can't read is the mind the psidolon can't take).
 - **Resonance (06):** the caern is full of *saved children* — what Railroad does. Marcus (unsaveable; the institution got him first) walks through the proof of salvation and meets Eve, the other unslottable one. Two un-saveable people in a place built for saving.
 - **Why two chapters, not one:** it serves both wants (a Projects chapter *and* an Eve debut), each register gets to breathe, and Eve gets her own chapter rather than debuting as someone else's epilogue.
-- **Structural payoff:** Eve introduced here (mid-cycle) gives the relationship runway, so the **ask** lands as its own chapter — **11 "Other Hands"** (the cycle's emotional climax); the finale (**12 "Eradication"**) is the kill. (Rebel, if wanted, can circle in a line elsewhere.)
+- **Structural payoff:** Eve introduced here (mid-cycle) gives the relationship runway, so the **ask** lands as its own chapter — **12 "Other Hands"** (the cycle's emotional climax); the finale (**13 "Eradication"**) is the kill. (Rebel, if wanted, can circle in a line elsewhere.)
 
 ## The diptych (09a / 09b)
 
@@ -63,13 +64,20 @@ Excavation is the one entry told from **outside** Marcus — because a memoir ca
 
 **Form mirrors character.** Isolde's half stays **third-person limited** — anchored to her, but held at her own cold arm's length. First-person would be wrong for a 400-year-old Ventrue who has spent centuries *not* looking at her oldest memories (a psidolon once tore one open against her will; distance is both her armor and her wound). Marcus's half is **first-person,** like the rest of the cycle. So the diptych's two halves are formally opposite — warm intimate memoir vs. cold observed remove — which is the "one power, opposite faces" contrast rendered as prose form: he *preserves* memory; she *flinches* from it.
 
+## Chapter 10: Room and Board
+
+The Leah entry belongs immediately before **Still There**. Doreen's referral grows naturally out of **Strays**, while Cherub's call repays the network established in **Clear Terms** and returns Marcus to the main hunt. More importantly, the house gives the reader something the Euthanatos revelation can force Marcus to survive *for* before he consciously understands that it matters.
+
+Leah's lack of Mind is thematic, not a deficit. Marcus can enter a memory and still misunderstand its owner; Leah can leave every mental door closed and understand a person through attention, honesty, and ordinary human empathy. At the departure she admits that she does not want him to go, but refuses to make that desire into a chain: **go, finish it** — with **then come home to me** left unsaid because Marcus is not yet able to promise it.
+
 ## The refrain — the nightly ritual
 
 - **Seed (01):** raw, involuntary — a boy holding a face that's already slipping.
 - **Home (02):** the disciplined ritual is born from the Correction. The world erased her; he becomes her sole archive. Defiance, not therapy.
 - **Recur (04–06):** a few lines each, the same core images, so the reader feels ten years of it.
-- **Detonate (08):** revealed as life-support. Recolors every prior entry — and the record itself becomes part of the anchoring.
-- **Close:** the arc's last image is *what happens to the ritual.* If he lives, it transforms; if he dies, it stops, and she fades. The book can end on the night no one holds her face.
+- **Witness (10):** Leah sees the ritual without entering it or competing with Elena. The house becomes the first place where remembrance and ordinary life occupy the same night.
+- **Detonate (11):** Marcus learns that *he* is Elena's Fetter and mistakes the ritual for life-support. The emotional misreading recolors every prior entry even though the ritual is not mechanically sustaining her.
+- **Close:** the arc's last image is *what happens to the ritual.* The cycle itself ends while Marcus still understands survival as the chance to keep Elena and perhaps reach her. The canonical Leah epilogue completes the transformation: she never tells him to let Elena go, but life beside a healer teaches him that a scar remembers an injury without remaining an open wound. He gradually stops the exact nightly reconstruction and discovers that Elena remains loved and anchored to him after vigilance ends. The realization and choice are his, not Leah's prescription. His death would destroy a Fetter and risk throwing Elena into a dangerous Harrowing, not make her automatically fade; by living, he gives both of them time to release the bond deliberately.
 
 ## The endgame
 

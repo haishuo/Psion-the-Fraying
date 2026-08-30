@@ -1,6 +1,6 @@
 # Eradication
 
-*The twelfth and last of the* Memories *— illustrative fiction for Psion: The Fraying, not rules. Marcus Thiel, in his own voice. See [the cycle index](00%20-%20Marcus%20Thiel%20-%20Story%20Arc.md).*
+*The thirteenth and last of the* Memories *— illustrative fiction for Psion: The Fraying, not rules. Marcus Thiel, in his own voice. See [the cycle index](00%20-%20Marcus%20Thiel%20-%20Story%20Arc.md).*
 
 ---
 

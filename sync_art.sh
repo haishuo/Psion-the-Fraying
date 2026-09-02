@@ -26,6 +26,9 @@ PATTERNS=(--include "*.png" --include "*.jpg" --include "*.jpeg" --include "*.we
 action="${1:-status}"
 dry=(--dry-run)
 [[ "${2:-}" == "--yes" ]] && dry=()
+# Expand $dry as ${dry[@]+...}: under `set -u`, macOS's stock bash 3.2 treats
+# "${dry[@]}" on an empty array as an unbound variable and aborts. Bash >= 4.4
+# does not, so this only bites on a Mac without a newer bash installed.
 
 command -v rclone >/dev/null || { echo "rclone not found. brew install rclone" >&2; exit 1; }
 
@@ -65,12 +68,12 @@ case "$action" in
   push)
     if [[ "$local_count" == "0" ]]; then echo "No local images to push."; exit 0; fi
     [[ ${#dry[@]} -gt 0 ]] && echo "DRY RUN — add --yes to apply."
-    rclone copy "${dry[@]}" "${PATTERNS[@]}" --progress . "$REMOTE"
+    rclone copy ${dry[@]+"${dry[@]}"} "${PATTERNS[@]}" --progress . "$REMOTE"
     ;;
   pull)
     if [[ "$remote_count" == "0" ]]; then echo "Nothing in B2 under $PREFIX to pull."; exit 0; fi
     [[ ${#dry[@]} -gt 0 ]] && echo "DRY RUN — add --yes to apply."
-    rclone copy "${dry[@]}" "${PATTERNS[@]}" --progress "$REMOTE" .
+    rclone copy ${dry[@]+"${dry[@]}"} "${PATTERNS[@]}" --progress "$REMOTE" .
     ;;
   *)
     echo "Usage: $0 {status|push|pull|verify} [--yes]" >&2

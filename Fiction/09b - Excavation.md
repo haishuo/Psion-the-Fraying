@@ -1,6 +1,6 @@
 # Excavation
 
-*Companion fiction for Psion: The Fraying — not rules, not required reading. It illustrates two things the canon states more drily: what a psidolon can do to a Kindred mind ("Exposure Without Infection," in [Psidolons — The Untethered](../Psidolons%20-%20The%20Untethered.md)), and the alliance between [Marcus Thiel](../Marcus_Thiel.md) and the Ventrue Isolde. The night he tells her it lived.*
+*Companion fiction for Psion: The Fraying — not rules, not required reading. It illustrates two things the canon states more drily: what a psidolon can do to a Kindred mind ("Exposure Without Infection," in [Psidolons — The Untethered](../Setting/Psidolons%20-%20The%20Untethered.md)), and the alliance between [Marcus Thiel](../People/Marcus%20Thiel.md) and the Ventrue Isolde. The night he tells her it lived.*
 
 ---
 
@@ -90,4 +90,4 @@ Neither of them knew — neither could have known — that the art his people wo
 
 ---
 
-*See also: [Marcus Thiel](../Marcus_Thiel.md) · [Psidolons — The Untethered](../Psidolons%20-%20The%20Untethered.md) · [The Interred](../The%20Interred.md) · [Baltimore — The Cloister and the Clinic](../Baltimore%20-%20The%20Cloister%20and%20the%20Clinic.md)*
+*See also: [Marcus Thiel](../People/Marcus%20Thiel.md) · [Psidolons — The Untethered](../Setting/Psidolons%20-%20The%20Untethered.md) · [The Interred](../Setting/The%20Interred.md) · [Baltimore — The Cloister and the Clinic](../Setting/Baltimore%20-%20The%20Cloister%20and%20the%20Clinic.md)*

@@ -1,6 +1,6 @@
 # Memories — the Marcus Thiel Cycle
 
-*Planning document and index. Everything here is **illustrative fiction, not rules.** "Memories" tells* one *version of Marcus's story; the setting deliberately keeps his arc open (see [Marcus Thiel — "Possible Directions"](../Marcus_Thiel.md)). The fiction commits; the toolkit doesn't.*
+*Planning document and index. Everything here is **illustrative fiction, not rules.** "Memories" tells* one *version of Marcus's story; the setting deliberately keeps his arc open (see [Marcus Thiel — "Possible Directions"](../People/Marcus%20Thiel.md)). The fiction commits; the toolkit doesn't.*
 
 ---
 
@@ -12,7 +12,7 @@ It is **not a paper diary** — Marcus is far too careful to leave one lying whe
 
 **The titles are his.** They are how *Marcus* files each memory — by its felt weight, not an editor's restraint. "The Night the World Ended" is not melodrama; it is the honest label that memory carries for him. From his side, the world did end that night.
 
-**This cycle commits to the "Fetter" telling** — Elena survived as a wraith; Marcus himself is her anchor. The nightly ritual expresses that bond but is not the Fetter and does not need to be performed to keep it intact. In the toolkit docs the bond is "very likely / open"; here it is true, because it is the version that lands. Committing to the reveal doesn't *close* the ending; it *sharpens* it. *(See [Psidolons — Where the Souls Go](../Psidolons%20-%20The%20Untethered.md); [Cross-Splat Edge Cases](../Cross-Splat%20Edge%20Cases.md).)*
+**This cycle commits to the "Fetter" telling** — Elena survived as a wraith; Marcus himself is her anchor. The nightly ritual expresses that bond but is not the Fetter and does not need to be performed to keep it intact. In the toolkit docs the bond is "very likely / open"; here it is true, because it is the version that lands. Committing to the reveal doesn't *close* the ending; it *sharpens* it. *(See [Psidolons — Where the Souls Go](../Setting/Psidolons%20-%20The%20Untethered.md); [Cross-Splat Edge Cases](../Setting/Cross-Splat%20Edge%20Cases.md).)*
 
 ## Voice & craft
 
@@ -37,7 +37,7 @@ It is **not a paper diary** — Marcus is far too careful to leave one lying whe
 | 09a | **What I Came to Say** *(the night, his side)* | Marcus (1st) | ✅ written |
 | 09b | **Excavation** *(the same night, her side)* | Isolde (3rd) | ✅ written |
 | 10 | **Room and Board** *(Leah — the house, the work, and the leaving)* | Marcus | ✅ written |
-| 11 | **Still There** *(the Euthanatos — detonates the ritual, and the record itself)* | Marcus | ✅ written *(the Sluagh who sends him to Vale is secretly [Dreambound](../The%20Dreambound.md) — canonized retroactively; see [Marcus_Thiel.md](../Marcus_Thiel.md), "The Changelings")* |
+| 11 | **Still There** *(the Euthanatos — detonates the ritual, and the record itself)* | Marcus | ✅ written *(the Sluagh who sends him to Vale is secretly [Dreambound](../Setting/The%20Dreambound.md) — canonized retroactively; see [Marcus Thiel](../People/Marcus%20Thiel.md), "The Changelings")* |
 | 12 | **Other Hands** *(the ask + the planning)* | Marcus | ✅ written |
 | 13 | **Eradication** *(the final blow; his armor-word)* | Marcus | ✅ written |
 
@@ -93,8 +93,8 @@ Friction, one-directional — **all from Isolde,** not jealousy. Three roots: **
 
 ## See also
 
-- [Marcus Thiel](../Marcus_Thiel.md) — the character; "Isolde — the exception"; "Possible Directions."
-- [Eve Taranis Vire](../Eve.md)
-- [Psidolons — The Untethered](../Psidolons%20-%20The%20Untethered.md) — "Where the Souls Go."
-- [Cross-Splat Edge Cases](../Cross-Splat%20Edge%20Cases.md)
-- [The Interred](../The%20Interred.md) — what neither Marcus nor Isolde knows.
+- [Marcus Thiel](../People/Marcus%20Thiel.md) — the character; "Isolde — the exception"; "Possible Directions."
+- [Eve Taranis Vire](../People/Eve.md)
+- [Psidolons — The Untethered](../Setting/Psidolons%20-%20The%20Untethered.md) — "Where the Souls Go."
+- [Cross-Splat Edge Cases](../Setting/Cross-Splat%20Edge%20Cases.md)
+- [The Interred](../Setting/The%20Interred.md) — what neither Marcus nor Isolde knows.
